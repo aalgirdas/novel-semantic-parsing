@@ -1,0 +1,1056 @@
+[{
+  "_id": {
+    "$oid": "60d4286642502fc3f5baa817"
+  },
+  "rec_id": 2,
+  "sentence": "Mr. Sherlock Holmes, who was usually very late in the mornings, save upon those not infrequent occasions when he was up all night, was seated at the breakfast table.",
+  "chapter_nr": 1,
+  "paragraph_nr": 2,
+  "sentence_nr": 1,
+  "it_is_dialogue": 0,
+  "words": [
+    {
+      "rec_id": 4,
+      "word_id": 1,
+      "word": "Mr.",
+      "lemma": "Mr.",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 5,
+      "word_id": 2,
+      "word": "Sherlock",
+      "lemma": "Sherlock",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 6,
+      "word_id": 3,
+      "word": "Holmes",
+      "lemma": "Holmes",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 7,
+      "word_id": 4,
+      "word": ",",
+      "lemma": ",",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 8,
+      "word_id": 5,
+      "word": "who",
+      "lemma": "who",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 9,
+      "word_id": 6,
+      "word": "was",
+      "lemma": "be",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 10,
+      "word_id": 7,
+      "word": "usually",
+      "lemma": "usually",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 11,
+      "word_id": 8,
+      "word": "very",
+      "lemma": "very",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 12,
+      "word_id": 9,
+      "word": "late",
+      "lemma": "late",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 13,
+      "word_id": 10,
+      "word": "in",
+      "lemma": "in",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 14,
+      "word_id": 11,
+      "word": "the",
+      "lemma": "the",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 15,
+      "word_id": 12,
+      "word": "mornings",
+      "lemma": "morning",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 16,
+      "word_id": 13,
+      "word": ",",
+      "lemma": ",",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 17,
+      "word_id": 14,
+      "word": "save",
+      "lemma": "save",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 18,
+      "word_id": 15,
+      "word": "upon",
+      "lemma": "upon",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 19,
+      "word_id": 16,
+      "word": "those",
+      "lemma": "those",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 20,
+      "word_id": 17,
+      "word": "not",
+      "lemma": "not",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 21,
+      "word_id": 18,
+      "word": "infrequent",
+      "lemma": "infrequent",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 22,
+      "word_id": 19,
+      "word": "occasions",
+      "lemma": "occasion",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 23,
+      "word_id": 20,
+      "word": "when",
+      "lemma": "when",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 24,
+      "word_id": 21,
+      "word": "he",
+      "lemma": "he",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 25,
+      "word_id": 22,
+      "word": "was",
+      "lemma": "be",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 26,
+      "word_id": 23,
+      "word": "up",
+      "lemma": "up",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 27,
+      "word_id": 24,
+      "word": "all",
+      "lemma": "all",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 28,
+      "word_id": 25,
+      "word": "night",
+      "lemma": "night",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 29,
+      "word_id": 26,
+      "word": ",",
+      "lemma": ",",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 30,
+      "word_id": 27,
+      "word": "was",
+      "lemma": "be",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 31,
+      "word_id": 28,
+      "word": "seated",
+      "lemma": "seat",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 32,
+      "word_id": 29,
+      "word": "at",
+      "lemma": "at",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 33,
+      "word_id": 30,
+      "word": "the",
+      "lemma": "the",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 34,
+      "word_id": 31,
+      "word": "breakfast",
+      "lemma": "breakfast",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 35,
+      "word_id": 32,
+      "word": "table",
+      "lemma": "table",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 36,
+      "word_id": 33,
+      "word": ".",
+      "lemma": ".",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    }
+  ],
+  "predicates": [
+    {
+      "verb_id": 4,
+      "verb": "seated",
+      "word_id": 28,
+      "verb_type": "NoMotion",
+      "verb_WN": "seat%2:35:00::",
+      "frame": "Posture",
+      "arguments": [
+        {
+          "tag": "ARG1",
+          "phrase": " Mr. Sherlock Holmes , who was usually very late in the mornings , save upon those not infrequent occasions when he was up all night ,",
+          "ftype": "Agent",
+          "object_name": "Sherlock Holmes",
+          "object_type": "Human",
+          "governor_word": "Holmes",
+          "governor_WN": "holmes%1:18:00::",
+          "WebotsClass_srl": "Physical"
+        },
+        {
+          "tag": "ARG2",
+          "phrase": " at the breakfast table",
+          "ftype": "Location",
+          "object_name": "table",
+          "object_type": "Furniture",
+          "governor_word": "table",
+          "governor_WN": "table%1:06:02::",
+          "WebotsClass_srl": "Physical"
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60d4286642502fc3f5baa818"
+  },
+  "rec_id": 3,
+  "sentence": "I stood upon the hearth-rug and picked up the stick which our visitor had left behind him the night before.",
+  "chapter_nr": 1,
+  "paragraph_nr": 2,
+  "sentence_nr": 2,
+  "it_is_dialogue": 0,
+  "words": [
+    {
+      "rec_id": 37,
+      "word_id": 1,
+      "word": "I",
+      "lemma": "I",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 38,
+      "word_id": 2,
+      "word": "stood",
+      "lemma": "stand",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 39,
+      "word_id": 3,
+      "word": "upon",
+      "lemma": "upon",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 40,
+      "word_id": 4,
+      "word": "the",
+      "lemma": "the",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 41,
+      "word_id": 5,
+      "word": "hearth-rug",
+      "lemma": "hearth-rug",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 42,
+      "word_id": 6,
+      "word": "and",
+      "lemma": "and",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 43,
+      "word_id": 7,
+      "word": "picked",
+      "lemma": "pick",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 44,
+      "word_id": 8,
+      "word": "up",
+      "lemma": "up",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 45,
+      "word_id": 9,
+      "word": "the",
+      "lemma": "the",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 46,
+      "word_id": 10,
+      "word": "stick",
+      "lemma": "stick",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 47,
+      "word_id": 11,
+      "word": "which",
+      "lemma": "which",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 48,
+      "word_id": 12,
+      "word": "our",
+      "lemma": "we",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 49,
+      "word_id": 13,
+      "word": "visitor",
+      "lemma": "visitor",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 50,
+      "word_id": 14,
+      "word": "had",
+      "lemma": "have",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 51,
+      "word_id": 15,
+      "word": "left",
+      "lemma": "leave",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 52,
+      "word_id": 16,
+      "word": "behind",
+      "lemma": "behind",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 53,
+      "word_id": 17,
+      "word": "him",
+      "lemma": "he",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 54,
+      "word_id": 18,
+      "word": "the",
+      "lemma": "the",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 55,
+      "word_id": 19,
+      "word": "night",
+      "lemma": "night",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 56,
+      "word_id": 20,
+      "word": "before",
+      "lemma": "before",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 57,
+      "word_id": 21,
+      "word": ".",
+      "lemma": ".",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    }
+  ],
+  "predicates": [
+    {
+      "verb_id": 0,
+      "verb": "stood",
+      "word_id": 2,
+      "verb_type": "NoMotion",
+      "verb_WN": "stand%2:35:00::",
+      "frame": "Posture",
+      "arguments": [
+        {
+          "tag": "ARG1",
+          "phrase": " I",
+          "ftype": "Agent",
+          "object_name": "Dr. Watson",
+          "object_type": "PER",
+          "governor_word": null,
+          "governor_WN": null,
+          "WebotsClass_srl": "Physical"
+        },
+        {
+          "tag": "ARG2",
+          "phrase": " upon the hearth - rug",
+          "ftype": "Location",
+          "object_name": "hearth-rug",
+          "object_type": "Artifact",
+          "governor_word": "hearth-rug",
+          "governor_WN": "rug%1:06:00::",
+          "WebotsClass_srl": "Physical"
+        }
+      ]
+    },
+    {
+      "verb_id": 1,
+      "verb": "picked",
+      "word_id": 7,
+      "verb_type": "NoMotion",
+      "verb_WN": "pick%2:35:01::",
+      "frame": "Food_gathering",
+      "arguments": [
+        {
+          "tag": "ARG0",
+          "phrase": " I",
+          "ftype": "Gatherer",
+          "object_name": "Dr. Watson",
+          "object_type": "PER",
+          "governor_word": null,
+          "governor_WN": null,
+          "WebotsClass_srl": "Physical"
+        },
+        {
+          "tag": "ARG1",
+          "phrase": " the stick which our visitor had left behind him the night before",
+          "ftype": "Crop",
+          "object_name": "stick",
+          "object_type": "notNER",
+          "governor_word": "stick",
+          "governor_WN": "stick%1:06:00::",
+          "WebotsClass_srl": "Physical"
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60d4286642502fc3f5baa819"
+  },
+  "rec_id": 4,
+  "sentence": "It was a fine, thick piece of wood, bulbous-headed, of the sort which is known as a",
+  "chapter_nr": 1,
+  "paragraph_nr": 2,
+  "sentence_nr": 3,
+  "it_is_dialogue": 0,
+  "words": [
+    {
+      "rec_id": 58,
+      "word_id": 1,
+      "word": "It",
+      "lemma": "it",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 59,
+      "word_id": 2,
+      "word": "was",
+      "lemma": "be",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 60,
+      "word_id": 3,
+      "word": "a",
+      "lemma": "a",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 61,
+      "word_id": 4,
+      "word": "fine",
+      "lemma": "fine",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 62,
+      "word_id": 5,
+      "word": ",",
+      "lemma": ",",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 63,
+      "word_id": 6,
+      "word": "thick",
+      "lemma": "thick",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 64,
+      "word_id": 7,
+      "word": "piece",
+      "lemma": "piece",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 65,
+      "word_id": 8,
+      "word": "of",
+      "lemma": "of",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 66,
+      "word_id": 9,
+      "word": "wood",
+      "lemma": "wood",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 67,
+      "word_id": 10,
+      "word": ",",
+      "lemma": ",",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 68,
+      "word_id": 11,
+      "word": "bulbous-headed",
+      "lemma": "bulbous-headed",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 69,
+      "word_id": 12,
+      "word": ",",
+      "lemma": ",",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 70,
+      "word_id": 13,
+      "word": "of",
+      "lemma": "of",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 71,
+      "word_id": 14,
+      "word": "the",
+      "lemma": "the",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 72,
+      "word_id": 15,
+      "word": "sort",
+      "lemma": "sort",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 73,
+      "word_id": 16,
+      "word": "which",
+      "lemma": "which",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 74,
+      "word_id": 17,
+      "word": "is",
+      "lemma": "be",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 75,
+      "word_id": 18,
+      "word": "known",
+      "lemma": "know",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 76,
+      "word_id": 19,
+      "word": "as",
+      "lemma": "as",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 77,
+      "word_id": 20,
+      "word": "a",
+      "lemma": "a",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    }
+  ],
+  "predicates": [
+    {
+      "verb_id": 0,
+      "verb": "was",
+      "word_id": 2,
+      "verb_type": "NoMotion",
+      "verb_WN": "be%2:42:03::",
+      "frame": "Representing",
+      "arguments": [
+        {
+          "tag": "ARG1",
+          "phrase": " It",
+          "ftype": null,
+          "object_name": "stick",
+          "object_type": "notNER",
+          "governor_word": null,
+          "governor_WN": null,
+          "WebotsClass_srl": null
+        },
+        {
+          "tag": "ARG2",
+          "phrase": " a fine , thick piece of wood , bulbous - headed , of the sort which is known as a",
+          "ftype": null,
+          "object_name": "fine",
+          "object_type": "",
+          "governor_word": "fine",
+          "governor_WN": "fine%5:00:00:thin:01",
+          "WebotsClass_srl": ""
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60d4286642502fc3f5baa81a"
+  },
+  "rec_id": 5,
+  "sentence": "\"Penang lawyer.\"",
+  "chapter_nr": 1,
+  "paragraph_nr": 2,
+  "sentence_nr": 4,
+  "it_is_dialogue": 0,
+  "words": [
+    {
+      "rec_id": 78,
+      "word_id": 1,
+      "word": "``",
+      "lemma": "``",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 79,
+      "word_id": 2,
+      "word": "Penang",
+      "lemma": "Penang",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 80,
+      "word_id": 3,
+      "word": "lawyer",
+      "lemma": "lawyer",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 81,
+      "word_id": 4,
+      "word": ".",
+      "lemma": ".",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 82,
+      "word_id": 5,
+      "word": "''",
+      "lemma": "''",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60d4286642502fc3f5baa81b"
+  },
+  "rec_id": 6,
+  "sentence": "Just under the head was a broad silver band nearly an inch across.",
+  "chapter_nr": 1,
+  "paragraph_nr": 2,
+  "sentence_nr": 5,
+  "it_is_dialogue": 0,
+  "words": [
+    {
+      "rec_id": 83,
+      "word_id": 1,
+      "word": "Just",
+      "lemma": "just",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 84,
+      "word_id": 2,
+      "word": "under",
+      "lemma": "under",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 85,
+      "word_id": 3,
+      "word": "the",
+      "lemma": "the",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 86,
+      "word_id": 4,
+      "word": "head",
+      "lemma": "head",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 87,
+      "word_id": 5,
+      "word": "was",
+      "lemma": "be",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 88,
+      "word_id": 6,
+      "word": "a",
+      "lemma": "a",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 89,
+      "word_id": 7,
+      "word": "broad",
+      "lemma": "broad",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 90,
+      "word_id": 8,
+      "word": "silver",
+      "lemma": "silver",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 91,
+      "word_id": 9,
+      "word": "band",
+      "lemma": "band",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 92,
+      "word_id": 10,
+      "word": "nearly",
+      "lemma": "nearly",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 93,
+      "word_id": 11,
+      "word": "an",
+      "lemma": "a",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 94,
+      "word_id": 12,
+      "word": "inch",
+      "lemma": "inch",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 95,
+      "word_id": 13,
+      "word": "across",
+      "lemma": "across",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    },
+    {
+      "rec_id": 96,
+      "word_id": 14,
+      "word": ".",
+      "lemma": ".",
+      "FN": "",
+      "FNa": "",
+      "WN": ""
+    }
+  ],
+  "predicates": [
+    {
+      "verb_id": 0,
+      "verb": "was",
+      "word_id": 5,
+      "verb_type": "NoMotion",
+      "verb_WN": "be%2:42:05::",
+      "frame": "Representing",
+      "arguments": [
+        {
+          "tag": "ARG1",
+          "phrase": " a broad silver band nearly an inch across",
+          "ftype": null,
+          "object_name": "band",
+          "object_type": "Artifact",
+          "governor_word": "band",
+          "governor_WN": "band%1:06:00::",
+          "WebotsClass_srl": "Physical"
+        },
+        {
+          "tag": "ARG2",
+          "phrase": " Just under the head",
+          "ftype": null,
+          "object_name": "head",
+          "object_type": "Physical",
+          "governor_word": "head",
+          "governor_WN": "head%1:08:00::",
+          "WebotsClass_srl": "Physical"
+        }
+      ]
+    }
+  ]
+}]
