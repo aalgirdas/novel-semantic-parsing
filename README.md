@@ -9,7 +9,7 @@ https://youtu.be/tl2sTSFBebU
 
 ## Motivation
 
-Coreference resolution is an important task for natural language understanding and the resolution of ambiguous pronouns a longstanding challenge.
+Creating 3D scenes using only natural language can be a challenging task. Animat-ing 3D scenes using natural language adds an additional level of complexity to this task. 
 Nonetheless, existing corpora do not capture ambiguous pronouns in sufficient volume or diversity to accurately indicate the practical utility of models.
 
 [Google AI Language's](https://ai.google/research/teams/language/) GAP dataset is an evaluation benchmark comprising 8,908 coreference-labeled pairs of (ambiguous pronoun, antecedent name), sampled from Wikipedia to provide diverse coverage of challenges posed by real-world text.
