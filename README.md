@@ -6,6 +6,9 @@ GAP is a gender-balanced dataset containing 8,908 coreference-labeled pairs of (
 
 http://goo.gl/language/gap-coreference
 
+https://youtu.be/tl2sTSFBebU
+
+
 ## Motivation
 
 Coreference resolution is an important task for natural language understanding and the resolution of ambiguous pronouns a longstanding challenge.
