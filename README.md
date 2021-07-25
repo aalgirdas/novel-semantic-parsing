@@ -1,6 +1,6 @@
 # Deep semantic parsing 
 
-This repository includes the code and dat related to the "Deep semantic parsing with upper ontologies" paper.
+This repository includes the code and data related to the **"Deep semantic parsing with upper ontologies"** paper.
 
 One-minute video to understand what it's all about.
 
