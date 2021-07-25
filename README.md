@@ -16,43 +16,35 @@ In this project we take a rather different approach. We explicitly focus on fict
 
 ## Dataset Description
 
-The GAP dataset release comprises three .tsv files, each with eleven columns.
+The SUMO SRL dataset release comprises two .json files: sentences.json and srl_physics.json.
 
 The files are:
- * **test** 4,000 pairs, to be used for official evaluation
- * **development** 4,000 pairs, may be used for model development
- * **validation** 908 pairs, may be used for parameter tuning
-
+ * **sentences.json** sentences
+ * **srl_physics.json** sentences that are anotated with labels PropBank, FrameNet, WordNet and SUMO SRL systems
+ 
 The columns contain:
 
-Column | Header         | Description
-:-----:|----------------|--------------------------------------------
-1      | ID             | Unique identifer for an example (two pairs)
-2      | Text           | Text containing the ambiguous pronoun and two candidate names. About a paragraph in length
-3      | Pronoun        | The pronoun, text
-4      | Pronoun-offset | Character offset of Pronoun in Column 2 (Text)
-5      | A ^            | The first name, text
-6      | A-offset       | Character offset of A in Column 2 (Text)
-7      | A-coref        | Whether A corefers with the pronoun, TRUE or FALSE
-8      | B ^            | The second name, text
-9      | B-offset       | Character offset of B in Column 2 (Text)
-10     | B-coref        | Whether B corefers with the pronoun, TRUE or FALSE
-11     | URL ^^         | The URL of the source Wikipedia page
+Column | Header                   | Description
+:-----:|----------------          |--------------------------------------------
+1      | rid                      | Unique identifer for an example 
+2      | sentence                 | Text from book 
+3      | it_is_OK                 | Marker that shows that anotations has been manually verified
+4      | chapter_nr               | Chapter number from the book
+5      | paragraph_nr             | Paragraph number. Starts from 1 for each chapter
+6      | sentence_nr              | Sentence number in the paragraph
+7      | it_is_dialogue           | Whether sentence belongs to dialog part or narator paer
+8      | verb_id                  | Vern number in the sentence
+9      | verb                     | Verb word
+10     | frame                    | FrameNet frame name
+11     | verb_WN                  | WordNet sysnset for the verb
+12     | WebotsClass_verb         | SUMO SRL label (can be Motion , InMotion or NoMotion)
+13     | WebotsClass_srl_ARG0     | SUMO SRL label for PropBank role ARG0
+13     | WebotsClass_srl_ARG1     | SUMO SRL label for PropBank role ARG1
+13     | WebotsClass_srl_ARG2     | SUMO SRL label for PropBank role ARG2
+
 
 ^ Please note that systems should detect mentions for inference automatically, and access labeled spans only to output predictions.
 
 ^^ Please also note that there are two task settings, *snippet-context* in which the URL column may **not** be used, and *page-context* where the URL, and the denoted Wikipedia page, may be used.
 
-## Benchmarks
 
-Performance on GAP may be benchmarked against the syntactic parallelism baseline from our above paper on the test set:
-
-Task Setting      | M    | F    |  B     | O
-:----------------:|------|------|--------|------
-*snippet-context* | 69.4 | 64.4 | *0.93* | 66.9
-*page-context*    | 72.3 | 68.8 | *0.95* | 70.6
-
-where the metrics are F1 score on **M**asculine and **F**eminine examples, **O**verall, and a **B**ias factor calculated as **F** / **M**.
-
-## Contact
-To contact us, please use gap-coreference@google.com
