@@ -1,6 +1,6 @@
-# novel-semantic-parsing
+# Deep semantic parsing 
 
-# GAP Coreference Dataset
+This repository includes the code and dat related to the ["Deep semantic parsing with upper ontologies"] paper.
 
 GAP is a gender-balanced dataset containing 8,908 coreference-labeled pairs of (ambiguous pronoun, antecedent name), sampled from Wikipedia and released by [Google AI Language](https://ai.google/research/teams/language/) for the evaluation of coreference resolution in practical applications.
 
