@@ -2,7 +2,7 @@
 
 This repository includes the code and data related to the **"Deep semantic parsing with upper ontologies"** paper.
 
-One-minute video to understand what it's all about.
+One-minute video to understand what it's all about (take a book text and generate a 3D scene ).
 
 https://youtu.be/tl2sTSFBebU
 
@@ -10,23 +10,9 @@ https://youtu.be/tl2sTSFBebU
 ## Motivation
 
 Creating 3D scenes using only natural language can be a challenging task. Animat-ing 3D scenes using natural language adds an additional level of complexity to this task. 
-Nonetheless, existing corpora do not capture ambiguous pronouns in sufficient volume or diversity to accurately indicate the practical utility of models.
+And yet, over the past 50 years, starting with the pioneering work on the SHRDLU system there were many systems that have attempted to manipulate computer graphics objects using natural language. Many of these systems accept few sentences as input and try to identify physical objects that are relevant to the 3D scene. Systems such as SceneSeer leverage spatial knowledge priors to infer implicit constraints and resolve spatial relations.
 
-[Google AI Language's](https://ai.google/research/teams/language/) GAP dataset is an evaluation benchmark comprising 8,908 coreference-labeled pairs of (ambiguous pronoun, antecedent name), sampled from Wikipedia to provide diverse coverage of challenges posed by real-world text.
-Importantly, GAP is gender-balanced to address the gender bias in coreference systems noted in our and other's analysis.
-
-More details are available in [our paper](https://arxiv.org/abs/1810.05201) (which should be cited if you use or discuss GAP in your work):
-
-</p>
-<div class="highlight highlight-source-shell"><pre>
-@inproceedings{webster2018gap,
-  title =     {Mind the GAP: A Balanced Corpus of Gendered Ambiguou},
-  author =    {Webster, Kellie and Recasens, Marta and Axelrod, Vera and Baldridge, Jason},
-  booktitle = {Transactions of the ACL},
-  year =      {2018},
-  pages =     {to appear},
-}
-</pre></div>
+In this project we take a rather different approach. We explicitly focus on fiction books as input to our system. There are two reasons why we make emphasis on fiction books. For once, there is a complex world and rich semantic information that can be understood only by analyzing the long distance relations between text phrases and logical inference about salient objects in the scene. The second reason for us to focus on fiction was the gamification of the annotation process. It is much more fun to interact with a program about the meaning of the text in your favorite book than annotating long boring documents drafted by some administra-tive office. 
 
 ## Dataset Description
 
