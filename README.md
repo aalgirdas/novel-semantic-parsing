@@ -43,8 +43,8 @@ Column | Header                   | Description
 13     | WebotsClass_srl_ARG2     | SUMO SRL label for PropBank role ARG2
 
 
-^ Please note that systems should detect mentions for inference automatically, and access labeled spans only to output predictions.
+^ Please note that we are planning to change the data structure in future releases. 
 
-^^ Please also note that there are two task settings, *snippet-context* in which the URL column may **not** be used, and *page-context* where the URL, and the denoted Wikipedia page, may be used.
+^^ Also note that there are two types of entries, it_is_OK = 1 indicates that the record has been reviewed by a human editor and modified if necessary. We report the classification accuracy in the paper based on these records.
 
 
