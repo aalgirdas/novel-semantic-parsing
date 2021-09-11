@@ -53,11 +53,32 @@ Column | Header                   | Description
 SEMAFOR: is a tool for automatic analysis of the frame-semantic structure. https://github.com/Noahs-ARK/semafor-semantic-parser
 In the directory SEMAFOR_results there are three text files:
 
-      .| File name                           | Description
+Nr     | File name                           | Description
 :-----:|-------------------------------------|--------------------------------------------
 1      | SEMAFOR_frames.rpt                  | Unique identifer for an example 
 2      | SEMAFOR_sentences.rpt               | Text from book 
-3      | SEMAFOR_frames_annotations.rpt      | Marker that shows that anotations has been manually verified
+3      | SEMAFOR_frames_annotations.rpt      | Marker that shows that anotations has been manually verified 
 
+SEMAFOR_results
+
+The columns contain:
+
+Column | Header                   | Description
+:-----:|----------------          |--------------------------------------------
+1      | rid                      | Unique identifer for an example 
+2      | sentence                 | Text from book 
+3      | it_is_OK                 | Marker that shows that anotations has been manually verified
+4      | chapter_nr               | Chapter number from the book
+5      | paragraph_nr             | Paragraph number. Starts from 1 for each chapter
+6      | sentence_nr              | Sentence number in the paragraph
+7      | it_is_dialogue           | Whether sentence belongs to dialog part or narator paer
+8      | verb_id                  | Vern number in the sentence
+9      | verb                     | Verb word
+10     | frame                    | FrameNet frame name
+11     | verb_WN                  | WordNet sysnset for the verb
+12     | WebotsClass_verb         | SUMO SRL label (can be Motion , InMotion or NoMotion)
+13     | WebotsClass_srl_ARG0     | SUMO SRL label for PropBank role ARG0
+13     | WebotsClass_srl_ARG1     | SUMO SRL label for PropBank role ARG1
+13     | WebotsClass_srl_ARG2     | SUMO SRL label for PropBank role ARG2
 
 
