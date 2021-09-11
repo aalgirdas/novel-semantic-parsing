@@ -53,8 +53,8 @@ Column | Header                   | Description
 SEMAFOR: is a tool for automatic analysis of the frame-semantic structure. https://github.com/Noahs-ARK/semafor-semantic-parser
 In the directory SEMAFOR_results there are three text files:
 
-       | File name                           | Description
-:-----:|----------------                     |--------------------------------------------
+      .| File name                           | Description
+:-----:|-------------------------------------|--------------------------------------------
 1      | SEMAFOR_frames.rpt                  | Unique identifer for an example 
 2      | SEMAFOR_sentences.rpt               | Text from book 
 3      | SEMAFOR_frames_annotations.rpt      | Marker that shows that anotations has been manually verified
