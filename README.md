@@ -49,4 +49,6 @@ Column | Header                   | Description
 
 ## SEMAFOR results
 
+https://github.com/Noahs-ARK/semafor-semantic-parser
 
+SEMAFOR: Semantic Analysis of Frame Representations is a tool for automatic analysis of the frame-semantic structure of English text.
