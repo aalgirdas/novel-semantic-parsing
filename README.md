@@ -47,4 +47,6 @@ Column | Header                   | Description
 
 ^^ Also note that there are two types of entries, it_is_OK = 1 indicates that the record has been reviewed by a human editor and modified if necessary. We report the classification accuracy in the paper based on these records.
 
+## SEMAFOR results
+
 
