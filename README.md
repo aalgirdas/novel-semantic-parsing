@@ -9,7 +9,7 @@ https://youtu.be/tl2sTSFBebU
 
 ## Motivation
 
-Creating 3D scenes using only natural language can be a challenging task. Animat-ing 3D scenes using natural language adds an additional level of complexity to this task. 
+Creating 3D scenes using only natural language can be a challenging task. Animating 3D scenes using natural language adds an additional level of complexity to this task. 
 And yet, over the past 50 years, starting with the pioneering work on the SHRDLU system there were many systems that have attempted to manipulate computer graphics objects using natural language. Many of these systems accept few sentences as input and try to identify physical objects that are relevant to the 3D scene. Systems such as SceneSeer leverage spatial knowledge priors to infer implicit constraints and resolve spatial relations.
 
 In this project we take a rather different approach. We explicitly focus on fiction books as input to our system. There are two reasons why we make emphasis on fiction books. For once, there is a complex world and rich semantic information that can be understood only by analyzing the long distance relations between text phrases and logical inference about salient objects in the scene. The second reason for us to focus on fiction was the gamification of the annotation process. It is much more fun to interact with a program about the meaning of the text in your favorite book than annotating long boring documents drafted by some administra-tive office. 
