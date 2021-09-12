@@ -2,7 +2,13 @@
 
 This repository includes the code and data related to the **"Deep semantic parsing with upper ontologies"** paper.
 
-One-minute video to understand what it's all about (take a book text and generate a 3D scene ).
+
+## Example: 10 minute video.
+
+https://www.youtube.com/50ee1281-65c9-49bd-b9e2-fa449f00ce59
+
+
+## Old one-minute video to understand what it's all about (take a book text and generate a 3D scene ).
 
 https://youtu.be/tl2sTSFBebU
 
