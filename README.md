@@ -5,8 +5,7 @@ This repository includes the code and data related to the **"Deep semantic parsi
 
 ## Example: 10 minute video.
 
-https://www.youtube.com/50ee1281-65c9-49bd-b9e2-fa449f00ce59
-
+https://youtu.be/tl2sTSFBebU
 
 ## Old one-minute video to understand what it's all about (take a book text and generate a 3D scene ).
 
