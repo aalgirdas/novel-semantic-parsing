@@ -12,6 +12,11 @@ https://www.youtube.com/50ee1281-65c9-49bd-b9e2-fa449f00ce59
 
 https://youtu.be/tl2sTSFBebU
 
+## Related project 
+
+https://github.com/aalgirdas/Procedural-Generation-XML-to-Unity-3D
+
+ UNITY resource files that you can use to create a simple block world and animate it. Elements in an XML file are timestamped in seconds. The system clock starts after you hit the play button in the UNITY editor. It starts executing the ItemLoader.cs script.
 
 ## Motivation
 
