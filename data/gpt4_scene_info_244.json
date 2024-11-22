@@ -1,0 +1,2970 @@
+{
+    "9-27": [
+        {
+            "scene_title": "Meeting Stamford at the Criterion Bar",
+            "description": "Dr. Watson, after deciding to change his living arrangements due to financial constraints, encounters an old acquaintance, Stamford, at the Criterion Bar in London. They recognize each other and decide to have lunch together, discussing Watson's recent hardships and his current search for affordable lodgings.",
+            "scene_type": "INT",
+            "scene_date": "1878",
+            "location": "Criterion Bar, London",
+            "time_of_day": "NOON",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Dr. Watson",
+                "Stamford"
+            ],
+            "objects": [
+                "bar",
+                "wine-glass"
+            ],
+            "text_phrases": [
+                "standing at the Criterion Bar",
+                "tapped me on the shoulder",
+                "turning round I recognized young Stamford",
+                "asked him to lunch with me at the Holborn",
+                "we started off together in a hansom",
+                "rattled through the crowded London streets"
+            ]
+        },
+        {
+            "scene_title": "Conversation about Lodgings",
+            "description": "During lunch at the Holborn, Watson and Stamford discuss Watson's need for new lodgings. Stamford mentions another man, Sherlock Holmes, who is also looking for a roommate to share the expenses of some nice rooms he found.",
+            "scene_type": "INT",
+            "scene_date": "1878",
+            "location": "Holborn Restaurant, London",
+            "time_of_day": "NOON",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Dr. Watson",
+                "Stamford"
+            ],
+            "objects": [
+                "lunch table",
+                "wine-glass"
+            ],
+            "text_phrases": [
+                "lunch with me at the Holborn",
+                "you are the second man today that has used that expression to me",
+                "a fellow who is working at the chemical laboratory",
+                "could not get someone to go halves with him in some nice rooms",
+                "if he really wants someone to share the rooms and the expense, I am the very man for him"
+            ]
+        }
+    ],
+    "28-53": [
+        {
+            "scene_title": "Introduction to Sherlock Holmes",
+            "description": "Dr. Watson meets Sherlock Holmes for the first time in a chemical laboratory where Holmes is excitedly sharing his discovery of a new reagent for blood detection.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Chemical laboratory in a hospital",
+            "time_of_day": "AFTERNOON",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Dr. Watson",
+                "Sherlock Holmes",
+                "Stamford",
+                "Another student"
+            ],
+            "objects": [
+                "test-tube",
+                "Bunsen lamps",
+                "chemical pipette",
+                "bottles",
+                "tables",
+                "retorts",
+                "test-tubes"
+            ],
+            "text_phrases": [
+                "lofty chamber, lined and littered with countless bottles",
+                "Broad, low tables were scattered about, which bristled with retorts, test-tubes, and little Bunsen lamps",
+                "test-tube in his hand",
+                "chemical pipette",
+                "dull mahogany colour",
+                "brownish dust was precipitated to the bottom of the glass jar"
+            ]
+        }
+    ],
+    "54-80": [
+        {
+            "scene_title": "Holmes and Watson Discuss Their Habits",
+            "description": "Sherlock Holmes and Dr. John Watson discuss their personal habits and peculiarities as they consider becoming roommates.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Stamford's laboratory",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. John Watson",
+                "Stamford"
+            ],
+            "objects": [
+                "three-legged stool",
+                "chemicals",
+                "plaster"
+            ],
+            "text_phrases": [
+                "high three-legged stool",
+                "pushing another one in my direction with his foot",
+                "sticking a small piece of plaster over the prick on his finger",
+                "mottled over with similar pieces of plaster",
+                "discoloured with strong acids"
+            ]
+        },
+        {
+            "scene_title": "Holmes and Watson Agree to Share Rooms",
+            "description": "Sherlock Holmes and Dr. John Watson finalize their decision to share rooms at Baker Street after discussing their habits and ensuring they are compatible roommates.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Stamford's laboratory",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. John Watson"
+            ],
+            "objects": [
+                "chemicals",
+                "violin"
+            ],
+            "text_phrases": [
+                "I have my eye on a suite in Baker Street",
+                "you don\u2019t mind the smell of strong tobacco",
+                "I always smoke \u2018ship\u2019s\u2019 myself",
+                "I generally have chemicals about, and occasionally do experiments",
+                "Do you include violin-playing in your category of rows?"
+            ]
+        },
+        {
+            "scene_title": "Moving Into Baker Street",
+            "description": "Sherlock Holmes and Dr. John Watson move their belongings into their new shared apartment at 221B Baker Street.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "221B Baker Street",
+            "time_of_day": "EVENING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. John Watson"
+            ],
+            "objects": [
+                "boxes",
+                "portmanteaus",
+                "furniture"
+            ],
+            "text_phrases": [
+                "inspected the rooms at No. 221B, Baker Street",
+                "comfortable bed-rooms",
+                "single large airy sitting-room",
+                "cheerfully furnished",
+                "illuminated by two broad windows"
+            ]
+        }
+    ],
+    "81-93": [
+        {
+            "scene_title": "Curiosity and Conversation",
+            "description": "The narrator reflects on his curiosity about his mysterious companion, leading to a conversation where the companion reveals his selective knowledge acquisition philosophy.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Narrator's living room",
+            "time_of_day": "EVENING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Narrator",
+                "Companion"
+            ],
+            "objects": [
+                "Armchair",
+                "Fiddle"
+            ],
+            "text_phrases": [
+                "hopeless busybody",
+                "stimulated my curiosity",
+                "reticence which he showed",
+                "little mystery which hung around my companion",
+                "man\u2019s brain originally is like a little empty attic",
+                "useless facts elbowing out the useful ones"
+            ]
+        },
+        {
+            "scene_title": "Holmes's Knowledge and Ignorance",
+            "description": "The narrator lists out the areas of knowledge and ignorance of his companion, Sherlock Holmes, reflecting on the peculiarities of his expertise.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Narrator's study",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Narrator"
+            ],
+            "objects": [
+                "Pencil",
+                "Paper",
+                "Fireplace"
+            ],
+            "text_phrases": [
+                "His ignorance was as remarkable as his knowledge",
+                "extraordinary fact",
+                "man\u2019s brain originally is like a little empty attic",
+                "SHERLOCK HOLMES\u2014his limits",
+                "document when I had completed it"
+            ]
+        },
+        {
+            "scene_title": "Holmes's Musical Solitude",
+            "description": "Sherlock Holmes plays the violin in a reflective and sometimes whimsical manner, showcasing his mood through music.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Holmes's living room",
+            "time_of_day": "EVENING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes"
+            ],
+            "objects": [
+                "Violin",
+                "Armchair"
+            ],
+            "text_phrases": [
+                "Leaning back in his arm-chair",
+                "scrape carelessly at the fiddle",
+                "chords were sonorous and melancholy",
+                "played in quick succession a whole series of my favourite airs"
+            ]
+        }
+    ],
+    "94-105": [
+        {
+            "scene_title": "A Variety of Visitors",
+            "description": "Sherlock Holmes receives various visitors in his sitting room, ranging from Mr. Lestrade to a fashionably dressed young girl, a seedy looking old man, and others, indicating the diverse nature of his clientele.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Sherlock Holmes' Sitting Room",
+            "time_of_day": "MORNING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. John Watson",
+                "Mr. Lestrade",
+                "Young girl",
+                "Grey-headed visitor",
+                "Elderly woman",
+                "White-haired gentleman",
+                "Railway porter"
+            ],
+            "objects": [
+                "Sitting room furniture",
+                "Bedroom door"
+            ],
+            "text_phrases": [
+                "sitting-room",
+                "Mr. Lestrade",
+                "young girl called, fashionably dressed",
+                "grey-headed, seedy visitor",
+                "slip-shod elderly woman",
+                "old white-haired gentleman",
+                "railway porter in his velveteen uniform"
+            ]
+        },
+        {
+            "scene_title": "Breakfast and a Dispute",
+            "description": "Dr. Watson finds Sherlock Holmes still at breakfast, leading to a discussion about an article Holmes wrote on deduction, which Watson initially criticizes.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Sherlock Holmes' Residence, Dining Area",
+            "time_of_day": "MORNING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. John Watson"
+            ],
+            "objects": [
+                "Breakfast table",
+                "Magazine",
+                "Egg spoon"
+            ],
+            "text_phrases": [
+                "Sherlock Holmes had not yet finished his breakfast",
+                "my coffee prepared",
+                "munched silently at his toast",
+                "magazine from the table",
+                "egg spoon",
+                "breakfast"
+            ]
+        }
+    ],
+    "106-129": [
+        {
+            "scene_title": "Holmes and Watson Discussing in the Room",
+            "description": "Sherlock Holmes and Dr. John Watson are in their shared living room, discussing Holmes' unique deductive abilities and comparing him to fictional detectives like Dupin and Lecoq.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Holmes and Watson's living room",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. John Watson"
+            ],
+            "objects": [
+                "pipe",
+                "window"
+            ],
+            "text_phrases": [
+                "Sherlock Holmes rose and lit his pipe",
+                "I walked over to the window"
+            ]
+        },
+        {
+            "scene_title": "The Arrival of the Commissionaire",
+            "description": "A commissionaire, formerly a sergeant of Marines, arrives at Holmes and Watson's residence with a letter for Sherlock Holmes, crossing the street and ascending the stairs to their room.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Holmes and Watson's residence",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. John Watson",
+                "Commissionaire"
+            ],
+            "objects": [
+                "large blue envelope",
+                "door",
+                "stairs"
+            ],
+            "text_phrases": [
+                "walking slowly down the other side of the street",
+                "large blue envelope in his hand",
+                "loud knock",
+                "heavy steps ascending the stair"
+            ]
+        }
+    ],
+    "130-160": [
+        {
+            "scene_title": "Holmes Deduces the Sergeant",
+            "description": "Sherlock Holmes explains to Dr. Watson how he deduced that a man was a retired sergeant of Marines based on his observations.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Holmes' Apartment",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. John Watson"
+            ],
+            "objects": [
+                "blue anchor tattoo",
+                "cane"
+            ],
+            "text_phrases": [
+                "great blue anchor tattooed on the back of the fellow\u2019s hand",
+                "military carriage",
+                "regulation side whiskers",
+                "held his head",
+                "swung his cane"
+            ]
+        },
+        {
+            "scene_title": "The Letter from Gregson",
+            "description": "Sherlock Holmes and Dr. Watson receive a letter from Tobias Gregson about a mysterious death at Lauriston Gardens.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Holmes' Apartment",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. John Watson"
+            ],
+            "objects": [
+                "letter",
+                "note"
+            ],
+            "text_phrases": [
+                "bad business during the night at 3, Lauriston Gardens",
+                "body of a gentleman, well dressed",
+                "marks of blood in the room",
+                "no wound upon his person"
+            ]
+        },
+        {
+            "scene_title": "Arrival at Lauriston Gardens",
+            "description": "Holmes and Watson arrive at Lauriston Gardens to investigate the scene of the crime.",
+            "scene_type": "EXT",
+            "scene_date": "1881",
+            "location": "Lauriston Gardens",
+            "time_of_day": "MORNING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. John Watson",
+                "police constable",
+                "loafers"
+            ],
+            "objects": [
+                "hansom cab",
+                "To Let card",
+                "brick wall"
+            ],
+            "text_phrases": [
+                "foggy, cloudy morning",
+                "dun-coloured veil hung over the house-tops",
+                "house at Lauriston Gardens",
+                "small garden",
+                "three-foot brick wall"
+            ]
+        }
+    ],
+    "161-184": [
+        {
+            "scene_title": "Holmes Inspects the Crime Scene",
+            "description": "Sherlock Holmes and Dr. Watson arrive at a crime scene where Holmes begins to inspect the surroundings and the body of the deceased. The room is stark, with a discolored ceiling and a grim atmosphere.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Dining room of a suburban London house",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. Watson",
+                "Gregson",
+                "Lestrade"
+            ],
+            "objects": [
+                "red wax candle",
+                "top hat",
+                "imitation white marble mantelpiece",
+                "flaring paper on walls",
+                "vacant sightless eyes of the deceased"
+            ],
+            "text_phrases": [
+                "large square room",
+                "absence of all furniture",
+                "blotched walls with mildew",
+                "showy fireplace",
+                "stump of a red wax candle",
+                "solitary window",
+                "thick layer of dust",
+                "vacant sightless eyes staring up",
+                "heavy broadcloth frock coat",
+                "well brushed and trim top hat",
+                "clenched hands",
+                "expression of horror and hatred",
+                "unnatural posture"
+            ]
+        },
+        {
+            "scene_title": "Holmes and Watson Meet Gregson and Lestrade",
+            "description": "Upon arriving at the house, Holmes and Watson are greeted by detectives Gregson and Lestrade, who discuss the peculiarities of the case.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Entrance of a suburban London house",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. Watson",
+                "Gregson",
+                "Lestrade"
+            ],
+            "objects": [
+                "notebook",
+                "pathway"
+            ],
+            "text_phrases": [
+                "tall, white-faced, flaxen-haired man",
+                "notebook in his hand",
+                "pathway messed by many footsteps",
+                "Gregson's self-satisfied manner",
+                "astonishment on Gregson's features"
+            ]
+        }
+    ],
+    "185-218": [
+        {
+            "scene_title": "The Examination of the Crime Scene",
+            "description": "Detectives and Sherlock Holmes examine the crime scene, discussing the evidence found on the body and in the room, including a woman's wedding ring and a mysterious word written on the wall.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Crime scene room",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Gregson",
+                "Lestrade",
+                "Sherlock Holmes",
+                "Four men with stretcher"
+            ],
+            "objects": [
+                "Stretcher",
+                "Wedding ring",
+                "Gold watch",
+                "Masonic ring",
+                "Bulldog pin",
+                "Russian leather card-case",
+                "Pocket edition of Boccaccio\u2019s Decameron",
+                "Letters",
+                "Candle",
+                "Magnifying glass",
+                "Tape measure"
+            ],
+            "text_phrases": [
+                "a ring tinkled down and rolled across the floor",
+                "a woman\u2019s wedding-ring",
+                "a litter of objects upon one of the bottom steps of the stairs",
+                "Gold watch, No. 97163, by Barraud, of London",
+                "Gold Albert chain, very heavy and solid",
+                "Gold ring, with masonic device",
+                "Gold pin\u2014bull-dog\u2019s head, with rubies as eyes",
+                "Russian leather card-case, with cards of Enoch J. Drebber",
+                "Pocket edition of Boccaccio\u2019s Decameron",
+                "Two letters\u2014one addressed to E. J. Drebber and one to Joseph Stangerson",
+                "the paper had fallen away in parts",
+                "a large piece had peeled off, leaving a yellow square of coarse plastering",
+                "scrawled in blood-red letters a single word\u2014RACHE",
+                "the candle on the mantelpiece",
+                "he whipped a tape measure and a large round magnifying glass from his pocket"
+            ]
+        }
+    ],
+    "219-241": [
+        {
+            "scene_title": "Holmes and Detectives Discuss the Case",
+            "description": "Sherlock Holmes discusses the details of a murder case with detectives Gregson and Lestrade, providing them with insights and observations about the murderer.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Sherlock Holmes' residence",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Detective Gregson",
+                "Detective Lestrade"
+            ],
+            "objects": [
+                "notebook",
+                "address"
+            ],
+            "text_phrases": [
+                "genius is an infinite capacity for taking pains",
+                "detective work",
+                "Gregson and Lestrade",
+                "smallest actions",
+                "definite and practical end",
+                "robbing you of the credit",
+                "world of sarcasm",
+                "constable who found the body",
+                "John Rance",
+                "46, Audley Court, Kennington Park Gate"
+            ]
+        },
+        {
+            "scene_title": "Holmes Deduces Details of the Murder",
+            "description": "Sherlock Holmes provides a detailed deduction about the murderer's physical characteristics and actions to the detectives.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Sherlock Holmes' residence",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Detective Gregson",
+                "Detective Lestrade"
+            ],
+            "objects": [
+                "notebook",
+                "Trichinopoly cigar"
+            ],
+            "text_phrases": [
+                "murder done",
+                "murderer was a man",
+                "six feet high",
+                "small feet",
+                "coarse, square-toed boots",
+                "Trichinopoly cigar",
+                "four-wheeled cab",
+                "horse with three old shoes and one new one",
+                "florid face",
+                "finger-nails of his right hand were remarkably long"
+            ]
+        },
+        {
+            "scene_title": "Holmes and Watson Depart for Audley Court",
+            "description": "Sherlock Holmes and Dr. Watson leave the residence to visit John Rance, following up on the murder investigation.",
+            "scene_type": "EXT",
+            "scene_date": "1881",
+            "location": "Street outside Holmes' residence",
+            "time_of_day": "AFTERNOON",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. Watson"
+            ],
+            "objects": [
+                "telegraph office",
+                "cab"
+            ],
+            "text_phrases": [
+                "nearest telegraph office",
+                "dispatched a long telegram",
+                "hail a cab",
+                "address given us by Lestrade",
+                "first hand evidence"
+            ]
+        }
+    ],
+    "242-257": [
+        {
+            "scene_title": "Holmes and Watson Discuss the Case",
+            "description": "Holmes and Watson are discussing the complexities of a mysterious case involving two men, a cabman, and a series of unexplained events.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Holmes' residence",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Holmes",
+                "Watson"
+            ],
+            "objects": [
+                "sofa",
+                "half-sovereign coin"
+            ],
+            "text_phrases": [
+                "My head is in a whirl",
+                "the more one thinks of it the more mysterious it grows",
+                "My companion smiled approvingly",
+                "Holmes took a half-sovereign from his pocket and played with it pensively"
+            ]
+        },
+        {
+            "scene_title": "Arrival at Audley Court",
+            "description": "Holmes and Watson arrive at Audley Court, a dreary and unattractive location, to meet Constable Rance.",
+            "scene_type": "EXT",
+            "scene_date": "1881",
+            "location": "Audley Court",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Holmes",
+                "Watson",
+                "Constable Rance",
+                "Driver"
+            ],
+            "objects": [
+                "narrow passage",
+                "quadrangle paved with flags",
+                "dirty children",
+                "discoloured linen",
+                "brass nameplate"
+            ],
+            "text_phrases": [
+                "Audley Court was not an attractive locality",
+                "The narrow passage led us into a quadrangle paved with flags",
+                "groups of dirty children",
+                "lines of discoloured linen",
+                "the door of which was decorated with a small slip of brass on which the name Rance was engraved"
+            ]
+        },
+        {
+            "scene_title": "Constable Rance's Narrative",
+            "description": "In a small front parlour, Constable Rance recounts the events of his night patrol, detailing a mysterious light in an empty house.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Front parlour at Number 46, Audley Court",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Holmes",
+                "Watson",
+                "Constable Rance"
+            ],
+            "objects": [
+                "horsehair sofa",
+                "golden disk"
+            ],
+            "text_phrases": [
+                "we were shown into a little front parlour to await his coming",
+                "Rance sat down on the horsehair sofa",
+                "knitted his brows as though determined not to omit anything in his narrative",
+                "the constable answered with his eyes upon the little golden disk"
+            ]
+        }
+    ],
+    "258-287": [
+        {
+            "scene_title": "John Rance's Encounter at the House",
+            "description": "John Rance describes his eerie experience at the house where he found a body, his interaction with a drunken man at the gate, and his conversation with Sherlock Holmes.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Inside a dimly lit room with a flickering candle",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "John Rance",
+                "Sherlock Holmes"
+            ],
+            "objects": [
+                "candle",
+                "mantelpiece",
+                "body",
+                "gate",
+                "whistle"
+            ],
+            "text_phrases": [
+                "candle flickerin' on the mantelpiece",
+                "a red wax one",
+                "body",
+                "whistle",
+                "gate"
+            ]
+        },
+        {
+            "scene_title": "Holmes and Watson Depart",
+            "description": "Sherlock Holmes and Dr. Watson leave the scene after Holmes deduces critical information about the drunken man and criticizes Rance's lack of observation.",
+            "scene_type": "EXT",
+            "scene_date": "1881",
+            "location": "Street outside the house",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. Watson",
+                "John Rance"
+            ],
+            "objects": [
+                "cab",
+                "hat",
+                "half-sovereign"
+            ],
+            "text_phrases": [
+                "half-sovereign for you",
+                "taking his hat",
+                "we started off for the cab"
+            ]
+        },
+        {
+            "scene_title": "Holmes and Watson in the Cab",
+            "description": "Holmes and Watson discuss the case and Holmes's plans to catch the suspect using the ring as bait while traveling back to their lodgings.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Inside a moving cab",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. Watson"
+            ],
+            "objects": [
+                "cab",
+                "ring"
+            ],
+            "text_phrases": [
+                "in the cab",
+                "the ring",
+                "scarlet thread of murder"
+            ]
+        }
+    ],
+    "288-316": [
+        {
+            "scene_title": "Holmes and Watson Discuss the Case",
+            "description": "Holmes and Watson discuss the Brixton Road affair over dinner, touching on topics from Darwin's views on music to the mysterious circumstances surrounding the case.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "221B Baker Street, Dining Room",
+            "time_of_day": "EVENING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. John Watson"
+            ],
+            "objects": [
+                "Dinner table",
+                "Newspaper"
+            ],
+            "text_phrases": [
+                "Dinner was on the table",
+                "He took his seat",
+                "evening paper"
+            ]
+        },
+        {
+            "scene_title": "Holmes Plans a Trap",
+            "description": "Holmes explains his plan to catch the man in the brown coat using a fake advertisement about a found wedding ring.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "221B Baker Street, Living Room",
+            "time_of_day": "EVENING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. John Watson"
+            ],
+            "objects": [
+                "Newspaper",
+                "Wedding ring",
+                "Pistol"
+            ],
+            "text_phrases": [
+                "Look at this advertisement",
+                "plain gold wedding ring",
+                "I have my old service revolver"
+            ]
+        },
+        {
+            "scene_title": "Preparation for the Confrontation",
+            "description": "Watson prepares his revolver as instructed by Holmes, while Holmes plays his violin, awaiting the arrival of the suspect.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "221B Baker Street, Living Room",
+            "time_of_day": "EVENING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. John Watson"
+            ],
+            "objects": [
+                "Violin",
+                "Pistol",
+                "Book"
+            ],
+            "text_phrases": [
+                "Holmes was engaged in his favourite occupation of scraping upon his violin",
+                "I returned with the pistol",
+                "Put your pistol in your pocket"
+            ]
+        }
+    ],
+    "317-337": [
+        {
+            "scene_title": "Unexpected Visitor",
+            "description": "An old woman, mistaken for a man of violence, enters Holmes and Watson's apartment, surprising them with her appearance and the story of her daughter's lost wedding ring.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Holmes and Watson's apartment",
+            "time_of_day": "EVENING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. John Watson",
+                "Old Woman (Mrs. Sawyer)"
+            ],
+            "objects": [
+                "Evening paper",
+                "Wedding ring",
+                "Chair"
+            ],
+            "text_phrases": [
+                "a very old and wrinkled woman hobbled into the apartment",
+                "dazzled by the sudden blaze of light",
+                "bleared eyes and fumbling in her pocket",
+                "evening paper",
+                "gold wedding ring"
+            ]
+        },
+        {
+            "scene_title": "Holmes's Pursuit",
+            "description": "Sherlock Holmes decides to follow the old woman, suspecting her to be an accomplice in a larger scheme, and rushes out into the night.",
+            "scene_type": "INT to EXT",
+            "scene_date": "1881",
+            "location": "Holmes and Watson's apartment, then London streets",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Old Woman (Mrs. Sawyer)"
+            ],
+            "objects": [
+                "Ulster",
+                "Cravat",
+                "Door",
+                "Stairs"
+            ],
+            "text_phrases": [
+                "Sherlock Holmes sprang to his feet",
+                "enveloped in an ulster and a cravat",
+                "rushed into his room",
+                "descended the stair"
+            ]
+        },
+        {
+            "scene_title": "Holmes's Disappointment",
+            "description": "Holmes returns home after an unsuccessful pursuit, revealing his failure to Watson with a mix of amusement and chagrin.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Holmes and Watson's apartment",
+            "time_of_day": "LATE NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. John Watson"
+            ],
+            "objects": [
+                "Latch-key",
+                "Chair",
+                "Pipe"
+            ],
+            "text_phrases": [
+                "sharp sound of his latch-key",
+                "burst into a hearty laugh",
+                "dropping into his chair"
+            ]
+        }
+    ],
+    "338-356": [
+        {
+            "scene_title": "Holmes and Watson Discuss the Case",
+            "description": "Sherlock Holmes and Dr. Watson discuss the details of a mysterious case involving a disguised young man and the subsequent newspaper reports while seated at breakfast.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Holmes and Watson's residence, Baker Street, London",
+            "time_of_day": "MORNING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. John Watson"
+            ],
+            "objects": [
+                "breakfast table",
+                "newspapers"
+            ],
+            "text_phrases": [
+                "Sherlock Holmes and I read these notices over together at breakfast",
+                "the details of a mysterious case",
+                "newspaper reports"
+            ]
+        },
+        {
+            "scene_title": "Arrival of the Baker Street Division",
+            "description": "A group of unkempt street children, known as the Baker Street division of the detective police force, burst into Holmes and Watson's room under Holmes' command.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Holmes and Watson's residence, Baker Street, London",
+            "time_of_day": "MORNING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. John Watson",
+                "Wiggins",
+                "street Arabs"
+            ],
+            "objects": [
+                "shillings",
+                "door"
+            ],
+            "text_phrases": [
+                "half a dozen of the dirtiest and most ragged street Arabs",
+                "\u2018Tention!\u2019 cried Holmes",
+                "He handed each of them a shilling"
+            ]
+        }
+    ],
+    "357-395": [
+        {
+            "scene_title": "Gregson's Triumph",
+            "description": "Detective Gregson arrives at Sherlock Holmes' residence, bursting with excitement to share his breakthrough in the Brixton case.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Sherlock Holmes' sitting-room",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. John Watson",
+                "Detective Gregson"
+            ],
+            "objects": [
+                "bell",
+                "stairs",
+                "sitting-room",
+                "cigar",
+                "whiskey and water",
+                "arm-chair"
+            ],
+            "text_phrases": [
+                "violent peal at the bell",
+                "fair-haired detective came up the stairs",
+                "burst into our sitting-room",
+                "wringing Holmes\u2019 unresponsive hand",
+                "Take a seat, and try one of these cigars",
+                "whiskey and water",
+                "seated himself in the arm-chair",
+                "puffed complacently at his cigar"
+            ]
+        },
+        {
+            "scene_title": "Gregson's Explanation",
+            "description": "Gregson explains to Holmes and Watson how he solved the case and captured Arthur Charpentier, while mocking Lestrade's incorrect pursuit.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Sherlock Holmes' sitting-room",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CONTINUOUS",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. John Watson",
+                "Detective Gregson"
+            ],
+            "objects": [
+                "cigar",
+                "arm-chair"
+            ],
+            "text_phrases": [
+                "slapped his thigh in a paroxysm of amusement",
+                "laughed until he choked",
+                "puffed complacently at his cigar",
+                "that fool Lestrade",
+                "gone off upon the wrong track"
+            ]
+        },
+        {
+            "scene_title": "Madame Charpentier's Revelation",
+            "description": "Detective Gregson recounts his visit to Madame Charpentier, where he uncovers crucial information about Mr. Drebber's last moments from Madame and her daughter.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Madame Charpentier's residence",
+            "time_of_day": "DAY",
+            "scene_transition_type": "FLASHBACK",
+            "characters": [
+                "Detective Gregson",
+                "Madame Charpentier",
+                "Alice Charpentier"
+            ],
+            "objects": [
+                "room",
+                "chair"
+            ],
+            "text_phrases": [
+                "found her very pale and distressed",
+                "daughter was in the room",
+                "looking red about the eyes",
+                "lips trembled",
+                "burst into tears",
+                "woman\u2019s face turned perfectly livid",
+                "husky unnatural tone",
+                "No good can ever come of falsehood, mother",
+                "Let us be frank with this gentleman"
+            ]
+        }
+    ],
+    "396-423": [
+        {
+            "scene_title": "Confrontation and Proposal",
+            "description": "Mrs. Charpentier recounts the events leading to Mr. Drebber's departure and subsequent return, where he proposes to Alice in a drunken state, only to be interrupted by Arthur Charpentier.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Charpentier's residence, living room",
+            "time_of_day": "EVENING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Mrs. Charpentier",
+                "Alice",
+                "Mr. Drebber",
+                "Arthur Charpentier"
+            ],
+            "objects": [
+                "trunks with 'Copenhagen' labels",
+                "stick"
+            ],
+            "text_phrases": [
+                "daughter withdrew",
+                "Mr. Drebber has been with us",
+                "Copenhagen label upon each of their trunks",
+                "Mr. Drebber became very much the worse for drink",
+                "he caught her by the wrist",
+                "Arthur standing in the doorway laughing, with a stick in his hand"
+            ]
+        },
+        {
+            "scene_title": "Aftermath and Arrest",
+            "description": "The aftermath of the scuffle is discussed, leading to the mysterious death of Mr. Drebber and the arrest of Arthur Charpentier based on his suspicious behavior and possession of a heavy stick.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Charpentier's residence",
+            "time_of_day": "MORNING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Mrs. Charpentier",
+                "Sherlock Holmes",
+                "Arthur Charpentier",
+                "Police Officers"
+            ],
+            "objects": [
+                "heavy stick",
+                "shorthand notes"
+            ],
+            "text_phrases": [
+                "Arthur came into the room",
+                "he followed Drebber",
+                "carried the heavy stick",
+                "arrested him",
+                "concerned in the death of that scoundrel Drebber"
+            ]
+        }
+    ],
+    "424-444": [
+        {
+            "scene_title": "The Revelation of Stangerson's Murder",
+            "description": "Lestrade enters the room where Holmes, Gregson, and Watson are discussing the case, looking disheveled and troubled. He reveals that Joseph Stangerson has been murdered at Halliday's Private Hotel.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Sherlock Holmes' Residence",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT",
+            "characters": [
+                "Sherlock Holmes",
+                "Gregson",
+                "Lestrade",
+                "Dr. Watson"
+            ],
+            "objects": [
+                "chair",
+                "whiskey and water"
+            ],
+            "text_phrases": [
+                "Lestrade entered the room",
+                "Gregson sprang out of his chair",
+                "remainder of his whiskey and water",
+                "Sherlock Holmes' brows drawn down"
+            ]
+        },
+        {
+            "scene_title": "Investigation at Halliday's Private Hotel",
+            "description": "Lestrade recounts his morning investigation at Halliday's Private Hotel where he discovers the murdered body of Joseph Stangerson, with a mysterious word written in blood above the corpse.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Halliday's Private Hotel",
+            "time_of_day": "MORNING",
+            "scene_transition_type": "CUT",
+            "characters": [
+                "Lestrade",
+                "The Boots (hotel employee)"
+            ],
+            "objects": [
+                "blood ribbon",
+                "locked door",
+                "nightdress",
+                "stab wound"
+            ],
+            "text_phrases": [
+                "little red ribbon of blood",
+                "door was locked on the inside",
+                "body of a man in his nightdress",
+                "deep stab in the left side",
+                "word RACHE, written in letters of blood"
+            ]
+        }
+    ],
+    "445-466": [
+        {
+            "scene_title": "The Discovery of the Ladder and the Man",
+            "description": "A milk boy notices a ladder against a hotel window and sees a man descending it, initially mistaking him for a carpenter.",
+            "scene_type": "EXT",
+            "scene_date": "1881",
+            "location": "Lane leading from the mews at the back of the hotel",
+            "time_of_day": "MORNING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Milk boy",
+                "Unknown man"
+            ],
+            "objects": [
+                "Ladder",
+                "Hotel window"
+            ],
+            "text_phrases": [
+                "A milk boy, passing on his way to the dairy",
+                "a ladder, which usually lay there, was raised against one of the windows of the second floor",
+                "saw a man descend the ladder"
+            ]
+        },
+        {
+            "scene_title": "Holmes and Lestrade Discuss the Clues",
+            "description": "Sherlock Holmes and Inspector Lestrade discuss the lack of clues in the murder room, except for a novel, a pipe, and a telegram.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Murder room in the hotel",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Inspector Lestrade"
+            ],
+            "objects": [
+                "Novel",
+                "Pipe",
+                "Telegram",
+                "Glass of water",
+                "Pills"
+            ],
+            "text_phrases": [
+                "Nothing of any importance",
+                "The man's novel, with which he had read himself to sleep was lying upon the bed",
+                "his pipe was on a chair beside him",
+                "a single telegram, dated from Cleveland"
+            ]
+        },
+        {
+            "scene_title": "Holmes's Experiment with the Pills",
+            "description": "Holmes conducts an experiment with the pills found at the crime scene by dissolving one in water and giving it to a sick terrier to observe its effects.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Holmes's residence",
+            "time_of_day": "EVENING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. John Watson",
+                "Inspector Lestrade"
+            ],
+            "objects": [
+                "Pills",
+                "Penknife",
+                "Wine glass",
+                "Water",
+                "Milk",
+                "Saucer",
+                "Terrier"
+            ],
+            "text_phrases": [
+                "I will now cut one of these pills in two",
+                "One half we return into the box for future purposes",
+                "The other half I will place in this wine glass, in which is a teaspoonful of water",
+                "add a little milk to make the mixture palatable, and on presenting it to the dog"
+            ]
+        }
+    ],
+    "467-476": [
+        {
+            "scene_title": "Holmes Discovers the Poison",
+            "description": "Sherlock Holmes, after a moment of revelation, tests a pill on a terrier, which convulses and dies, confirming the pill's lethality.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Sherlock Holmes' residence",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes"
+            ],
+            "objects": [
+                "chair",
+                "box",
+                "pill",
+                "milk",
+                "terrier (dog)"
+            ],
+            "text_phrases": [
+                "springing from his chair",
+                "cut the other pill in two",
+                "dissolved it, added milk",
+                "presented it to the terrier",
+                "convulsive shiver in every limb",
+                "lay as rigid and lifeless"
+            ]
+        },
+        {
+            "scene_title": "Holmes and the Detectives' Confrontation",
+            "description": "Sherlock Holmes is confronted by detectives Gregson and Lestrade about his knowledge of the assassin, leading to a tense discussion about the case.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Sherlock Holmes' residence",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Mr. Gregson",
+                "Lestrade"
+            ],
+            "objects": [
+                "door"
+            ],
+            "text_phrases": [
+                "walk up and down the room",
+                "head sunk on his chest",
+                "brows drawn down",
+                "facing us",
+                "tap at the door"
+            ]
+        }
+    ],
+    "477-491": [
+        {
+            "scene_title": "The Arrest of Jefferson Hope",
+            "description": "Sherlock Holmes captures Jefferson Hope using handcuffs disguised as a buckle while pretending to need help with his luggage.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Holmes's room",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. John Watson",
+                "Jefferson Hope",
+                "Lestrade",
+                "Gregson",
+                "Cabman"
+            ],
+            "objects": [
+                "handcuffs",
+                "portmanteau",
+                "window",
+                "glass"
+            ],
+            "text_phrases": [
+                "pair of steel handcuffs",
+                "small portmanteau",
+                "sharp click",
+                "glittering handcuffs",
+                "Woodwork and glass gave way",
+                "pinioned his feet as well as his hands"
+            ]
+        },
+        {
+            "scene_title": "The Desolate American West",
+            "description": "A vast, barren landscape of the American West, described as a land of desolation and silence, inhabited only by occasional wildlife and scattered remains.",
+            "scene_type": "EXT",
+            "scene_date": "1881",
+            "location": "American West, from Sierra Nevada to Nebraska",
+            "time_of_day": "DAY",
+            "scene_transition_type": "DISSOLVE TO",
+            "characters": [],
+            "objects": [
+                "snow-capped mountains",
+                "chaparral bushes",
+                "alkali patches",
+                "bones"
+            ],
+            "text_phrases": [
+                "arid and repulsive desert",
+                "snow-capped and lofty mountains",
+                "swift-flowing rivers",
+                "enormous plains",
+                "scattered white objects",
+                "bones: some large and coarse, others smaller and more delicate"
+            ]
+        }
+    ],
+    "492-515": [
+        {
+            "scene_title": "The Lonely Traveller and the Child",
+            "description": "A gaunt, elderly man and a small girl are stranded on a barren landscape, surrounded by a vast salt plain and distant mountains. The man, appearing weak and haggard, has just set down a heavy bundle from which a little girl emerges. They discuss their dire situation with a mix of despair and childlike hope.",
+            "scene_type": "EXT",
+            "scene_date": "1847",
+            "location": "Salt plain with distant mountains",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Solitary traveller",
+                "Little girl"
+            ],
+            "objects": [
+                "Rifle",
+                "Grey shawl",
+                "Bundle",
+                "Boulder",
+                "Mica fragments"
+            ],
+            "text_phrases": [
+                "solitary traveller",
+                "lean and haggard",
+                "brown parchment-like skin",
+                "long, brown hair and beard flecked and dashed with white",
+                "sunken eyes",
+                "rifle",
+                "gaunt face",
+                "clothes hung baggily",
+                "great salt plain",
+                "distant belt of savage mountains",
+                "little moaning cry",
+                "small, scared face",
+                "bright brown eyes",
+                "little speckled, dimpled fists",
+                "pretty little girl",
+                "smart pink frock",
+                "little linen apron",
+                "towsy golden curls",
+                "glittering fragments of mica"
+            ]
+        }
+    ],
+    "516-536": [
+        {
+            "scene_title": "Prayer on the Plains",
+            "description": "A little girl and a man kneel on a shawl in a barren landscape, praying together under a clear sky before falling asleep beside a boulder.",
+            "scene_type": "EXT",
+            "scene_date": "1881",
+            "location": "Alkali plain",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Little girl",
+                "Man"
+            ],
+            "objects": [
+                "Shawl",
+                "Boulder"
+            ],
+            "text_phrases": [
+                "Side by side on the narrow shawl knelt the two wanderers",
+                "Her chubby face, and his haggard, angular visage were both turned up to the cloudless heaven",
+                "the shadow of the boulder",
+                "the man\u2019s grizzled beard was mixed with the gold tresses of his companion"
+            ]
+        },
+        {
+            "scene_title": "Approach of the Great Caravan",
+            "description": "A vast caravan of waggons, horsemen, and people stretches across the plain, approaching the bluff where the two characters are sleeping.",
+            "scene_type": "EXT",
+            "scene_date": "1881",
+            "location": "Alkali plain near the Sierra Blanco",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Men on horseback",
+                "Women",
+                "Children"
+            ],
+            "objects": [
+                "Canvas-covered tilts of waggons",
+                "Armed horsemen",
+                "Dust cloud"
+            ],
+            "text_phrases": [
+                "the canvas-covered tilts of waggons and the figures of armed horsemen began to show up through the haze",
+                "Right across the enormous plain stretched the straggling array, waggons and carts, men on horseback, and men on foot",
+                "Innumerable women who staggered along under burdens, and children who toddled beside the waggons or peeped out from under the white coverings"
+            ]
+        },
+        {
+            "scene_title": "Discovery of the Pink Wisp",
+            "description": "A group of scouts from the caravan climb a rugged crag, reacting in astonishment upon discovering a pink wisp fluttering from its summit.",
+            "scene_type": "EXT",
+            "scene_date": "1881",
+            "location": "Rugged crag near Sierra Blanco",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Scouts",
+                "Elder"
+            ],
+            "objects": [
+                "Pink wisp",
+                "Rocks",
+                "Guns"
+            ],
+            "text_phrases": [
+                "From its summit there fluttered a little wisp of pink, showing up hard and bright against the grey rocks behind",
+                "The watchers from the plain below could see them flit from rock to rock until their figures stood out against the skyline",
+                "Suddenly his followers saw him throw up his hands, as though overcome with astonishment"
+            ]
+        }
+    ],
+    "537-555": [
+        {
+            "scene_title": "Desolate Awakening",
+            "description": "A tall, thin man and a small child awaken on a barren hill, surrounded by buzzards, as a large group of people approach them.",
+            "scene_type": "EXT",
+            "scene_date": "1847",
+            "location": "Barren hill",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Tall man",
+                "Little child",
+                "Rescuers"
+            ],
+            "objects": [
+                "Giant boulder",
+                "Velveteen tunic",
+                "White socks",
+                "Shining buckles"
+            ],
+            "text_phrases": [
+                "single giant boulder",
+                "tall man, long-bearded and hard-featured",
+                "little child",
+                "round white arms",
+                "golden haired head",
+                "rosy lips",
+                "plump little white legs",
+                "white socks",
+                "neat shoes with shining buckles",
+                "three solemn buzzards"
+            ]
+        },
+        {
+            "scene_title": "Rescue and Revelation",
+            "description": "John Ferrier and the child are rescued by a large group of Mormons and introduced to their beliefs as they are led to a large, ornate wagon.",
+            "scene_type": "EXT",
+            "scene_date": "1847",
+            "location": "Base of the hill",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "John Ferrier",
+                "Lucy Ferrier",
+                "Mormons",
+                "Leader of the Mormons"
+            ],
+            "objects": [
+                "Waggon",
+                "Brown-backed volume",
+                "Meal"
+            ],
+            "text_phrases": [
+                "rescuing party",
+                "enormous body of men and of beasts",
+                "gaunt companion",
+                "waggons",
+                "crowds of the pilgrims",
+                "gaudiness and smartness of its appearance",
+                "six horses",
+                "brown-backed volume"
+            ]
+        },
+        {
+            "scene_title": "Journey to Zion",
+            "description": "The caravan of Mormons, along with John and Lucy Ferrier, begins its journey towards Zion, emphasizing their communal belief and unity.",
+            "scene_type": "EXT",
+            "scene_date": "1847",
+            "location": "Desert",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "John Ferrier",
+                "Lucy Ferrier",
+                "Mormons",
+                "Leader of the Mormons",
+                "Brother Stangerson"
+            ],
+            "objects": [
+                "Waggon",
+                "Meal"
+            ],
+            "text_phrases": [
+                "cracking of whips",
+                "creaking of wheels",
+                "great waggons",
+                "caravan winding along",
+                "Elder to whose care the two waifs had been committed"
+            ]
+        }
+    ],
+    "556-562": [
+        {
+            "scene_title": "Arrival in the Promised Land",
+            "description": "The Mormon immigrants, led by their leader, arrive in the broad valley of Utah, seeing it bathed in sunlight and learning that this fertile land is to be theirs forever.",
+            "scene_type": "EXT",
+            "scene_date": "1847",
+            "location": "Valley of Utah",
+            "time_of_day": "DAY",
+            "scene_transition_type": "arrival",
+            "characters": [
+                "Mormon leader",
+                "Mormon immigrants"
+            ],
+            "objects": [
+                "valley",
+                "sunlight"
+            ],
+            "text_phrases": [
+                "broad valley of Utah bathed in the sunlight",
+                "immigrant Mormons",
+                "heartfelt prayer"
+            ]
+        },
+        {
+            "scene_title": "Building the New Settlement",
+            "description": "The Mormons, under the leadership of Young, begin the construction of their new city with farms, streets, and a great temple, working from dawn till dusk.",
+            "scene_type": "EXT",
+            "scene_date": "1847-1848",
+            "location": "Future city site in Utah",
+            "time_of_day": "DAY",
+            "scene_transition_type": "construction",
+            "characters": [
+                "Young",
+                "Mormon settlers"
+            ],
+            "objects": [
+                "maps",
+                "charts",
+                "temple",
+                "hammer",
+                "saw"
+            ],
+            "text_phrases": [
+                "skilful administrator",
+                "resolute chief",
+                "great temple",
+                "clatter of the hammer",
+                "rasp of the saw"
+            ]
+        },
+        {
+            "scene_title": "John Ferrier's New Home",
+            "description": "John Ferrier builds a substantial log-house on his newly acquired farm, which over the years grows into a roomy villa.",
+            "scene_type": "EXT",
+            "scene_date": "1850s",
+            "location": "John Ferrier's farm, Utah",
+            "time_of_day": "DAY",
+            "scene_transition_type": "development",
+            "characters": [
+                "John Ferrier"
+            ],
+            "objects": [
+                "log-house",
+                "villa",
+                "farm"
+            ],
+            "text_phrases": [
+                "substantial log-house",
+                "roomy villa",
+                "tilling his lands"
+            ]
+        },
+        {
+            "scene_title": "Lucy Ferrier, the Blossoming Flower",
+            "description": "Lucy Ferrier grows up strong and healthy, becoming a beloved figure in her community as she helps her father on the farm and rides her mustang.",
+            "scene_type": "EXT",
+            "scene_date": "1860s",
+            "location": "Ferrier's farm, Utah",
+            "time_of_day": "DAY",
+            "scene_transition_type": "growth",
+            "characters": [
+                "Lucy Ferrier",
+                "John Ferrier"
+            ],
+            "objects": [
+                "wheatfields",
+                "mustang"
+            ],
+            "text_phrases": [
+                "lithe girlish figure tripping through the wheatfields",
+                "mounted upon her father\u2019s mustang"
+            ]
+        }
+    ],
+    "563-576": [
+        {
+            "scene_title": "Lucy Ferrier's Perilous Ride",
+            "description": "Lucy Ferrier rides skillfully through a bustling scene of migrants and animals, only to be trapped among a herd of cattle. A mysterious young man comes to her aid.",
+            "scene_type": "EXT",
+            "scene_date": "1849",
+            "location": "Outskirts of Salt Lake City",
+            "time_of_day": "MORNING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Lucy Ferrier",
+                "Jefferson Hope",
+                "Herdsmen",
+                "Travel-stained adventurers",
+                "Indians"
+            ],
+            "objects": [
+                "Horse",
+                "Cattle",
+                "Rifle",
+                "Sombrero",
+                "Riding-whip"
+            ],
+            "text_phrases": [
+                "warm June morning",
+                "Latter Day Saints",
+                "heavily-laden mules",
+                "droves of sheep and bullocks",
+                "trains of tired immigrants",
+                "fair face flushed",
+                "long chestnut hair floating out behind",
+                "great drove of cattle",
+                "frightened horse",
+                "sinewy brown hand",
+                "long rifle slung over his shoulders",
+                "broad sombrero",
+                "riding-whip"
+            ]
+        },
+        {
+            "scene_title": "Jefferson Hope's Revelation",
+            "description": "After rescuing Lucy, Jefferson Hope reveals his identity and hints at a past connection with her father, sparking a new friendship.",
+            "scene_type": "EXT",
+            "scene_date": "1849",
+            "location": "Outskirts of Salt Lake City",
+            "time_of_day": "MORNING",
+            "scene_transition_type": "CONTINUOUS",
+            "characters": [
+                "Lucy Ferrier",
+                "Jefferson Hope"
+            ],
+            "objects": [
+                "Horse",
+                "Rifle",
+                "Sombrero"
+            ],
+            "text_phrases": [
+                "dark, fierce face",
+                "powerful roan horse",
+                "rough dress of a hunter",
+                "long rifle slung over his shoulders",
+                "broad sombrero",
+                "riding-whip"
+            ]
+        }
+    ],
+    "577-590": [
+        {
+            "scene_title": "Jefferson Hope's Departure",
+            "description": "Jefferson Hope bids farewell to Lucy at the farm gate, promising to return and claim her in two months. He then gallops away on his horse, leaving Lucy at the gate.",
+            "scene_type": "EXT",
+            "scene_date": "1880s",
+            "location": "Farmhouse in Utah",
+            "time_of_day": "EVENING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Jefferson Hope",
+                "Lucy"
+            ],
+            "objects": [
+                "Horse",
+                "Bridle",
+                "Farmhouse",
+                "Gate"
+            ],
+            "text_phrases": [
+                "He came galloping down the road",
+                "pulled up at the gate",
+                "She was at the doorway",
+                "He threw the bridle over the fence",
+                "strode up the pathway",
+                "taking her two hands in his",
+                "gazing tenderly down into her face",
+                "flinging himself upon his horse",
+                "galloped furiously away",
+                "She stood at the gate, gazing after him"
+            ]
+        },
+        {
+            "scene_title": "Lucy's Emotional Turmoil",
+            "description": "After Jefferson Hope's departure, Lucy walks back into the house, overwhelmed with emotions, now the happiest girl in Utah.",
+            "scene_type": "INT",
+            "scene_date": "1880s",
+            "location": "Farmhouse in Utah",
+            "time_of_day": "EVENING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Lucy"
+            ],
+            "objects": [
+                "Farmhouse",
+                "Doorway"
+            ],
+            "text_phrases": [
+                "She walked back into the house",
+                "the happiest girl in all Utah"
+            ]
+        },
+        {
+            "scene_title": "John Ferrier's Concern",
+            "description": "John Ferrier reflects on the impending loss of his adopted daughter to Jefferson Hope, feeling conflicted yet reconciled by her happiness.",
+            "scene_type": "INT",
+            "scene_date": "1880s",
+            "location": "Farmhouse in Utah",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "John Ferrier"
+            ],
+            "objects": [
+                "Farmhouse"
+            ],
+            "text_phrases": [
+                "John Ferrier\u2019s heart was sore within him",
+                "the impending loss of his adopted child",
+                "her bright and happy face reconciled him"
+            ]
+        }
+    ],
+    "591-615": [
+        {
+            "scene_title": "Brigham Young's Visit",
+            "description": "John Ferrier is startled by the visit of Brigham Young, the Mormon leader, who confronts him about his faith and his daughter's future.",
+            "scene_type": "INT",
+            "scene_date": "1880s",
+            "location": "John Ferrier's sitting-room",
+            "time_of_day": "MORNING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "John Ferrier",
+                "Brigham Young"
+            ],
+            "objects": [
+                "window",
+                "door",
+                "riding-whip"
+            ],
+            "text_phrases": [
+                "click of the latch",
+                "looking through the window",
+                "stout, sandy-haired, middle-aged man",
+                "stern face",
+                "sitting-room",
+                "riding-whip"
+            ]
+        },
+        {
+            "scene_title": "A Father's Concern",
+            "description": "After Brigham Young leaves, John Ferrier reflects on the difficult situation regarding his daughter's marriage choices as she approaches him, having overheard the conversation.",
+            "scene_type": "INT",
+            "scene_date": "1880s",
+            "location": "John Ferrier's home",
+            "time_of_day": "MORNING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "John Ferrier",
+                "Lucy Ferrier"
+            ],
+            "objects": [
+                "door",
+                "riding-whip",
+                "chestnut hair"
+            ],
+            "text_phrases": [
+                "heavy step scrunching along the shingly path",
+                "elbows upon his knees",
+                "soft hand was laid upon his",
+                "pale, frightened face",
+                "broad, rough hand caressingly over her chestnut hair"
+            ]
+        }
+    ],
+    "616-645": [
+        {
+            "scene_title": "John Ferrier's Confrontation with the Young Mormons",
+            "description": "John Ferrier confronts two young Mormons, Joseph Stangerson and the son of Elder Drebber, who have come to solicit his daughter's hand in marriage. The confrontation escalates, leading to Ferrier angrily ordering them out.",
+            "scene_type": "INT",
+            "scene_date": "1880s",
+            "location": "Ferrier's sitting-room",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "John Ferrier",
+                "Joseph Stangerson",
+                "Son of Elder Drebber",
+                "Lucy Ferrier"
+            ],
+            "objects": [
+                "rocking-chair",
+                "stove",
+                "window",
+                "riding-whip",
+                "door"
+            ],
+            "text_phrases": [
+                "rocking-chair",
+                "feet cocked up upon the stove",
+                "standing in front of the window",
+                "riding-whip from the backs of his two visitors",
+                "doorway",
+                "door",
+                "window"
+            ]
+        },
+        {
+            "scene_title": "Preparation for Danger",
+            "description": "John Ferrier, after a tense discussion about their safety and future plans, takes precautions by securing the doors and preparing his shotgun, indicating his fear of impending danger.",
+            "scene_type": "INT",
+            "scene_date": "1880s",
+            "location": "Ferrier's home",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "John Ferrier",
+                "Lucy Ferrier"
+            ],
+            "objects": [
+                "doors",
+                "rusty old shotgun",
+                "wall"
+            ],
+            "text_phrases": [
+                "fastening of the doors",
+                "cleaned and loaded the rusty old shotgun",
+                "hung upon the wall of his bedroom"
+            ]
+        }
+    ],
+    "646-655": [
+        {
+            "scene_title": "The Mysterious Message",
+            "description": "John Ferrier discovers a threatening message pinned to his bed coverlet, warning him of a limited time for amendment.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "John Ferrier's bedroom",
+            "time_of_day": "MORNING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "John Ferrier"
+            ],
+            "objects": [
+                "bed",
+                "coverlet",
+                "pinned paper"
+            ],
+            "text_phrases": [
+                "a small square of paper pinned on to the coverlet of his bed",
+                "Twenty-nine days are given you for amendment, and then\u2014\u2014"
+            ]
+        },
+        {
+            "scene_title": "Countdown of Terror",
+            "description": "Each morning, John Ferrier finds a new number marked in his house, counting down the days left, causing him increasing dread.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "John Ferrier's house",
+            "time_of_day": "MORNING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "John Ferrier",
+                "Lucy Ferrier"
+            ],
+            "objects": [
+                "burned stick number on ceiling",
+                "painted number on door"
+            ],
+            "text_phrases": [
+                "In the centre of the ceiling was scrawled, with a burned stick apparently, the number 28",
+                "a great 27 had been painted upon the outside of his door"
+            ]
+        },
+        {
+            "scene_title": "The Final Countdown",
+            "description": "On the eve of the last day, John Ferrier hears a mysterious tapping at the door, heightening his fear of the impending threat.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "John Ferrier's house",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "John Ferrier"
+            ],
+            "objects": [
+                "door",
+                "bolt"
+            ],
+            "text_phrases": [
+                "a gentle scratching sound",
+                "tapping very gently upon one of the panels of the door"
+            ]
+        },
+        {
+            "scene_title": "Unexpected Discovery",
+            "description": "After opening the door to confront his fears, John Ferrier finds a man lying on the ground, adding to the mystery.",
+            "scene_type": "EXT",
+            "scene_date": "1881",
+            "location": "Front garden of John Ferrier's house",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "John Ferrier"
+            ],
+            "objects": [
+                "man lying flat",
+                "front garden",
+                "fence and gate"
+            ],
+            "text_phrases": [
+                "a man lying flat upon his face upon the ground",
+                "the little front garden lay before the farmer\u2019s eyes"
+            ]
+        }
+    ],
+    "656-677": [
+        {
+            "scene_title": "Jefferson Hope's Arrival",
+            "description": "Jefferson Hope, appearing haggard and desperate, enters John Ferrier's house, startling him. He immediately asks for food and devours the leftovers on the table.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "John Ferrier's house",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Jefferson Hope",
+                "John Ferrier"
+            ],
+            "objects": [
+                "cold meat",
+                "bread",
+                "table"
+            ],
+            "text_phrases": [
+                "he leaned up against the wall",
+                "closed the door",
+                "fierce face and resolute expression of Jefferson Hope",
+                "cold meat and bread which were still lying upon the table"
+            ]
+        },
+        {
+            "scene_title": "Planning the Escape",
+            "description": "Jefferson Hope discusses the urgent need to escape with John Ferrier, detailing the preparations and the dangers surrounding them.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "John Ferrier's house",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Jefferson Hope",
+                "John Ferrier"
+            ],
+            "objects": [
+                "mule",
+                "horses",
+                "gold",
+                "notes"
+            ],
+            "text_phrases": [
+                "I have a mule and two horses waiting in the Eagle Ravine",
+                "Two thousand dollars in gold, and five in notes",
+                "We must push for Carson City through the mountains"
+            ]
+        },
+        {
+            "scene_title": "Escape Through the Fields",
+            "description": "Jefferson Hope, John Ferrier, and Lucy Ferrier make a stealthy escape from their house through a side window, moving cautiously across the fields under the cover of darkness.",
+            "scene_type": "EXT",
+            "scene_date": "1881",
+            "location": "Fields near John Ferrier's house",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Jefferson Hope",
+                "John Ferrier",
+                "Lucy Ferrier"
+            ],
+            "objects": [
+                "window",
+                "bag of gold and notes",
+                "bundle",
+                "hedge",
+                "cornfields"
+            ],
+            "text_phrases": [
+                "Opening the window very slowly and carefully",
+                "bated breath and crouching figures",
+                "gained the shelter of the hedge",
+                "dragged them down into the shadow"
+            ]
+        },
+        {
+            "scene_title": "Secret Meeting in the Fields",
+            "description": "After escaping the house, Jefferson Hope and his companions overhear a secret meeting between shadowy figures in the fields, discussing plans and signals.",
+            "scene_type": "EXT",
+            "scene_date": "1881",
+            "location": "Fields near John Ferrier's house",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Jefferson Hope",
+                "John Ferrier",
+                "Lucy Ferrier",
+                "Shadowy figures"
+            ],
+            "objects": [
+                "cornfields",
+                "shadowy figures"
+            ],
+            "text_phrases": [
+                "melancholy hooting of a mountain owl",
+                "vague shadowy figure emerged from the gap",
+                "When the Whip-poor-Will calls three times"
+            ]
+        }
+    ],
+    "678-692": [
+        {
+            "scene_title": "Escape Through Eagle Ca\u00f1on",
+            "description": "Jefferson Hope, along with the girl and old Ferrier, navigate through a rugged and narrow footpath leading to the mountains to escape their pursuers. The path is perilous, surrounded by dark jagged peaks and a dried-up watercourse.",
+            "scene_type": "EXT",
+            "scene_date": "1881",
+            "location": "Eagle Ca\u00f1on, mountainous path",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Jefferson Hope",
+                "The girl",
+                "Old Ferrier"
+            ],
+            "objects": [
+                "mule",
+                "horses",
+                "money-bag",
+                "rifle"
+            ],
+            "text_phrases": [
+                "rugged and narrow footpath",
+                "dark jagged peaks",
+                "dried-up watercourse",
+                "retired corner, screened with rocks"
+            ]
+        },
+        {
+            "scene_title": "Confrontation with the Sentinel",
+            "description": "The fugitives encounter a solitary sentinel on a rock who challenges them as they try to pass through the mountain pass. After a brief exchange of countersigns, they are allowed to proceed.",
+            "scene_type": "EXT",
+            "scene_date": "1881",
+            "location": "Mountain pass",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Jefferson Hope",
+                "The girl",
+                "Old Ferrier",
+                "Sentinel"
+            ],
+            "objects": [
+                "rifle",
+                "gun",
+                "horses"
+            ],
+            "text_phrases": [
+                "solitary sentinel",
+                "rock which overlooked the track",
+                "military challenge",
+                "lonely watcher fingering his gun"
+            ]
+        },
+        {
+            "scene_title": "Morning in the Mountains",
+            "description": "As dawn breaks, the fugitives are surrounded by the breathtaking view of snow-capped peaks and steep rocky banks, providing a moment of awe and respite from their perilous journey.",
+            "scene_type": "EXT",
+            "scene_date": "1881",
+            "location": "Mountainous terrain",
+            "time_of_day": "DAWN",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Jefferson Hope",
+                "The girl",
+                "Old Ferrier"
+            ],
+            "objects": [
+                "horses",
+                "larch",
+                "pine",
+                "rock"
+            ],
+            "text_phrases": [
+                "snow-capped peaks",
+                "rocky banks",
+                "great rock thundering down",
+                "wild torrent"
+            ]
+        },
+        {
+            "scene_title": "Campfire in the Mountains",
+            "description": "The fugitives make a temporary camp in a sheltered nook, where Jefferson Hope starts a fire for warmth and sets out to hunt for food, leaving the old man and the girl by the fire.",
+            "scene_type": "EXT",
+            "scene_date": "1881",
+            "location": "Sheltered nook in the mountains",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Jefferson Hope",
+                "The girl",
+                "Old Ferrier"
+            ],
+            "objects": [
+                "blazing fire",
+                "dried branches",
+                "rifle",
+                "horses"
+            ],
+            "text_phrases": [
+                "sheltered nook",
+                "blazing fire",
+                "tethered the horses",
+                "gun over his shoulder"
+            ]
+        }
+    ],
+    "693-699": [
+        {
+            "scene_title": "Hunter's Encounter with the Big-Horn",
+            "description": "A hunter in a mountainous region spots a big-horn sheep and takes a shot, causing the animal to fall into the valley below.",
+            "scene_type": "EXT",
+            "scene_date": "1860",
+            "location": "Mountainous region",
+            "time_of_day": "AFTERNOON",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Hunter"
+            ],
+            "objects": [
+                "Rifle",
+                "Rock",
+                "Big-horn sheep",
+                "Valley"
+            ],
+            "text_phrases": [
+                "casting his eyes upwards",
+                "creature somewhat resembling a sheep",
+                "pair of gigantic horns",
+                "rested his rifle upon a rock",
+                "animal sprang into the air",
+                "edge of the precipice"
+            ]
+        },
+        {
+            "scene_title": "Lost in the Mountains",
+            "description": "The hunter realizes he is lost in the mountains as night falls, struggling to find his way back.",
+            "scene_type": "EXT",
+            "scene_date": "1860",
+            "location": "Mountainous ravines",
+            "time_of_day": "EVENING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Hunter"
+            ],
+            "objects": [
+                "Ravines",
+                "Mountain torrent",
+                "Haunch of meat"
+            ],
+            "text_phrases": [
+                "difficulty which faced him",
+                "valley divided and sub-divided into many gorges",
+                "mountain torrent",
+                "wrong turn",
+                "moon had not yet risen",
+                "high cliffs"
+            ]
+        },
+        {
+            "scene_title": "Return to Camp and Discovery of Disaster",
+            "description": "The hunter returns to his camp only to find it deserted and a grave indicating a disaster has occurred.",
+            "scene_type": "EXT",
+            "scene_date": "1860",
+            "location": "Mountain campsite",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Hunter",
+                "John Ferrier (mentioned)"
+            ],
+            "objects": [
+                "Campfire",
+                "Wood ashes",
+                "Newly-dug grave",
+                "Piece of paper with inscription"
+            ],
+            "text_phrases": [
+                "glowing pile of wood ashes",
+                "dead silence",
+                "newly-dug grave",
+                "sheet of paper stuck in the cleft fork",
+                "inscription upon the paper"
+            ]
+        }
+    ],
+    "700-714": [
+        {
+            "scene_title": "Jefferson Hope's Resolve by the Fire",
+            "description": "Jefferson Hope, feeling despair, decides to devote his life to seeking revenge. He stands by a desolate fire, cooking food and preparing for his journey of vengeance.",
+            "scene_type": "EXT",
+            "scene_date": "1881",
+            "location": "Mountainous wilderness",
+            "time_of_day": "EVENING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Jefferson Hope"
+            ],
+            "objects": [
+                "fire",
+                "food bundle",
+                "rifle"
+            ],
+            "text_phrases": [
+                "stood by the desolate fire",
+                "stirred up the smouldering fire",
+                "cooked enough to last him for a few days",
+                "made up into a bundle"
+            ]
+        },
+        {
+            "scene_title": "Encounter with the Mormon",
+            "description": "Jefferson Hope, now a tattered and unkempt wanderer, encounters a Mormon named Cowper in the Eagle Ca\u00f1on and inquires about Lucy Ferrier's fate.",
+            "scene_type": "EXT",
+            "scene_date": "1881",
+            "location": "Eagle Ca\u00f1on",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Jefferson Hope",
+                "Mormon Cowper"
+            ],
+            "objects": [
+                "rifle",
+                "horse"
+            ],
+            "text_phrases": [
+                "leaned upon his rifle",
+                "clatter of horse\u2019s hoofs",
+                "mounted man riding towards him"
+            ]
+        },
+        {
+            "scene_title": "The Final Farewell",
+            "description": "Jefferson Hope enters a room where Lucy Ferrier's body lies, kisses her forehead, removes her wedding ring, and disappears into the night.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Mormon household",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Jefferson Hope",
+                "Lucy Ferrier",
+                "Mormon wives"
+            ],
+            "objects": [
+                "wedding ring",
+                "bier"
+            ],
+            "text_phrases": [
+                "savage-looking, weather-beaten man",
+                "stooping over her",
+                "pressed his lips reverently to her cold forehead",
+                "took the wedding-ring from her finger"
+            ]
+        }
+    ],
+    "715-720": [
+        {
+            "scene_title": "Mountain Hideout",
+            "description": "Jefferson Hope lingers in the mountains, nursing his vengeance while leading a wild life.",
+            "scene_type": "EXT",
+            "scene_date": "1880s",
+            "location": "Mountain gorges",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Jefferson Hope"
+            ],
+            "objects": [
+                "Mountains",
+                "Wilderness"
+            ],
+            "text_phrases": [
+                "lingered among the mountains",
+                "strange wild life",
+                "nursing in his heart the fierce desire for vengeance"
+            ]
+        },
+        {
+            "scene_title": "Attempted Assassinations",
+            "description": "Jefferson Hope makes attempts on the lives of Stangerson and Drebber, narrowly missing them with a bullet and a boulder.",
+            "scene_type": "EXT",
+            "scene_date": "1880s",
+            "location": "Suburbs and cliffs",
+            "time_of_day": "VARIOUS",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Jefferson Hope",
+                "Stangerson",
+                "Drebber"
+            ],
+            "objects": [
+                "Bullet",
+                "Window",
+                "Boulder",
+                "Cliff"
+            ],
+            "text_phrases": [
+                "bullet whistled through Stangerson\u2019s window",
+                "boulder crashed down on him"
+            ]
+        },
+        {
+            "scene_title": "Return to Nevada Mines",
+            "description": "Jefferson Hope returns to the old Nevada mines to recuperate and gather resources for his continued quest for vengeance.",
+            "scene_type": "EXT",
+            "scene_date": "1880s",
+            "location": "Nevada mines",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Jefferson Hope"
+            ],
+            "objects": [
+                "Mines",
+                "Rugged terrain"
+            ],
+            "text_phrases": [
+                "returned to the old Nevada mines",
+                "recruit his health",
+                "amass money"
+            ]
+        },
+        {
+            "scene_title": "Search Through the United States",
+            "description": "Jefferson Hope travels from town to town across the United States, searching for Drebber and Stangerson.",
+            "scene_type": "EXT",
+            "scene_date": "1880s",
+            "location": "Various towns across the United States",
+            "time_of_day": "VARIOUS",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Jefferson Hope"
+            ],
+            "objects": [
+                "Travel bags",
+                "Maps"
+            ],
+            "text_phrases": [
+                "travelled from town to town",
+                "search of his enemies"
+            ]
+        },
+        {
+            "scene_title": "Capture in Cleveland",
+            "description": "Jefferson Hope is recognized and captured in Cleveland after Drebber spots him and senses danger.",
+            "scene_type": "EXT",
+            "scene_date": "1880s",
+            "location": "Street in Cleveland, Ohio",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Jefferson Hope",
+                "Drebber",
+                "Stangerson"
+            ],
+            "objects": [
+                "Street",
+                "Window"
+            ],
+            "text_phrases": [
+                "glance of a face in a window",
+                "Jefferson Hope was taken into custody"
+            ]
+        }
+    ],
+    "721-742": [
+        {
+            "scene_title": "Holmes Frees the Prisoner",
+            "description": "Holmes loosens the towel bound around the prisoner's ankles, allowing him to stretch his legs and stand freely.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Small chamber at the police station",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Gregson",
+                "Lestrade",
+                "Dr. Watson",
+                "Jefferson Hope (Prisoner)"
+            ],
+            "objects": [
+                "Towel",
+                "Ankles"
+            ],
+            "text_phrases": [
+                "Holmes at once took the prisoner at his word",
+                "loosened the towel which we had bound round his ankles"
+            ]
+        },
+        {
+            "scene_title": "Cab Ride to the Police Station",
+            "description": "The group, including the prisoner, descends and enters a cab. Lestrade drives them to the police station.",
+            "scene_type": "EXT",
+            "scene_date": "1881",
+            "location": "Streets of London",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Gregson",
+                "Lestrade",
+                "Dr. Watson",
+                "Jefferson Hope (Prisoner)"
+            ],
+            "objects": [
+                "Cab",
+                "Horse"
+            ],
+            "text_phrases": [
+                "stepped calmly into the cab",
+                "Lestrade mounted the box, whipped up the horse"
+            ]
+        },
+        {
+            "scene_title": "Booking at the Police Station",
+            "description": "The prisoner is booked at the police station, where an inspector notes down his details and informs him of his rights.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Police station",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Police Inspector",
+                "Jefferson Hope (Prisoner)",
+                "Sherlock Holmes",
+                "Gregson",
+                "Lestrade",
+                "Dr. Watson"
+            ],
+            "objects": [
+                "Notebook",
+                "Desk"
+            ],
+            "text_phrases": [
+                "ushered into a small chamber",
+                "police Inspector noted down our prisoner\u2019s name"
+            ]
+        },
+        {
+            "scene_title": "Jefferson Hope's Medical Revelation",
+            "description": "Jefferson Hope reveals his medical condition to Dr. Watson, who diagnoses him with an aortic aneurism.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Police station",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Dr. Watson",
+                "Jefferson Hope (Prisoner)"
+            ],
+            "objects": [
+                "Manacled wrists",
+                "Chest"
+            ],
+            "text_phrases": [
+                "put your hand here",
+                "extraordinary throbbing and commotion"
+            ]
+        },
+        {
+            "scene_title": "Jefferson Hope Begins His Story",
+            "description": "Jefferson Hope starts recounting his story, explaining his motives and actions leading to the crime.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Police station",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Jefferson Hope (Prisoner)",
+                "Dr. Watson",
+                "Sherlock Holmes",
+                "Gregson",
+                "Lestrade",
+                "Police Inspector"
+            ],
+            "objects": [
+                "Chair",
+                "Notebook"
+            ],
+            "text_phrases": [
+                "leaned back in his chair",
+                "began the following remarkable statement"
+            ]
+        }
+    ],
+    "743-749": [
+        {
+            "scene_title": "Stalking in London",
+            "description": "The narrator describes his efforts to follow and keep tabs on Drebber and Stangerson in London, detailing his tactics and the challenges he faces.",
+            "scene_type": "EXT",
+            "scene_date": "1881",
+            "location": "Various locations in London",
+            "time_of_day": "VARIOUS",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Narrator",
+                "Drebber",
+                "Stangerson"
+            ],
+            "objects": [
+                "cab",
+                "map",
+                "hotels",
+                "stations"
+            ],
+            "text_phrases": [
+                "Driving and riding are as natural to me as walking",
+                "I applied at a cabowner\u2019s office",
+                "I had a map beside me",
+                "principal hotels and stations"
+            ]
+        },
+        {
+            "scene_title": "Confrontation at Euston Station",
+            "description": "The narrator follows Drebber and Stangerson to Euston Station, overhearing their conversation and plans, and prepares for his moment of vengeance.",
+            "scene_type": "EXT",
+            "scene_date": "1881",
+            "location": "Euston Station, London",
+            "time_of_day": "EVENING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Narrator",
+                "Drebber",
+                "Stangerson"
+            ],
+            "objects": [
+                "luggage",
+                "train",
+                "platform"
+            ],
+            "text_phrases": [
+                "I left a boy to hold my horse",
+                "followed them on to the platform",
+                "Drebber said that he had a little business of his own to do",
+                "if he missed the last train he should rejoin him at Halliday\u2019s Private Hotel"
+            ]
+        },
+        {
+            "scene_title": "Duplication of the Key",
+            "description": "The narrator describes how he managed to make a duplicate key to a house in Brixton Road, planning to lure Drebber there.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Cab",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Narrator"
+            ],
+            "objects": [
+                "key",
+                "moulding",
+                "duplicate key"
+            ],
+            "text_phrases": [
+                "a gentleman who had been engaged in looking over some houses in the Brixton Road had dropped the key of one of them in my carriage",
+                "I had taken a moulding of it",
+                "had a duplicate constructed"
+            ]
+        }
+    ],
+    "750-761": [
+        {
+            "scene_title": "The Confrontation in the Brixton Road House",
+            "description": "The scene describes a tense and dramatic confrontation between the narrator and Enoch Drebber in a dark, rainy setting. The narrator has led a drunken Drebber into a house, where he reveals his identity and confronts him with past grievances, leading to Drebber's horrified realization.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "House in Brixton Road",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Narrator",
+                "Enoch Drebber"
+            ],
+            "objects": [
+                "wax candle",
+                "match"
+            ],
+            "text_phrases": [
+                "wild, bleak night, blowing hard and raining in torrents",
+                "dripping of the rain",
+                "Drebber all huddled together in a drunken sleep",
+                "shook him by the arm",
+                "stamp about",
+                "striking a match",
+                "putting it to a wax candle",
+                "holding the light to my own face",
+                "bleared, drunken eyes",
+                "horror spring up in them",
+                "perspiration break out upon his brow",
+                "teeth chattered in his head",
+                "leaned my back against the door",
+                "laughed loud and long"
+            ]
+        }
+    ],
+    "762-771": [
+        {
+            "scene_title": "Confrontation and Death of Enoch Drebber",
+            "description": "The narrator confronts Enoch Drebber, accusing him of past crimes and forcing him to choose between two pills, one of which is poisoned. After Drebber makes his choice, he dies from the poison.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "A room in London",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Narrator",
+                "Enoch Drebber"
+            ],
+            "objects": [
+                "Key",
+                "Knife",
+                "Pills",
+                "Marriage ring"
+            ],
+            "text_phrases": [
+                "locking the door",
+                "shaking the key in his face",
+                "drew my knife and held it to his throat",
+                "swallowed the other",
+                "held Lucy\u2019s marriage ring in front of his eyes",
+                "fell heavily upon the floor"
+            ]
+        },
+        {
+            "scene_title": "Writing on the Wall",
+            "description": "After the death of Enoch Drebber, the narrator uses his own blood to write the word 'RACHE' on the wall, intending to mislead the police.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "A room in London",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Narrator"
+            ],
+            "objects": [
+                "Blood",
+                "Wall"
+            ],
+            "text_phrases": [
+                "The blood had been streaming from my nose",
+                "dipped my finger in my own blood and printed it on a convenient place on the wall"
+            ]
+        },
+        {
+            "scene_title": "Return for the Ring",
+            "description": "The narrator returns to the crime scene to retrieve Lucy's marriage ring, which he had lost, and encounters a police officer.",
+            "scene_type": "EXT",
+            "scene_date": "1881",
+            "location": "Street outside the crime scene",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Narrator",
+                "Police Officer"
+            ],
+            "objects": [
+                "Lucy\u2019s marriage ring",
+                "Cab"
+            ],
+            "text_phrases": [
+                "I might have dropped it when I stooped over Drebber\u2019s body",
+                "walked right into the arms of a police-officer"
+            ]
+        },
+        {
+            "scene_title": "Assassination of Stangerson",
+            "description": "The narrator breaks into Stangerson's room and confronts him, leading to a struggle where Stangerson is fatally stabbed.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Stangerson's bedroom at Halliday's Private Hotel",
+            "time_of_day": "DAWN",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Narrator",
+                "Stangerson"
+            ],
+            "objects": [
+                "Ladders",
+                "Knife",
+                "Bed"
+            ],
+            "text_phrases": [
+                "ladders which were lying in the lane",
+                "made my way into his room",
+                "flew at my throat",
+                "stabbed him to the heart"
+            ]
+        },
+        {
+            "scene_title": "Arrest of Jefferson Hope",
+            "description": "Jefferson Hope is tricked into going to 221B Baker Street, where he is arrested by a young man.",
+            "scene_type": "EXT",
+            "scene_date": "1881",
+            "location": "221B Baker Street, London",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Jefferson Hope",
+                "Young man"
+            ],
+            "objects": [
+                "Cab",
+                "Bracelets (handcuffs)"
+            ],
+            "text_phrases": [
+                "his cab was wanted by a gentleman at 221B, Baker Street",
+                "the next thing I knew, this young man here had the bracelets on my wrists"
+            ]
+        }
+    ],
+    "772-789": [
+        {
+            "scene_title": "Interrogation at the Police Station",
+            "description": "Sherlock Holmes questions a prisoner about his accomplice related to a ring, while the Inspector discusses legal formalities regarding the prisoner's upcoming court appearance.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Police Station",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "The Prisoner",
+                "Inspector",
+                "Jefferson Hope",
+                "Warders"
+            ],
+            "objects": [
+                "Ring",
+                "Bell"
+            ],
+            "text_phrases": [
+                "Sherlock Holmes said at last",
+                "the ring which I advertised",
+                "the Inspector remarked gravely",
+                "the prisoner will be brought before the magistrates",
+                "Jefferson Hope was led off by a couple of warders"
+            ]
+        },
+        {
+            "scene_title": "Discussion at Baker Street",
+            "description": "Holmes and Watson discuss the implications of Jefferson Hope's death and the nature of their investigation.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Baker Street",
+            "time_of_day": "EVENING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. John Watson"
+            ],
+            "objects": [
+                "Couch",
+                "Pipe"
+            ],
+            "text_phrases": [
+                "Holmes remarked, as we chatted it over next evening",
+                "I would not have missed the investigation for anything",
+                "Simple as it was, there were several most instructive points about it"
+            ]
+        },
+        {
+            "scene_title": "Holmes Analyzes the Crime Scene",
+            "description": "Sherlock Holmes arrives at a house, examines the roadway and garden path for clues, and deduces the characteristics of the nocturnal visitors.",
+            "scene_type": "EXT",
+            "scene_date": "1881",
+            "location": "Outside a London House",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes"
+            ],
+            "objects": [
+                "Roadway",
+                "Garden path",
+                "Footmarks"
+            ],
+            "text_phrases": [
+                "I approached the house",
+                "examining the roadway",
+                "the marks of a cab",
+                "walked slowly down the garden path",
+                "the heavy footmarks of the constables",
+                "track of the two men"
+            ]
+        }
+    ],
+    "790-798": [
+        {
+            "scene_title": "The Deduction",
+            "description": "Sherlock Holmes deduces the motive behind the murder of Mr. Drebber, considering various possibilities such as robbery, politics, and personal reasons. He examines the crime scene, finding clues like a ring and an inscription that lead him to conclude the murder was due to a personal vendetta.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Murder scene",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes"
+            ],
+            "objects": [
+                "ring",
+                "inscription on the wall",
+                "Trichinopoly cigar"
+            ],
+            "text_phrases": [
+                "the great question as to the reason why",
+                "Robbery had not been the object of the murder",
+                "Was it politics, then, or was it a woman?",
+                "the inscription was discovered upon the wall",
+                "the ring was found",
+                "careful examination of the room"
+            ]
+        },
+        {
+            "scene_title": "The Investigation",
+            "description": "Sherlock Holmes continues his investigation by sending a telegram to Cleveland police regarding Mr. Drebber\u2019s past, specifically about any issues related to marriage. He deduces that the cab driver must be the murderer and organizes a group of street kids to find the suspect among London's cab drivers.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Sherlock Holmes' office",
+            "time_of_day": "AFTERNOON",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes"
+            ],
+            "objects": [
+                "telegram",
+                "newspaper"
+            ],
+            "text_phrases": [
+                "telegraphed to the head of the police at Cleveland",
+                "limiting my enquiry to the circumstances connected with the marriage of Enoch Drebber",
+                "organized my Street Arab detective corps",
+                "sent them systematically to every cab proprietor in London"
+            ]
+        },
+        {
+            "scene_title": "The Capture and Recognition",
+            "description": "Sherlock Holmes discusses the capture of the murderer, Jefferson Hope, and the unexpected incident of Mr. Stangerson's murder. He reflects on the chain of events and logical deductions that led to the resolution of the case. Holmes and Watson consider publishing an account of the case.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "Sherlock Holmes' office",
+            "time_of_day": "EVENING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. John Watson"
+            ],
+            "objects": [
+                "newspaper",
+                "paper"
+            ],
+            "text_phrases": [
+                "The murder of Stangerson was an incident which was entirely unexpected",
+                "came into possession of the pills",
+                "the whole thing is a chain of logical sequences",
+                "Your merits should be publicly recognized",
+                "You should publish an account of the case"
+            ]
+        }
+    ],
+    "799-801": [
+        {
+            "scene_title": "Celebratory Moment in Baker Street",
+            "description": "Sherlock Holmes and Dr. John Watson are in their shared living room at 221B Baker Street. Holmes, with a laugh, remarks on the outcome of their investigation, referring to it as 'Study in Scarlet'. Watson, not entirely convinced but still content, mentions his journal where he has recorded all the facts, ensuring that the public will be informed.",
+            "scene_type": "INT",
+            "scene_date": "1881",
+            "location": "221B Baker Street, London",
+            "time_of_day": "EVENING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. John Watson"
+            ],
+            "objects": [
+                "journal",
+                "living room"
+            ],
+            "text_phrases": [
+                "cried Sherlock Holmes with a laugh",
+                "I have all the facts in my journal",
+                "make yourself contented by the consciousness of success"
+            ]
+        }
+    ]
+}
