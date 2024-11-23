@@ -1,0 +1,4249 @@
+{
+    "12-40": [
+        {
+            "scene_title": "Breakfast Table Deduction",
+            "description": "Sherlock Holmes and Dr. Watson are at the breakfast table where Holmes deduces information about their visitor from a left behind walking stick.",
+            "scene_type": "INT",
+            "scene_date": "1884",
+            "location": "Holmes' Residence, Breakfast Table",
+            "time_of_day": "MORNING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. Watson"
+            ],
+            "objects": [
+                "breakfast table",
+                "walking stick",
+                "silver-plated coffee-pot",
+                "hearth-rug"
+            ],
+            "text_phrases": [
+                "seated at the breakfast table",
+                "picked up the stick",
+                "bulbous-headed",
+                "broad silver band",
+                "silver-plated coffee-pot"
+            ]
+        },
+        {
+            "scene_title": "Holmes Examines the Stick",
+            "description": "Holmes takes the walking stick to the window to examine it more closely with a convex lens, making further deductions about their visitor.",
+            "scene_type": "INT",
+            "scene_date": "1884",
+            "location": "Holmes' Residence, Near the Window",
+            "time_of_day": "MORNING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. Watson"
+            ],
+            "objects": [
+                "walking stick",
+                "convex lens",
+                "cigarette",
+                "settee"
+            ],
+            "text_phrases": [
+                "carrying the cane to the window",
+                "looked over it again with a convex lens",
+                "returned to his favourite corner of the settee"
+            ]
+        }
+    ],
+    "41-68": [
+        {
+            "scene_title": "Holmes and Watson Discuss Dr. Mortimer",
+            "description": "Sherlock Holmes and Dr. Watson discuss the details of Dr. James Mortimer's career and characteristics in their living room, while Holmes smokes and makes deductions.",
+            "scene_type": "INT",
+            "scene_date": "1883",
+            "location": "Holmes's Living Room",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. Watson"
+            ],
+            "objects": [
+                "settee",
+                "Medical Directory",
+                "smoke rings"
+            ],
+            "text_phrases": [
+                "Sherlock Holmes leaned back in his settee",
+                "blew little wavering rings of smoke up to the ceiling",
+                "Medical Directory and turned up the name"
+            ]
+        },
+        {
+            "scene_title": "Holmes Identifies the Dog",
+            "description": "Sherlock Holmes deduces the breed of the dog by examining the teeth marks on the stick and then confirms his deduction as he sees the dog and its owner arriving.",
+            "scene_type": "INT",
+            "scene_date": "1883",
+            "location": "Holmes's Living Room",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. Watson"
+            ],
+            "objects": [
+                "stick",
+                "dog"
+            ],
+            "text_phrases": [
+                "Being a heavy stick the dog has held it tightly by the middle",
+                "marks of his teeth are very plainly visible",
+                "it is a curly-haired spaniel"
+            ]
+        },
+        {
+            "scene_title": "Dr. Mortimer's Arrival",
+            "description": "Dr. James Mortimer arrives at Sherlock Holmes's residence, surprising both Holmes and Watson with his appearance and demeanor.",
+            "scene_type": "INT",
+            "scene_date": "1883",
+            "location": "Holmes's Living Room",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. Watson",
+                "Dr. James Mortimer"
+            ],
+            "objects": [
+                "stick",
+                "gold-rimmed glasses",
+                "frock-coat"
+            ],
+            "text_phrases": [
+                "very tall, thin man",
+                "long nose like a beak",
+                "gold-rimmed glasses",
+                "frock-coat was dingy"
+            ]
+        }
+    ],
+    "69-90": [
+        {
+            "scene_title": "Holmes and Dr. Mortimer Discuss the Manuscript",
+            "description": "Sherlock Holmes and Dr. James Mortimer are in a room discussing a manuscript related to the Baskerville family. Holmes analyzes the manuscript while Dr. Mortimer explains its significance and the tragic death of Sir Charles Baskerville.",
+            "scene_type": "INT",
+            "scene_date": "Early 20th Century",
+            "location": "Holmes' Study",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. James Mortimer"
+            ],
+            "objects": [
+                "manuscript",
+                "chair"
+            ],
+            "text_phrases": [
+                "I have in my pocket a manuscript",
+                "Holmes stretched out his hand for the manuscript and flattened it upon his knee",
+                "the yellow paper and the faded script",
+                "Baskerville Hall",
+                "1742"
+            ]
+        },
+        {
+            "scene_title": "The Legend of the Hound of the Baskervilles",
+            "description": "Dr. Mortimer reads aloud a curious old-world narrative from the manuscript detailing the origin of the Hound of the Baskervilles, a legend within the Baskerville family, involving Hugo Baskerville and a tragic incident during the time of the Great Rebellion.",
+            "scene_type": "INT",
+            "scene_date": "Early 20th Century",
+            "location": "Holmes' Study",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. James Mortimer"
+            ],
+            "objects": [
+                "manuscript",
+                "chair"
+            ],
+            "text_phrases": [
+                "Dr. Mortimer turned the manuscript to the light and read",
+                "Of the origin of the Hound of the Baskervilles",
+                "Hugo Baskerville",
+                "the Great Rebellion",
+                "the Manor of Baskerville"
+            ]
+        },
+        {
+            "scene_title": "Hugo Baskerville's Dark Deed",
+            "description": "The narrative describes a dark night when Hugo Baskerville, after a long carouse with his friends, abducts the daughter of a yeoman and the subsequent events leading to a curse on the Baskerville family.",
+            "scene_type": "INT",
+            "scene_date": "17th Century",
+            "location": "Baskerville Hall",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "FLASHBACK",
+            "characters": [
+                "Hugo Baskerville",
+                "young maiden"
+            ],
+            "objects": [
+                "ivy",
+                "manor",
+                "flagons",
+                "trenchers"
+            ],
+            "text_phrases": [
+                "Hugo and his friends sat down to a long carouse",
+                "the maiden was placed in an upper chamber",
+                "the growth of ivy which covered the south wall",
+                "flagons and trenchers flying before him"
+            ]
+        }
+    ],
+    "91-103": [
+        {
+            "scene_title": "The Pursuit on the Moor",
+            "description": "A group of revellers, after a sudden uproar, ride out into the moonlit moorlands in pursuit of a maid and encounter supernatural horrors.",
+            "scene_type": "EXT",
+            "scene_date": "unknown",
+            "location": "Moorlands",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "cut",
+            "characters": [
+                "Revellers",
+                "Night shepherd",
+                "Unhappy maiden",
+                "Hugo Baskerville",
+                "Black beast (hound)"
+            ],
+            "objects": [
+                "Pistols",
+                "Horses",
+                "Flask of wine",
+                "Black mare",
+                "Hounds"
+            ],
+            "text_phrases": [
+                "the revellers stood agape",
+                "took horse and started in pursuit",
+                "the moon shone clear",
+                "passed one of the night shepherds",
+                "Hugo Baskerville passed me upon his black mare",
+                "a hound of hell",
+                "the black mare, dabbled with white froth",
+                "the revellers rode close together",
+                "hounds whimpering in a cluster",
+                "great stones",
+                "the unhappy maid where she had fallen",
+                "black beast, shaped like a hound"
+            ]
+        },
+        {
+            "scene_title": "Dr. Mortimer and Sherlock Holmes Discuss the Baskerville Curse",
+            "description": "Dr. Mortimer reads a narrative about the Baskerville curse to Sherlock Holmes, who reacts skeptically.",
+            "scene_type": "INT",
+            "scene_date": "unknown",
+            "location": "Sherlock Holmes' Residence",
+            "time_of_day": "unknown",
+            "scene_transition_type": "cut",
+            "characters": [
+                "Dr. Mortimer",
+                "Sherlock Holmes"
+            ],
+            "objects": [
+                "Spectacles",
+                "Cigarette",
+                "Fireplace",
+                "Newspaper"
+            ],
+            "text_phrases": [
+                "Dr. Mortimer had finished reading",
+                "pushed his spectacles up on his forehead",
+                "Mr. Sherlock Holmes",
+                "tossed the end of his cigarette into the fire",
+                "a collector of fairy tales",
+                "folded newspaper"
+            ]
+        },
+        {
+            "scene_title": "The Death of Sir Charles Baskerville",
+            "description": "Dr. Mortimer reads a newspaper account detailing the sudden and mysterious death of Sir Charles Baskerville, a well-loved local figure.",
+            "scene_type": "INT",
+            "scene_date": "May 14th of this year",
+            "location": "Sherlock Holmes' Residence",
+            "time_of_day": "unknown",
+            "scene_transition_type": "cut",
+            "characters": [
+                "Dr. Mortimer",
+                "Sherlock Holmes"
+            ],
+            "objects": [
+                "Newspaper",
+                "Glasses"
+            ],
+            "text_phrases": [
+                "The recent sudden death of Sir Charles Baskerville",
+                "cast a gloom over the county",
+                "Sir Charles had resided at Baskerville Hall",
+                "his amiability of character and extreme generosity",
+                "made large sums of money in South African speculation",
+                "generous donations to local and county charities"
+            ]
+        }
+    ],
+    "104-112": [
+        {
+            "scene_title": "The Last Walk of Sir Charles Baskerville",
+            "description": "Sir Charles Baskerville takes his habitual nocturnal walk down the yew alley of Baskerville Hall, but never returns. His footprints show he stood by the moor gate before proceeding down the alley where his body was later discovered.",
+            "scene_type": "EXT",
+            "scene_date": "1890",
+            "location": "Yew Alley, Baskerville Hall",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sir Charles Baskerville",
+                "Barrymore"
+            ],
+            "objects": [
+                "lantern",
+                "cigar",
+                "gate",
+                "footprints"
+            ],
+            "text_phrases": [
+                "walking down the famous yew alley of Baskerville Hall",
+                "nocturnal walk",
+                "smoking a cigar",
+                "footmarks were easily traced",
+                "gate which leads out on to the moor",
+                "body was discovered"
+            ]
+        },
+        {
+            "scene_title": "Barrymore's Search",
+            "description": "Barrymore, the butler, alarmed by the open hall door and the absence of Sir Charles, lights a lantern and searches for his master down the yew alley, discovering unsettling changes in the footprints.",
+            "scene_type": "EXT",
+            "scene_date": "1890",
+            "location": "Yew Alley, Baskerville Hall",
+            "time_of_day": "MIDNIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Barrymore"
+            ],
+            "objects": [
+                "lantern",
+                "hall door",
+                "footprints"
+            ],
+            "text_phrases": [
+                "Barrymore, finding the hall door still open, became alarmed",
+                "lighting a lantern",
+                "went in search of his master",
+                "Sir Charles\u2019s footprints altered their character"
+            ]
+        },
+        {
+            "scene_title": "Dr. Mortimer and Sherlock Holmes Discuss the Case",
+            "description": "Dr. Mortimer meets with Sherlock Holmes to discuss the mysterious circumstances surrounding the death of Sir Charles Baskerville, revealing public and private facts about the case.",
+            "scene_type": "INT",
+            "scene_date": "1890",
+            "location": "Sherlock Holmes's Residence",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Dr. James Mortimer",
+                "Sherlock Holmes"
+            ],
+            "objects": [
+                "paper",
+                "chair"
+            ],
+            "text_phrases": [
+                "Dr. Mortimer refolded his paper and replaced it in his pocket",
+                "Sherlock Holmes",
+                "calling my attention to a case",
+                "private ones",
+                "finger-tips together",
+                "judicial expression"
+            ]
+        }
+    ],
+    "113-152": [
+        {
+            "scene_title": "Sir Charles's Horror at the Hall Door",
+            "description": "Dr. Mortimer recalls arriving at Sir Charles's residence and witnessing Sir Charles's terrified reaction to something he sees over Dr. Mortimer's shoulder, which turns out to be a large black calf.",
+            "scene_type": "EXT",
+            "scene_date": "Unknown",
+            "location": "Front of Baskerville Hall",
+            "time_of_day": "EVENING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Dr. Mortimer",
+                "Sir Charles"
+            ],
+            "objects": [
+                "gig",
+                "hall door",
+                "black calf"
+            ],
+            "text_phrases": [
+                "driving up to his house in the evening",
+                "at his hall door",
+                "descended from my gig",
+                "eyes fix themselves over my shoulder",
+                "expression of the most dreadful horror",
+                "large black calf passing at the head of the drive"
+            ]
+        },
+        {
+            "scene_title": "The Night of Sir Charles's Death",
+            "description": "Dr. Mortimer describes the night he was summoned to Baskerville Hall after Sir Charles's death, detailing his observations of the scene and the mysterious footprints he discovered.",
+            "scene_type": "EXT",
+            "scene_date": "Unknown",
+            "location": "Baskerville Hall, Yew Alley, and Moor-gate",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Dr. Mortimer",
+                "Sir Charles (deceased)",
+                "Barrymore",
+                "Perkins"
+            ],
+            "objects": [
+                "horse",
+                "yew alley",
+                "moor-gate",
+                "body of Sir Charles"
+            ],
+            "text_phrases": [
+                "sitting up late",
+                "reach Baskerville Hall within an hour of the event",
+                "followed the footsteps down the yew alley",
+                "saw the spot at the moor-gate",
+                "examined the body",
+                "footprints of a gigantic hound"
+            ]
+        }
+    ],
+    "153-197": [
+        {
+            "scene_title": "Investigation at the Moor-gate",
+            "description": "Sherlock Holmes and Dr. Mortimer discuss the mysterious circumstances surrounding Sir Charles's death near the moor-gate, focusing on the closed wicket-gate and the lack of significant marks around it.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Moor near Baskerville Hall",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. Mortimer"
+            ],
+            "objects": [
+                "moor-gate",
+                "wicket-gate",
+                "padlock",
+                "gravel patch"
+            ],
+            "text_phrases": [
+                "same side of the path as the moor-gate",
+                "wicket-gate closed",
+                "Closed and padlocked",
+                "four feet high",
+                "ash had twice dropped from his cigar",
+                "own marks all over that small patch of gravel"
+            ]
+        },
+        {
+            "scene_title": "Holmes's Frustration and Theoretical Discussion",
+            "description": "Sherlock Holmes expresses frustration over not being called to the scene earlier and discusses the supernatural elements of the case with Dr. Mortimer.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Holmes's Study",
+            "time_of_day": "EVENING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. Mortimer"
+            ],
+            "objects": [
+                "study room",
+                "cigar"
+            ],
+            "text_phrases": [
+                "case of extraordinary interest",
+                "scientific expert",
+                "gravel page",
+                "realm in which the most acute and most experienced of detectives is helpless",
+                "creature upon the moor",
+                "huge creature, luminous, ghastly, and spectral"
+            ]
+        },
+        {
+            "scene_title": "Consultation about Sir Henry Baskerville",
+            "description": "Dr. Mortimer seeks advice from Sherlock Holmes about what to do with Sir Henry Baskerville, the heir to the Baskerville estate, considering the curse and the dangers of the moor.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Holmes's Study",
+            "time_of_day": "EVENING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. Mortimer"
+            ],
+            "objects": [
+                "watch",
+                "study room"
+            ],
+            "text_phrases": [
+                "Sir Henry Baskerville, who arrives at Waterloo Station",
+                "heir to great wealth",
+                "every Baskerville who goes there meets with an evil fate",
+                "prosperity of the whole poor, bleak countryside depends upon his presence"
+            ]
+        }
+    ],
+    "198-237": [
+        {
+            "scene_title": "Consultation at Baker Street",
+            "description": "Dr. Mortimer visits Sherlock Holmes to discuss the safety of Sir Henry Baskerville, leading to a discussion about supernatural theories and practical advice.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Sherlock Holmes' residence, Baker Street, London",
+            "time_of_day": "MORNING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. Mortimer"
+            ],
+            "objects": [
+                "spaniel",
+                "shirt-cuff",
+                "front door"
+            ],
+            "text_phrases": [
+                "supernatural theory",
+                "take a cab",
+                "spaniel who is scratching at my front door",
+                "proceed to Waterloo",
+                "scribbled the appointment on his shirt-cuff"
+            ]
+        },
+        {
+            "scene_title": "Holmes' Study Session",
+            "description": "Holmes remains in his armchair, surrounded by smoke and papers, deeply engrossed in solving the case through intense mental concentration.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Sherlock Holmes' residence, Baker Street, London",
+            "time_of_day": "EVENING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. Watson"
+            ],
+            "objects": [
+                "black clay pipe",
+                "rolls of paper",
+                "lamp",
+                "armchair"
+            ],
+            "text_phrases": [
+                "acrid fumes of strong coarse tobacco",
+                "black clay pipe between his lips",
+                "rolls of paper lay around him",
+                "light of the lamp upon the table was blurred"
+            ]
+        },
+        {
+            "scene_title": "Holmes Analyzes the Map",
+            "description": "Holmes, still in his armchair, examines a large-scale map of Devonshire, pointing out key locations relevant to the Baskerville case.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Sherlock Holmes' residence, Baker Street, London",
+            "time_of_day": "EVENING",
+            "scene_transition_type": "CONTINUOUS",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. Watson"
+            ],
+            "objects": [
+                "large-scale map",
+                "armchair"
+            ],
+            "text_phrases": [
+                "large-scale map",
+                "Baskerville Hall in the middle",
+                "yew alley",
+                "moorland farmhouses",
+                "convict prison of Princetown"
+            ]
+        }
+    ],
+    "238-272": [
+        {
+            "scene_title": "Holmes and Watson Discuss the Case",
+            "description": "Sherlock Holmes and Dr. Watson discuss the supernatural elements and logical explanations of their current investigation in a closed, concentrated environment.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Holmes' Study",
+            "time_of_day": "EVENING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. Watson"
+            ],
+            "objects": [
+                "window",
+                "violin"
+            ],
+            "text_phrases": [
+                "I think we\u2019ll shut that window again",
+                "Might I ask you to hand me my violin"
+            ]
+        },
+        {
+            "scene_title": "Meeting with Sir Henry and Dr. Mortimer",
+            "description": "Sherlock Holmes and Dr. Watson meet with Sir Henry Baskerville and Dr. Mortimer to discuss the mysterious events surrounding the Baskerville estate.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Holmes' Apartment",
+            "time_of_day": "MORNING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. Watson",
+                "Sir Henry Baskerville",
+                "Dr. Mortimer"
+            ],
+            "objects": [
+                "envelope",
+                "letter",
+                "breakfast table",
+                "dressing-gown"
+            ],
+            "text_phrases": [
+                "Our breakfast table was cleared early",
+                "Holmes waited in his dressing-gown",
+                "He laid an envelope upon the table"
+            ]
+        }
+    ],
+    "273-302": [
+        {
+            "scene_title": "The Analysis of the Cut-Out Message",
+            "description": "Sherlock Holmes, Dr. Mortimer, and Sir Henry Baskerville are in a room discussing a mysterious message that was cut out from a newspaper. Holmes explains how he deduced the source of the message and the implications of its content.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Sherlock Holmes' Room",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. Mortimer",
+                "Sir Henry Baskerville",
+                "Dr. Watson"
+            ],
+            "objects": [
+                "newspaper",
+                "scissors",
+                "paste",
+                "gum"
+            ],
+            "text_phrases": [
+                "What do you make of it, Dr. Mortimer?",
+                "Have you yesterday\u2019s _Times_, Watson?",
+                "running his eyes up and down the columns",
+                "Capital article this on free trade",
+                "the words were from a newspaper",
+                "the cutter had to take two snips over \u2018keep away.\u2019",
+                "pasted it with paste",
+                "gum on to the paper"
+            ]
+        }
+    ],
+    "303-336": [
+        {
+            "scene_title": "Analyzing the Letter",
+            "description": "Dr. Mortimer and Sherlock Holmes analyze a problematic letter, discussing its origin and the issues with the pen and ink used, suggesting it was written in a hotel.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Sherlock Holmes' Study",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Dr. Mortimer",
+                "Sherlock Holmes"
+            ],
+            "objects": [
+                "letter",
+                "foolscap"
+            ],
+            "text_phrases": [
+                "region of guesswork",
+                "scientific use of the imagination",
+                "address has been written in a hotel",
+                "pen has spluttered",
+                "ink have given the writer trouble",
+                "examining the foolscap"
+            ]
+        },
+        {
+            "scene_title": "The Missing Boot",
+            "description": "Sir Henry discusses with Sherlock Holmes and Dr. Mortimer about his missing boot, an incident he finds peculiar and out of the ordinary.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Sherlock Holmes' Study",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sir Henry",
+                "Sherlock Holmes",
+                "Dr. Mortimer"
+            ],
+            "objects": [
+                "boots"
+            ],
+            "text_phrases": [
+                "lose one of your boots",
+                "mislaid it",
+                "put them both outside my door",
+                "only one in the morning",
+                "tan boots",
+                "never been varnished"
+            ]
+        },
+        {
+            "scene_title": "The Baskerville Inheritance",
+            "description": "Sir Henry listens intently as Dr. Mortimer recounts the details of the Baskerville inheritance and the mysterious circumstances surrounding it.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Sherlock Holmes' Study",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sir Henry",
+                "Dr. Mortimer",
+                "Sherlock Holmes"
+            ],
+            "objects": [
+                "papers"
+            ],
+            "text_phrases": [
+                "inheritance with a vengeance",
+                "hound ever since I was in the nursery",
+                "uncle\u2019s death",
+                "case for a policeman or a clergyman",
+                "affair of the letter"
+            ]
+        }
+    ],
+    "337-367": [
+        {
+            "scene_title": "Determined Departure",
+            "description": "In a heated conversation, Baskerville expresses his unwavering decision to return to his ancestral home despite warnings of danger, both supernatural and human.",
+            "scene_type": "INT",
+            "scene_date": "1890",
+            "location": "Holmes' Residence",
+            "time_of_day": "MORNING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Mr. Holmes",
+                "Baskerville"
+            ],
+            "objects": [
+                "Hotel",
+                "Dressing-gown",
+                "Frock-coat"
+            ],
+            "text_phrases": [
+                "dark brows knitted",
+                "face flushed to a dusky red",
+                "fiery temper",
+                "home of my own people"
+            ]
+        },
+        {
+            "scene_title": "Chase through London",
+            "description": "Holmes and Watson hastily follow Dr. Mortimer and Baskerville through the streets of London, trying to keep a discreet distance. They witness a mysterious man in a cab who quickly evades them.",
+            "scene_type": "EXT",
+            "scene_date": "1890",
+            "location": "Streets of London",
+            "time_of_day": "MORNING",
+            "scene_transition_type": "FOLLOW",
+            "characters": [
+                "Holmes",
+                "Watson",
+                "Dr. Mortimer",
+                "Baskerville",
+                "Mysterious man in cab"
+            ],
+            "objects": [
+                "Hansom cab",
+                "Shop window",
+                "Traffic"
+            ],
+            "text_phrases": [
+                "hundred yards behind",
+                "piercing eyes",
+                "bushy black beard",
+                "cab flew madly off down Regent Street"
+            ]
+        }
+    ],
+    "368-405": [
+        {
+            "scene_title": "Conversation and Plan on Regent Street",
+            "description": "Sherlock Holmes and Watson discuss their next steps while walking down Regent Street, deciding not to follow Dr. Mortimer and his companion.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Regent Street, London",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. Watson"
+            ],
+            "objects": [
+                "Regent Street",
+                "beard"
+            ],
+            "text_phrases": [
+                "sauntering slowly down Regent Street",
+                "could swear only to the beard"
+            ]
+        },
+        {
+            "scene_title": "Holmes in the Messenger Office",
+            "description": "Holmes and Watson enter a district messenger office where Holmes is recognized and initiates a new investigation with the help of a young lad named Cartwright.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "District Messenger Office, London",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. Watson",
+                "Wilson",
+                "Cartwright"
+            ],
+            "objects": [
+                "messenger office",
+                "Hotel Directory",
+                "five-pound note"
+            ],
+            "text_phrases": [
+                "district messenger offices",
+                "Hotel Directory",
+                "five-pound note"
+            ]
+        },
+        {
+            "scene_title": "Artistic Interlude at Bond Street Gallery",
+            "description": "Holmes and Watson visit a Bond Street picture gallery, where Holmes immerses himself in the art of modern Belgian masters, detaching from the case momentarily.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Bond Street Picture Gallery, London",
+            "time_of_day": "AFTERNOON",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. Watson"
+            ],
+            "objects": [
+                "picture gallery",
+                "art"
+            ],
+            "text_phrases": [
+                "Bond Street picture galleries",
+                "pictures of the modern Belgian masters"
+            ]
+        },
+        {
+            "scene_title": "Encounter at the Northumberland Hotel",
+            "description": "Holmes and Watson arrive at the Northumberland Hotel, where they encounter Sir Henry Baskerville in a state of anger over a missing boot.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Northumberland Hotel, London",
+            "time_of_day": "EVENING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. Watson",
+                "Sir Henry Baskerville",
+                "hotel clerk",
+                "hotel porter"
+            ],
+            "objects": [
+                "hotel register",
+                "old and dusty boot"
+            ],
+            "text_phrases": [
+                "Northumberland Hotel",
+                "missing boot",
+                "hotel register"
+            ]
+        }
+    ],
+    "406-456": [
+        {
+            "scene_title": "The Missing Boots",
+            "description": "A conversation about a missing boot between a guest and a German waiter in a hotel.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Hotel",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Guest",
+                "German Waiter",
+                "Mr. Holmes"
+            ],
+            "objects": [
+                "new brown boot",
+                "old black boot",
+                "patent leathers"
+            ],
+            "text_phrases": [
+                "new brown boot",
+                "old black one",
+                "patent leathers",
+                "German waiter"
+            ]
+        },
+        {
+            "scene_title": "Planning to Leave for Baskerville Hall",
+            "description": "Holmes and Baskerville discuss plans to travel to Baskerville Hall, and the potential dangers in London.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Holmes's Private Sitting-Room",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Holmes",
+                "Baskerville",
+                "Dr. Mortimer"
+            ],
+            "objects": [
+                "telegraph form",
+                "luncheon table"
+            ],
+            "text_phrases": [
+                "private sitting-room",
+                "Baskerville Hall",
+                "telegraph form",
+                "luncheon table"
+            ]
+        },
+        {
+            "scene_title": "Inquiry About Barrymore",
+            "description": "Holmes, Baskerville, and Dr. Mortimer discuss the whereabouts of Barrymore and his potential involvement in suspicious activities.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Holmes's Private Sitting-Room",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Holmes",
+                "Baskerville",
+                "Dr. Mortimer"
+            ],
+            "objects": [
+                "telegraph form",
+                "telegram"
+            ],
+            "text_phrases": [
+                "Barrymore",
+                "telegraph form",
+                "Grimpen telegraph-office",
+                "telegram"
+            ]
+        },
+        {
+            "scene_title": "Discussion of Sir Charles's Will",
+            "description": "Holmes, Baskerville, and Dr. Mortimer discuss the details of Sir Charles's will and the implications for the inheritors.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Holmes's Private Sitting-Room",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Holmes",
+                "Baskerville",
+                "Dr. Mortimer"
+            ],
+            "objects": [
+                "will document",
+                "securities"
+            ],
+            "text_phrases": [
+                "Sir Charles's will",
+                "legacy",
+                "seven hundred and forty thousand pounds",
+                "will document"
+            ]
+        }
+    ],
+    "457-492": [
+        {
+            "scene_title": "Inheritance Discussion",
+            "description": "Sir Henry and Mr. Holmes discuss the inheritance of the Baskerville estate and the associated responsibilities.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Holmes' Office, London",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sir Henry",
+                "Mr. Holmes"
+            ],
+            "objects": [
+                "office furniture",
+                "documents"
+            ],
+            "text_phrases": [
+                "heir to Sir Charles\u2019s thousands",
+                "entailed estate",
+                "money should go with the title and estate"
+            ]
+        },
+        {
+            "scene_title": "Travel Arrangements",
+            "description": "Holmes advises Sir Henry not to travel alone to Devonshire, suggesting he needs a trusty man by his side.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Holmes' Office, London",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sir Henry",
+                "Mr. Holmes",
+                "Dr. Watson"
+            ],
+            "objects": [
+                "office furniture"
+            ],
+            "text_phrases": [
+                "not go alone",
+                "Dr. Mortimer returns with me",
+                "trusty man, who will be always by your side"
+            ]
+        },
+        {
+            "scene_title": "Discovery of the Missing Boot",
+            "description": "Baskerville finds his missing boot hidden in the room, adding to the series of small mysteries.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Holmes' Office, London",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sir Henry",
+                "Mr. Holmes",
+                "Dr. Watson",
+                "Dr. Mortimer"
+            ],
+            "objects": [
+                "a brown boot",
+                "cabinet"
+            ],
+            "text_phrases": [
+                "cry of triumph",
+                "drew a brown boot from under a cabinet",
+                "My missing boot!"
+            ]
+        },
+        {
+            "scene_title": "Holmes and Watson Discuss the Case",
+            "description": "Holmes and Watson discuss the complexities of the case while receiving telegrams with updates.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Holmes' Office, London",
+            "time_of_day": "EVENING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Mr. Holmes",
+                "Dr. Watson"
+            ],
+            "objects": [
+                "telegrams",
+                "tobacco"
+            ],
+            "text_phrases": [
+                "Holmes sat in silence",
+                "two telegrams were handed in",
+                "everything goes against you"
+            ]
+        },
+        {
+            "scene_title": "The Cabman's Arrival",
+            "description": "A cabman arrives at Holmes' office, confronting him about the inquiries made.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Holmes' Office, London",
+            "time_of_day": "EVENING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Mr. Holmes",
+                "Dr. Watson",
+                "the cabman"
+            ],
+            "objects": [
+                "office door"
+            ],
+            "text_phrases": [
+                "rough-looking fellow entered",
+                "I got a message from the head office",
+                "what you had against me"
+            ]
+        }
+    ],
+    "493-534": [
+        {
+            "scene_title": "Holmes Interrogates the Cabman",
+            "description": "Sherlock Holmes and Dr. Watson are in a room where Holmes is questioning a cabman named John Clayton about his recent fare who claimed to be a detective and followed two gentlemen.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Holmes' Residence",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. Watson",
+                "John Clayton"
+            ],
+            "objects": [
+                "sovereign",
+                "notebook"
+            ],
+            "text_phrases": [
+                "Sherlock Holmes made a note of it",
+                "half a sovereign for you",
+                "sat in silent amazement",
+                "burst into a hearty laugh"
+            ]
+        },
+        {
+            "scene_title": "Cabman's Tale of Following",
+            "description": "John Clayton recounts his day following two gentlemen on the instructions of a man claiming to be Sherlock Holmes, starting from Trafalgar Square to various locations, ending at Waterloo Station.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Holmes' Residence",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. Watson",
+                "John Clayton"
+            ],
+            "objects": [
+                "cab",
+                "mare"
+            ],
+            "text_phrases": [
+                "He hailed me at half-past nine in Trafalgar Square",
+                "drove down to the Northumberland Hotel",
+                "followed their cab until it pulled up somewhere near here",
+                "drove right away to Waterloo Station"
+            ]
+        },
+        {
+            "scene_title": "Holmes and Watson's Departure to Devonshire",
+            "description": "Sherlock Holmes and Dr. Watson prepare to leave for Devonshire, discussing the case and their concerns about the dangers involved.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "London Train Station",
+            "time_of_day": "MORNING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. Watson"
+            ],
+            "objects": [
+                "train",
+                "luggage"
+            ],
+            "text_phrases": [
+                "we started as arranged for Devonshire",
+                "Mr. Sherlock Holmes drove with me to the station",
+                "his last parting injunctions and advice"
+            ]
+        }
+    ],
+    "535-558": [
+        {
+            "scene_title": "Discussion on Suspects",
+            "description": "Holmes and Watson discuss the list of suspects involved in their current case, considering the implications of dismissing or keeping each suspect under observation.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Holmes' Office",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Holmes",
+                "Watson"
+            ],
+            "objects": [
+                "List of suspects",
+                "Office furniture"
+            ],
+            "text_phrases": [
+                "get rid of this Barrymore couple",
+                "preserve them upon our list of suspects",
+                "there is a groom at the Hall",
+                "our friend Dr. Mortimer",
+                "his wife",
+                "naturalist, Stapleton",
+                "his sister",
+                "Mr. Frankland, of Lafter Hall"
+            ]
+        },
+        {
+            "scene_title": "Departure by Train",
+            "description": "Holmes, Watson, and Sir Henry Baskerville prepare to depart by train, discussing precautions and the mysterious loss of a boot.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Train Station Platform",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Holmes",
+                "Watson",
+                "Sir Henry Baskerville",
+                "Dr. Mortimer"
+            ],
+            "objects": [
+                "Train",
+                "Revolver",
+                "Boot"
+            ],
+            "text_phrases": [
+                "secured a first-class carriage",
+                "Keep your revolver near you night and day",
+                "the train began to glide down the platform",
+                "avoid the moor in those hours of darkness"
+            ]
+        },
+        {
+            "scene_title": "Journey to Devon",
+            "description": "During the train journey, the characters discuss their past and the significance of returning to Devon, while observing the changing landscape.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Train Carriage",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Watson",
+                "Sir Henry Baskerville",
+                "Dr. Mortimer"
+            ],
+            "objects": [
+                "Train interior",
+                "Luggage",
+                "Window view of the countryside"
+            ],
+            "text_phrases": [
+                "the brown earth had become ruddy",
+                "red cows grazed in well-hedged fields",
+                "the familiar features of the Devon scenery",
+                "first sight of the moor"
+            ]
+        },
+        {
+            "scene_title": "Arrival at the Station",
+            "description": "The group arrives at a small station, greeted by the station-master and porters, and observes the moor's ominous presence as they set off in a wagonette.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Wayside Station",
+            "time_of_day": "EVENING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Watson",
+                "Sir Henry Baskerville",
+                "Dr. Mortimer",
+                "Station-master",
+                "Porters",
+                "Coachman"
+            ],
+            "objects": [
+                "Wagonette",
+                "Luggage",
+                "Rifles",
+                "Station"
+            ],
+            "text_phrases": [
+                "the train pulled up at a small wayside station",
+                "a wagonette with a pair of cobs was waiting",
+                "station-master and porters clustered round us",
+                "the long, gloomy curve of the moor"
+            ]
+        }
+    ],
+    "559-578": [
+        {
+            "scene_title": "Journey Through the Countryside",
+            "description": "The wagonette travels through deep lanes, over a granite bridge, and alongside a noisy stream, surrounded by a lush countryside as the sun sets.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Countryside road near Baskerville Hall",
+            "time_of_day": "SUNSET",
+            "scene_transition_type": "CUT",
+            "characters": [
+                "Baskerville",
+                "Dr. Mortimer"
+            ],
+            "objects": [
+                "wagonette",
+                "granite bridge",
+                "stream",
+                "bracken",
+                "bramble"
+            ],
+            "text_phrases": [
+                "wagonette swung round into a side road",
+                "deep lanes worn by centuries of wheels",
+                "high banks on either side",
+                "dripping moss",
+                "fleshy hart\u2019s-tongue ferns",
+                "Bronzing bracken",
+                "mottled bramble",
+                "light of the sinking sun",
+                "narrow granite bridge",
+                "noisy stream which gushed swiftly down"
+            ]
+        },
+        {
+            "scene_title": "Encounter with the Mounted Soldier",
+            "description": "The travelers encounter a stern, mounted soldier watching the road, informed about an escaped convict.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Heath-clad land near Baskerville Hall",
+            "time_of_day": "SUNSET",
+            "scene_transition_type": "CUT",
+            "characters": [
+                "Dr. Mortimer",
+                "Perkins (driver)",
+                "mounted soldier"
+            ],
+            "objects": [
+                "wagonette",
+                "rifle",
+                "heath-clad land"
+            ],
+            "text_phrases": [
+                "steep curve of heath-clad land",
+                "mounted soldier, dark and stern",
+                "rifle poised ready over his forearm",
+                "watching the road",
+                "convict escaped from Princetown"
+            ]
+        },
+        {
+            "scene_title": "Arrival at Baskerville Hall",
+            "description": "The wagonette arrives at Baskerville Hall, passing through the lodge gates into a sombre avenue leading up to the foreboding manor.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Baskerville Hall",
+            "time_of_day": "EVENING",
+            "scene_transition_type": "CUT",
+            "characters": [
+                "Baskerville",
+                "Dr. Mortimer",
+                "Perkins (driver)"
+            ],
+            "objects": [
+                "wagonette",
+                "lodge gates",
+                "Baskerville Hall",
+                "avenue",
+                "twin towers"
+            ],
+            "text_phrases": [
+                "lodge-gates, a maze of fantastic tracery in wrought iron",
+                "weather-bitten pillars",
+                "old trees shot their branches in a sombre tunnel",
+                "house glimmered like a ghost",
+                "broad expanse of turf",
+                "heavy block of building",
+                "twin towers, ancient, crenelated",
+                "high chimneys",
+                "black column of smoke"
+            ]
+        }
+    ],
+    "579-601": [
+        {
+            "scene_title": "Arrival at Baskerville Hall",
+            "description": "A tall man and a woman silhouette against the hall light as they help hand down bags from the wagonette. Dr. Mortimer and Sir Henry discuss dinner plans briefly before Dr. Mortimer departs.",
+            "scene_type": "EXT",
+            "scene_date": "Victorian Era",
+            "location": "Outside Baskerville Hall",
+            "time_of_day": "EVENING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Dr. Mortimer",
+                "Sir Henry",
+                "Tall man",
+                "Woman"
+            ],
+            "objects": [
+                "Wagonette",
+                "Bags",
+                "Porch"
+            ],
+            "text_phrases": [
+                "tall man had stepped from the shadow of the porch",
+                "figure of a woman was silhouetted against the yellow light of the hall",
+                "open the door of the wagonette"
+            ]
+        },
+        {
+            "scene_title": "Inside Baskerville Hall",
+            "description": "Sir Henry and the narrator enter the grand hall of Baskerville Hall, observing its old-fashioned, somber decor and warming themselves by the log-fire.",
+            "scene_type": "INT",
+            "scene_date": "Victorian Era",
+            "location": "Baskerville Hall, Grand Hall",
+            "time_of_day": "EVENING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sir Henry",
+                "Narrator"
+            ],
+            "objects": [
+                "Fireplace",
+                "Log-fire",
+                "Stags' heads",
+                "Coats of arms",
+                "Central lamp"
+            ],
+            "text_phrases": [
+                "large, lofty, and heavily raftered with huge baulks of age-blackened oak",
+                "great old-fashioned fireplace",
+                "log-fire crackled and snapped",
+                "high, thin window of old stained glass",
+                "oak panelling"
+            ]
+        },
+        {
+            "scene_title": "Dining in the Gloom",
+            "description": "Sir Henry and the narrator dine in a shadowy, long chamber of Baskerville Hall, feeling subdued by the somber atmosphere and the silent company of ancestors' portraits.",
+            "scene_type": "INT",
+            "scene_date": "Victorian Era",
+            "location": "Baskerville Hall, Dining Room",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sir Henry",
+                "Narrator"
+            ],
+            "objects": [
+                "Shaded lamp",
+                "Minstrel's gallery",
+                "Black beams",
+                "Portraits of ancestors"
+            ],
+            "text_phrases": [
+                "long chamber with a step separating the dais",
+                "minstrel\u2019s gallery overlooked it",
+                "black beams shot across above our heads",
+                "smoke-darkened ceiling",
+                "dim line of ancestors"
+            ]
+        },
+        {
+            "scene_title": "A Nighttime View",
+            "description": "The narrator draws aside the curtains to look out at the grassy space in front of Baskerville Hall, observing the moody landscape under a half moon.",
+            "scene_type": "INT",
+            "scene_date": "Victorian Era",
+            "location": "Baskerville Hall, Narrator's Bedroom",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Narrator"
+            ],
+            "objects": [
+                "Curtains",
+                "Window",
+                "Grassy space",
+                "Trees",
+                "Rocks",
+                "Moor"
+            ],
+            "text_phrases": [
+                "drew aside my curtains",
+                "looked out from my window",
+                "grassy space which lay in front of the hall door",
+                "two copses of trees moaned and swung",
+                "half moon broke through the rifts of racing clouds",
+                "long, low curve of the melancholy moor"
+            ]
+        }
+    ],
+    "602-622": [
+        {
+            "scene_title": "Midnight Disturbance",
+            "description": "The protagonist is unable to sleep and hears the sob of a woman in the dead of night, stirring him to alertness in his room.",
+            "scene_type": "INT",
+            "scene_date": "1890",
+            "location": "Bedroom in Baskerville Hall",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Narrator"
+            ],
+            "objects": [
+                "Bed",
+                "Clock"
+            ],
+            "text_phrases": [
+                "tossing restlessly from side to side",
+                "chiming clock struck out the quarters of the hours",
+                "sob of a woman",
+                "muffled, strangling gasp",
+                "sat up in bed"
+            ]
+        },
+        {
+            "scene_title": "Breakfast at Baskerville Hall",
+            "description": "Sir Henry and the narrator discuss their eerie experience from the night before while having breakfast in a sunlit room.",
+            "scene_type": "INT",
+            "scene_date": "1890",
+            "location": "Dining room in Baskerville Hall",
+            "time_of_day": "MORNING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sir Henry",
+                "Narrator"
+            ],
+            "objects": [
+                "Breakfast table",
+                "High mullioned windows",
+                "Coats of arms"
+            ],
+            "text_phrases": [
+                "sunlight flooded in through the high mullioned windows",
+                "watery patches of colour from the coats of arms",
+                "dark panelling glowed like bronze"
+            ]
+        },
+        {
+            "scene_title": "Confrontation with Barrymore",
+            "description": "Sir Henry and the narrator confront Barrymore about the nocturnal sobbing, leading to a tense exchange.",
+            "scene_type": "INT",
+            "scene_date": "1890",
+            "location": "Hallway in Baskerville Hall",
+            "time_of_day": "MORNING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sir Henry",
+                "Narrator",
+                "Barrymore"
+            ],
+            "objects": [
+                "Bell",
+                "Corridor"
+            ],
+            "text_phrases": [
+                "rang the bell",
+                "pallid features of the butler",
+                "master\u2019s question"
+            ]
+        },
+        {
+            "scene_title": "Encounter with Mrs. Barrymore",
+            "description": "The narrator encounters Mrs. Barrymore in the corridor, noticing her distressed appearance which contradicts her husband's earlier statements.",
+            "scene_type": "INT",
+            "scene_date": "1890",
+            "location": "Corridor in Baskerville Hall",
+            "time_of_day": "MORNING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Narrator",
+                "Mrs. Barrymore"
+            ],
+            "objects": [
+                "Corridor"
+            ],
+            "text_phrases": [
+                "met Mrs. Barrymore in the long corridor",
+                "sun full upon her face",
+                "tell-tale eyes were red"
+            ]
+        },
+        {
+            "scene_title": "Inquiry at the Post Office",
+            "description": "The narrator visits the postmaster to verify the delivery of a crucial telegram, uncovering more about Barrymore's whereabouts.",
+            "scene_type": "INT",
+            "scene_date": "1890",
+            "location": "Post Office in a small grey hamlet",
+            "time_of_day": "NOON",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Narrator",
+                "Postmaster",
+                "James (Postmaster's son)"
+            ],
+            "objects": [
+                "Telegram",
+                "Post Office counter"
+            ],
+            "text_phrases": [
+                "pleasant walk of four miles",
+                "small grey hamlet",
+                "telegram delivered to Mr. Barrymore"
+            ]
+        }
+    ],
+    "623-652": [
+        {
+            "scene_title": "Unexpected Encounter on the Moor",
+            "description": "Dr. Watson is surprised by a stranger, Mr. Stapleton, who introduces himself on the moor. Stapleton, carrying a butterfly-net and a tin box, discusses local legends and expresses interest in Sherlock Holmes.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Moor near Merripit House",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Dr. Watson",
+                "Stapleton"
+            ],
+            "objects": [
+                "straw hat",
+                "grey suit",
+                "tin box",
+                "green butterfly-net"
+            ],
+            "text_phrases": [
+                "running feet behind me",
+                "small, slim, clean-shaven, prim-faced man",
+                "flaxen-haired and lean-jawed",
+                "dressed in a grey suit",
+                "wearing a straw hat",
+                "tin box for botanical specimens",
+                "green butterfly-net"
+            ]
+        },
+        {
+            "scene_title": "Conversation on the Moor Path",
+            "description": "Stapleton and Watson walk along a moor path discussing the local area and Stapleton invites Watson to meet his sister at Merripit House.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Moor path leading to Merripit House",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Dr. Watson",
+                "Stapleton"
+            ],
+            "objects": [
+                "narrow grassy path",
+                "boulder-sprinkled hill",
+                "granite quarry",
+                "grey plume of smoke"
+            ],
+            "text_phrases": [
+                "narrow grassy path struck off from the road",
+                "boulder-sprinkled hill",
+                "cut into a granite quarry",
+                "grey plume of smoke",
+                "undulating downs, long green rollers, with crests of jagged granite"
+            ]
+        }
+    ],
+    "653-690": [
+        {
+            "scene_title": "Conversation on the Moor",
+            "description": "Stapleton and the narrator discuss the dangerous terrain of the Grimpen Mire on the moor, where a misstep can be fatal. Stapleton reveals his knowledge of safe paths through the mire.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Grimpen Mire, the moor",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Stapleton",
+                "Narrator"
+            ],
+            "objects": [
+                "moor ponies",
+                "green sedges",
+                "bog-hole"
+            ],
+            "text_phrases": [
+                "great plain to the north",
+                "queer hills breaking out",
+                "bright green spots",
+                "great Grimpen Mire",
+                "moor ponies",
+                "green sedges",
+                "bog-hole"
+            ]
+        },
+        {
+            "scene_title": "The Cry of the Moor",
+            "description": "A mysterious and eerie moan sweeps over the moor, which Stapleton attributes to natural causes, while the narrator is chilled with fear.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "The moor",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Stapleton",
+                "Narrator"
+            ],
+            "objects": [
+                "ravens",
+                "tor"
+            ],
+            "text_phrases": [
+                "long, low moan",
+                "huge swelling plain",
+                "green patches of rushes",
+                "pair of ravens",
+                "tor"
+            ]
+        },
+        {
+            "scene_title": "Ancient Settlements on the Moor",
+            "description": "Stapleton shows the narrator the remains of prehistoric settlements on the moor, explaining their history and significance.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "The moor",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Stapleton",
+                "Narrator"
+            ],
+            "objects": [
+                "grey circular rings of stone",
+                "hearth",
+                "couch"
+            ],
+            "text_phrases": [
+                "grey circular rings of stone",
+                "prehistoric man",
+                "wigwams",
+                "hearth",
+                "couch"
+            ]
+        },
+        {
+            "scene_title": "Chase After the Moth",
+            "description": "Stapleton suddenly chases after a moth with great energy, demonstrating his agility and deep interest in the natural elements of the moor.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "The moor near the great mire",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Stapleton",
+                "Narrator"
+            ],
+            "objects": [
+                "moth",
+                "green net"
+            ],
+            "text_phrases": [
+                "small fly or moth",
+                "extraordinary energy and speed",
+                "green net",
+                "great mire"
+            ]
+        }
+    ],
+    "691-716": [
+        {
+            "scene_title": "Encounter on the Moor",
+            "description": "Dr. Watson meets Miss Stapleton on a lonely moorland path. She is strikingly beautiful and contrasts sharply with her brother, Stapleton. She urgently warns Dr. Watson to leave the moor and return to London for his own safety.",
+            "scene_type": "EXT",
+            "scene_date": "Late 1800s",
+            "location": "Moorland path",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Dr. Watson",
+                "Miss Stapleton"
+            ],
+            "objects": [
+                "Hat",
+                "Orchid",
+                "Mare\u2019s-tails"
+            ],
+            "text_phrases": [
+                "lonely moorland path",
+                "Miss Stapleton",
+                "raised my hat",
+                "orchid among the mare\u2019s-tails"
+            ]
+        },
+        {
+            "scene_title": "Introduction and Warning",
+            "description": "Miss Stapleton warns Dr. Watson with urgency and mystery, insisting he should leave the moor immediately. Her brother, Stapleton, joins them, and the tension between the siblings is palpable.",
+            "scene_type": "EXT",
+            "scene_date": "Late 1800s",
+            "location": "Moorland path",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CONTINUOUS",
+            "characters": [
+                "Dr. Watson",
+                "Miss Stapleton",
+                "Stapleton"
+            ],
+            "objects": [
+                "Orchid",
+                "Foot tapping"
+            ],
+            "text_phrases": [
+                "Go straight back to London",
+                "my brother is coming",
+                "orchids on the moor"
+            ]
+        },
+        {
+            "scene_title": "Arrival at Merripit House",
+            "description": "Dr. Watson, along with the Stapleton siblings, arrives at Merripit House, a bleak and melancholy dwelling on the moor, surrounded by a stunted orchard.",
+            "scene_type": "EXT",
+            "scene_date": "Late 1800s",
+            "location": "Merripit House",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Dr. Watson",
+                "Miss Stapleton",
+                "Stapleton",
+                "Old manservant"
+            ],
+            "objects": [
+                "Orchard",
+                "Granite-flecked moor",
+                "Furnished rooms"
+            ],
+            "text_phrases": [
+                "bleak moorland house",
+                "orchard surrounded it",
+                "stunted and nipped trees"
+            ]
+        }
+    ],
+    "717-738": [
+        {
+            "scene_title": "Dr. Watson's Refusal to Stay for Lunch",
+            "description": "Dr. Watson resists the invitation to stay for lunch, eager to return to his duties amidst the melancholy of the moor and the recent events.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Moor near Baskerville Hall",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT",
+            "characters": [
+                "Dr. Watson"
+            ],
+            "objects": [
+                "grass-grown path",
+                "rock"
+            ],
+            "text_phrases": [
+                "eager to get back to my charge",
+                "melancholy of the moor",
+                "grass-grown path"
+            ]
+        },
+        {
+            "scene_title": "Encounter with Miss Stapleton",
+            "description": "Dr. Watson encounters Miss Stapleton, who has hurriedly run to intercept him, expressing regret over a previous misunderstanding and warning him about the dangers of the moor.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Path on the moor",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT",
+            "characters": [
+                "Dr. Watson",
+                "Miss Stapleton"
+            ],
+            "objects": [
+                "rock",
+                "hat"
+            ],
+            "text_phrases": [
+                "Miss Stapleton sitting upon a rock",
+                "flushed with her exertions",
+                "hand to her side"
+            ]
+        },
+        {
+            "scene_title": "Miss Stapleton's Warning",
+            "description": "Miss Stapleton warns Dr. Watson about the dangers associated with the Baskerville curse and urges him to convince Sir Henry to leave the moor.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Moor near Baskerville Hall",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT",
+            "characters": [
+                "Dr. Watson",
+                "Miss Stapleton"
+            ],
+            "objects": [
+                "boulders",
+                "rock"
+            ],
+            "text_phrases": [
+                "the curse which hung over the family",
+                "tragedy",
+                "the danger"
+            ]
+        },
+        {
+            "scene_title": "Dr. Watson's Reflections on the Moor",
+            "description": "Dr. Watson reflects on the spirit of the moor, its vastness, and the remnants of prehistoric people, feeling a deep connection to the ancient land.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Moor",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT",
+            "characters": [
+                "Dr. Watson"
+            ],
+            "objects": [
+                "prehistoric houses",
+                "monoliths",
+                "grey stone huts"
+            ],
+            "text_phrases": [
+                "spirit of the moor sink into one\u2019s soul",
+                "houses of these forgotten folk",
+                "huge monoliths"
+            ]
+        }
+    ],
+    "739-745": [
+        {
+            "scene_title": "The Moor Excursion",
+            "description": "Sir Henry, Stapleton, and the narrator take an excursion across the moor to the site of the legend of wicked Hugo, discussing supernatural influences and observing the eerie landscape.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "The moor near Baskerville Hall",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sir Henry Baskerville",
+                "Stapleton",
+                "Narrator"
+            ],
+            "objects": [
+                "moor",
+                "great stones",
+                "white cotton grass"
+            ],
+            "text_phrases": [
+                "excursion of some miles across the moor",
+                "short valley between rugged tors",
+                "open, grassy space flecked over with the white cotton grass",
+                "two great stones, worn and sharpened at the upper end"
+            ]
+        },
+        {
+            "scene_title": "Lunch at Merripit House",
+            "description": "After the moor excursion, Sir Henry, Stapleton, the narrator, and Miss Stapleton have lunch at Merripit House where Sir Henry and Miss Stapleton's mutual attraction becomes evident.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Merripit House",
+            "time_of_day": "NOON",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sir Henry Baskerville",
+                "Stapleton",
+                "Narrator",
+                "Miss Stapleton"
+            ],
+            "objects": [
+                "lunch table",
+                "house interior"
+            ],
+            "text_phrases": [
+                "stayed for lunch at Merripit House",
+                "Sir Henry made the acquaintance of Miss Stapleton",
+                "strongly attracted by her"
+            ]
+        }
+    ],
+    "746-760": [
+        {
+            "scene_title": "Lunch with Dr. Mortimer",
+            "description": "Dr. Mortimer, having excavated a prehistoric skull, shares his findings during a lunch at Sir Henry's residence.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Sir Henry's residence",
+            "time_of_day": "NOON",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Dr. Mortimer",
+                "Sir Henry",
+                "The Stapletons"
+            ],
+            "objects": [
+                "prehistoric skull",
+                "lunch table"
+            ],
+            "text_phrases": [
+                "Dr. Mortimer lunched with us",
+                "prehistoric skull which fills him with great joy"
+            ]
+        },
+        {
+            "scene_title": "Yew Alley Revelation",
+            "description": "Dr. Mortimer takes the group to the yew alley to explain the events of the fatal night.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Yew Alley at Sir Henry's estate",
+            "time_of_day": "AFTERNOON",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Dr. Mortimer",
+                "Sir Henry",
+                "The Stapletons"
+            ],
+            "objects": [
+                "clipped hedge",
+                "narrow band of grass",
+                "tumble-down summer-house",
+                "moor-gate",
+                "white wooden gate"
+            ],
+            "text_phrases": [
+                "the yew alley",
+                "between two high walls of clipped hedge",
+                "old tumble-down summer-house",
+                "white wooden gate with a latch"
+            ]
+        },
+        {
+            "scene_title": "Midnight Encounter",
+            "description": "The narrator observes Barrymore walking stealthily down the corridor with a candle, appearing guilty.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Corridor in Sir Henry's residence",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Narrator",
+                "Barrymore"
+            ],
+            "objects": [
+                "candle",
+                "shirt and trousers"
+            ],
+            "text_phrases": [
+                "stealthy step passing my room",
+                "long black shadow was trailing down the corridor",
+                "man who walked softly down the passage with a candle held in his hand"
+            ]
+        }
+    ],
+    "761-775": [
+        {
+            "scene_title": "Barrymore at the Window",
+            "description": "The scene describes the protagonist observing Barrymore, who is crouching at a window in an unfurnished room at Baskerville Hall, holding a candle against the glass and looking out into the moor.",
+            "scene_type": "INT",
+            "scene_date": "Oct 15th",
+            "location": "Baskerville Hall",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Barrymore",
+                "Narrator"
+            ],
+            "objects": [
+                "candle",
+                "window",
+                "glass"
+            ],
+            "text_phrases": [
+                "Barrymore was crouching at the window",
+                "candle held against the glass",
+                "stared out into the blackness of the moor"
+            ]
+        },
+        {
+            "scene_title": "Morning Investigation",
+            "description": "The protagonist revisits the room where Barrymore was seen the previous night to investigate the peculiarities of the western window that overlooks the moor.",
+            "scene_type": "INT",
+            "scene_date": "the morning following Oct 15th",
+            "location": "Baskerville Hall",
+            "time_of_day": "MORNING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Narrator"
+            ],
+            "objects": [
+                "western window",
+                "moor"
+            ],
+            "text_phrases": [
+                "examined the room in which Barrymore had been",
+                "western window through which he had stared so intently",
+                "commands the nearest outlook on to the moor"
+            ]
+        },
+        {
+            "scene_title": "Conspiracy Discussion",
+            "description": "The protagonist discusses with Sir Henry the mysterious behavior of Barrymore and plans to shadow him to uncover his secretive activities.",
+            "scene_type": "INT",
+            "scene_date": "the morning following Oct 15th",
+            "location": "Sir Henry's study at Baskerville Hall",
+            "time_of_day": "MORNING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Narrator",
+                "Sir Henry"
+            ],
+            "objects": [
+                "study"
+            ],
+            "text_phrases": [
+                "had an interview with the baronet in his study after breakfast",
+                "told him all that I had seen",
+                "we shall do it together"
+            ]
+        }
+    ],
+    "776-789": [
+        {
+            "scene_title": "Preparation for the Moor",
+            "description": "Sir Henry and Watson prepare to go out to the moor, discussing the importance of not going alone.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Sir Henry's residence",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sir Henry",
+                "Watson"
+            ],
+            "objects": [
+                "hat",
+                "cane"
+            ],
+            "text_phrases": [
+                "Sir Henry put on his hat",
+                "picked up his cane"
+            ]
+        },
+        {
+            "scene_title": "Observation from the Hill",
+            "description": "Watson observes Sir Henry and Miss Stapleton from a hill, debating his duty to follow them.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Moor, near Merripit House",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Watson",
+                "Sir Henry",
+                "Miss Stapleton"
+            ],
+            "objects": [
+                "hill",
+                "moor path",
+                "butterfly-net"
+            ],
+            "text_phrases": [
+                "mounted a hill",
+                "moor path",
+                "butterfly-net"
+            ]
+        },
+        {
+            "scene_title": "Confrontation on the Moor",
+            "description": "Stapleton interrupts Sir Henry and Miss Stapleton's conversation, leading to a heated exchange.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Moor, near Merripit House",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sir Henry",
+                "Miss Stapleton",
+                "Stapleton"
+            ],
+            "objects": [
+                "butterfly-net",
+                "moor path"
+            ],
+            "text_phrases": [
+                "Stapleton with his butterfly-net",
+                "Sir Henry suddenly drew Miss Stapleton to his side",
+                "Stapleton was abusing Sir Henry"
+            ]
+        },
+        {
+            "scene_title": "Aftermath of the Confrontation",
+            "description": "Watson meets Sir Henry at the bottom of the hill, explaining his actions and discussing the confrontation.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Base of the hill near Merripit House",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Watson",
+                "Sir Henry"
+            ],
+            "objects": [
+                "hill"
+            ],
+            "text_phrases": [
+                "ran down the hill",
+                "met the baronet at the bottom"
+            ]
+        }
+    ],
+    "790-805": [
+        {
+            "scene_title": "Prairie Confrontation",
+            "description": "Sir Henry recounts his failed attempt to woo a woman on the prairie, being interrupted by her furious brother.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Prairie",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sir Henry",
+                "Brother",
+                "Watson"
+            ],
+            "objects": [
+                "prairie",
+                "hill"
+            ],
+            "text_phrases": [
+                "middle of that prairie",
+                "whole countryside",
+                "hill",
+                "brother was well up to the front",
+                "running at us with a face on him like a madman"
+            ]
+        },
+        {
+            "scene_title": "Apology and Understanding",
+            "description": "Stapleton visits Sir Henry to apologize for his earlier behavior, explaining his deep bond with his sister and his fear of losing her.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Sir Henry's study",
+            "time_of_day": "AFTERNOON",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sir Henry",
+                "Stapleton",
+                "Watson"
+            ],
+            "objects": [
+                "study",
+                "chair"
+            ],
+            "text_phrases": [
+                "private interview with Sir Henry in his study",
+                "handsome apology",
+                "sister is everything in his life",
+                "very lonely man",
+                "thought of losing her was really terrible to him"
+            ]
+        }
+    ],
+    "806-824": [
+        {
+            "scene_title": "The Night Vigil",
+            "description": "Sir Henry and the narrator sit up late into the night, listening for any sounds in the quiet house, only to fall asleep in their chairs.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Sir Henry's rooms",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sir Henry",
+                "Narrator"
+            ],
+            "objects": [
+                "chairs",
+                "chiming clock"
+            ],
+            "text_phrases": [
+                "sat up with Sir Henry in his rooms",
+                "nearly three o'clock in the morning",
+                "chiming clock upon the stairs",
+                "fell asleep in our chairs"
+            ]
+        },
+        {
+            "scene_title": "The Second Night's Attempt",
+            "description": "On the second night, Sir Henry and the narrator lower the lamp and sit in silence, smoking cigarettes, until they hear a creak in the passage.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Sir Henry's rooms",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sir Henry",
+                "Narrator"
+            ],
+            "objects": [
+                "lamp",
+                "cigarettes"
+            ],
+            "text_phrases": [
+                "lowered the lamp",
+                "sat smoking cigarettes",
+                "creak of a step in the passage"
+            ]
+        },
+        {
+            "scene_title": "Pursuit of the Mysterious Figure",
+            "description": "Sir Henry and the narrator stealthily follow the mysterious figure through the dark corridors until they see him crouching at the window.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Corridor and other wing of the house",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sir Henry",
+                "Narrator",
+                "Barrymore"
+            ],
+            "objects": [
+                "candle",
+                "window",
+                "corridor"
+            ],
+            "text_phrases": [
+                "stealthily we heard it pass along",
+                "tall, black-bearded figure",
+                "candle framed it in the darkness",
+                "crouching at the window"
+            ]
+        },
+        {
+            "scene_title": "Confrontation at the Window",
+            "description": "Barrymore is caught by Sir Henry and the narrator at the window, leading to a tense confrontation where Barrymore is questioned about his actions.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Room with the western lattice window",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sir Henry",
+                "Narrator",
+                "Barrymore"
+            ],
+            "objects": [
+                "candle",
+                "window"
+            ],
+            "text_phrases": [
+                "Barrymore sprang up from the window",
+                "holding a candle to the window",
+                "shadows sprang up and down from the shaking of his candle"
+            ]
+        },
+        {
+            "scene_title": "The Signal Discovery",
+            "description": "The narrator takes the candle from Barrymore and discovers a signal response from across the moor, confirming their suspicions of a secret communication.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Room with the western lattice window",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sir Henry",
+                "Narrator",
+                "Barrymore"
+            ],
+            "objects": [
+                "candle",
+                "window"
+            ],
+            "text_phrases": [
+                "took the candle from the trembling hand of the butler",
+                "tiny pinpoint of yellow light",
+                "black square framed by the window"
+            ]
+        }
+    ],
+    "825-854": [
+        {
+            "scene_title": "Confrontation and Revelation",
+            "description": "In a tense indoor scene, Sir Henry confronts the Barrymores about their secretive actions, leading to Mrs. Barrymore's emotional revelation about helping her escaped convict brother, Selden.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Barrymore's residence, hallway",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sir Henry",
+                "Mrs. Barrymore",
+                "Mr. Barrymore"
+            ],
+            "objects": [
+                "door",
+                "shawl",
+                "skirt"
+            ],
+            "text_phrases": [
+                "Mrs. Barrymore, paler and more horror-struck than her husband, was standing at the door",
+                "Her bulky figure in a shawl and skirt"
+            ]
+        },
+        {
+            "scene_title": "Decision to Capture Selden",
+            "description": "After learning the truth about the light signals, Sir Henry and Watson decide to capture Selden, the escaped convict. They prepare for a night expedition on the moor.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Barrymore's residence, Sir Henry's room",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sir Henry",
+                "Watson"
+            ],
+            "objects": [
+                "revolver",
+                "boots",
+                "window"
+            ],
+            "text_phrases": [
+                "Sir Henry had flung it open, and the cold night wind beat in upon our faces",
+                "Get your revolver and put on your boots"
+            ]
+        },
+        {
+            "scene_title": "Venturing into the Moor",
+            "description": "Sir Henry and Watson venture out into the moor at night, guided by the distant light, to capture Selden. The atmosphere is tense and eerie with the autumn wind and falling leaves.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Moor near Barrymore's residence",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sir Henry",
+                "Watson"
+            ],
+            "objects": [
+                "shrubs",
+                "falling leaves",
+                "distant light"
+            ],
+            "text_phrases": [
+                "We hurried through the dark shrubbery, amid the dull moaning of the autumn wind and the rustle of the falling leaves",
+                "The light still burned steadily in front"
+            ]
+        }
+    ],
+    "855-891": [
+        {
+            "scene_title": "The Cry of the Hound",
+            "description": "Watson and the baronet are on the moor at night when they hear the eerie and terrifying cry of the mythical Hound of the Baskervilles, which sends a chill through them.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Moor near Baskerville Hall",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "continuous",
+            "characters": [
+                "Watson",
+                "Baronet"
+            ],
+            "objects": [
+                "Moor",
+                "Darkness"
+            ],
+            "text_phrases": [
+                "out of the vast gloom of the moor",
+                "strange cry",
+                "silence of the night",
+                "whole air throbbing",
+                "face glimmered white through the darkness"
+            ]
+        },
+        {
+            "scene_title": "Encounter with the Convict",
+            "description": "Watson and Sir Henry, while searching for a convict on the moor at night, encounter him by a signal light. The convict, surprised and threatened, attempts to escape.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Moor near Baskerville Hall",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "cut",
+            "characters": [
+                "Watson",
+                "Sir Henry",
+                "Convict"
+            ],
+            "objects": [
+                "Candle",
+                "Rocks",
+                "Boulder",
+                "Revolver"
+            ],
+            "text_phrases": [
+                "guttering candle was stuck in a crevice of the rocks",
+                "boulder of granite concealed our approach",
+                "evil yellow face",
+                "light beneath him was reflected in his small, cunning eyes",
+                "convict screamed out a curse"
+            ]
+        }
+    ],
+    "892-897": [
+        {
+            "scene_title": "Chase on the Moor",
+            "description": "Two characters chase a figure across the moor under moonlight but fail to catch up, eventually stopping to rest on rocks. A mysterious figure appears on a granite tor, silhouetted against the moon, then disappears.",
+            "scene_type": "EXT",
+            "scene_date": "October 16th",
+            "location": "Moor",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Narrator",
+                "Baronet"
+            ],
+            "objects": [
+                "Rocks",
+                "Granite tor",
+                "Moon"
+            ],
+            "text_phrases": [
+                "swift runners",
+                "moonlight",
+                "small speck moving swiftly among the boulders",
+                "sat panting on two rocks",
+                "jagged pinnacle of a granite tor",
+                "figure of a man upon the tor",
+                "shining background",
+                "legs a little separated",
+                "arms folded",
+                "head bowed"
+            ]
+        },
+        {
+            "scene_title": "Foggy Morning on the Moor",
+            "description": "The morning after the chase, the moor is enveloped in fog and drizzle, creating a melancholic and ominous atmosphere. The baronet is in a dark mood, reflecting on the sinister influences around them.",
+            "scene_type": "EXT",
+            "scene_date": "October 16th",
+            "location": "Moor",
+            "time_of_day": "MORNING",
+            "scene_transition_type": "DISSOLVE",
+            "characters": [
+                "Narrator",
+                "Baronet"
+            ],
+            "objects": [
+                "House",
+                "Clouds",
+                "Hills",
+                "Boulders"
+            ],
+            "text_phrases": [
+                "dull and foggy day",
+                "drizzle of rain",
+                "house is banked in with rolling clouds",
+                "dreary curves of the moor",
+                "thin, silver veins upon the sides of the hills",
+                "distant boulders gleaming"
+            ]
+        }
+    ],
+    "898-926": [
+        {
+            "scene_title": "Mysterious Stranger on the Moor",
+            "description": "The protagonist reflects on the possibility that a mysterious stranger he saw on the moor could be following them, just as they were dogged in London.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Moor",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Protagonist",
+                "Mysterious Stranger"
+            ],
+            "objects": [
+                "Moor",
+                "Tor"
+            ],
+            "text_phrases": [
+                "stranger whom I saw upon the tor",
+                "stranger dogged us in London"
+            ]
+        },
+        {
+            "scene_title": "Confrontation in the Study",
+            "description": "Barrymore requests to speak with Sir Henry, leading to a heated discussion in the study about the pursuit of Barrymore's brother-in-law, Selden.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Sir Henry's Study",
+            "time_of_day": "MORNING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sir Henry",
+                "Barrymore",
+                "Watson"
+            ],
+            "objects": [
+                "Study",
+                "Billiard-room"
+            ],
+            "text_phrases": [
+                "Barrymore asked leave to speak with Sir Henry",
+                "closeted in his study",
+                "voices raised",
+                "baronet opened his door"
+            ]
+        },
+        {
+            "scene_title": "Barrymore's Plea",
+            "description": "Barrymore pleads with Sir Henry not to inform the police about Selden's presence on the moor, fearing for his and his wife's safety.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Sir Henry's Study",
+            "time_of_day": "MORNING",
+            "scene_transition_type": "CONTINUOUS",
+            "characters": [
+                "Sir Henry",
+                "Barrymore",
+                "Watson"
+            ],
+            "objects": [
+                "Study"
+            ],
+            "text_phrases": [
+                "Barrymore considers that he has a grievance",
+                "Barrymore standing very pale but very collected",
+                "beg you, sir, to say nothing to the police"
+            ]
+        },
+        {
+            "scene_title": "Revelation About Sir Charles's Death",
+            "description": "Barrymore reveals to Sir Henry and Watson that he knows why Sir Charles was at the gate at the hour of his death, hinting at a meeting with a woman.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Sir Henry's Study",
+            "time_of_day": "MORNING",
+            "scene_transition_type": "CONTINUOUS",
+            "characters": [
+                "Sir Henry",
+                "Watson",
+                "Barrymore"
+            ],
+            "objects": [
+                "Study",
+                "Letter"
+            ],
+            "text_phrases": [
+                "I know something, Sir Henry",
+                "It\u2019s about poor Sir Charles\u2019s death",
+                "It was to meet a woman"
+            ]
+        }
+    ],
+    "927-950": [
+        {
+            "scene_title": "Discovery of the Burned Letter",
+            "description": "Barrymore recounts to Sir Henry and Watson how his wife discovered the remains of a burned letter in Sir Charles's study, which could potentially be linked to his mysterious death.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Sir Charles's study",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Barrymore",
+                "Sir Henry",
+                "Watson"
+            ],
+            "objects": [
+                "burned letter",
+                "grate"
+            ],
+            "text_phrases": [
+                "cleaning out Sir Charles\u2019s study",
+                "found the ashes of a burned letter in the back of the grate",
+                "one little slip, the end of a page, hung together",
+                "writing could still be read"
+            ]
+        },
+        {
+            "scene_title": "Watson's Rainy Moor Walk",
+            "description": "Watson ventures out into the rainy moor, reflecting on the convict and the mysterious figure he previously saw, and later discusses the initials L.L. with Dr. Mortimer while returning in a dog-cart.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Moor",
+            "time_of_day": "EVENING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Watson",
+                "Dr. Mortimer"
+            ],
+            "objects": [
+                "dog-cart",
+                "rain",
+                "moor"
+            ],
+            "text_phrases": [
+                "rain poured down, rustling on the ivy and dripping from the eaves",
+                "walked far upon the sodden moor",
+                "rain beating upon my face",
+                "wind whistling about my ears",
+                "black tor",
+                "craggy summit",
+                "rain squalls drifted across their russet face",
+                "heavy, slate-coloured clouds hung low"
+            ]
+        }
+    ],
+    "951-984": [
+        {
+            "scene_title": "Discussion about Mrs. Laura Lyons",
+            "description": "A conversation between the narrator and another character about the difficult life circumstances of Mrs. Laura Lyons, including her background, current situation, and the support she receives from the community.",
+            "scene_type": "INT",
+            "scene_date": "Early 1900s",
+            "location": "Drawing room",
+            "time_of_day": "EVENING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Narrator",
+                "Companion"
+            ],
+            "objects": [
+                "Coffee cup",
+                "Sketches"
+            ],
+            "text_phrases": [
+                "Frankland\u2019s daughter",
+                "married an artist named Lyons",
+                "sketching on the moor",
+                "old Frankland allows her a pittance",
+                "set her up in a typewriting business"
+            ]
+        },
+        {
+            "scene_title": "Conversation with Barrymore",
+            "description": "The narrator discusses with Barrymore about a mysterious stranger on the moor, revealing tensions and fears related to the safety of Sir Henry and the dark activities happening around Baskerville Hall.",
+            "scene_type": "INT",
+            "scene_date": "Early 1900s",
+            "location": "Library in Baskerville Hall",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Narrator",
+                "Barrymore"
+            ],
+            "objects": [
+                "Coffee cup",
+                "Rain-lashed window"
+            ],
+            "text_phrases": [
+                "precious relation of yours departed",
+                "another man upon the moor",
+                "Selden told me of him",
+                "stone huts where the old folk used to live",
+                "lad who works for him and brings all he needs"
+            ]
+        }
+    ],
+    "985-1018": [
+        {
+            "scene_title": "Breakfast with Sir Henry",
+            "description": "The narrator informs Sir Henry about the discoveries regarding Mrs. Laura Lyons during breakfast, discussing the potential visit to Coombe Tracey.",
+            "scene_type": "INT",
+            "scene_date": "October 19th",
+            "location": "Baskerville Hall, Dining Room",
+            "time_of_day": "MORNING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Narrator",
+                "Sir Henry",
+                "Dr. Mortimer"
+            ],
+            "objects": [
+                "Breakfast table",
+                "Playing cards"
+            ],
+            "text_phrases": [
+                "Dr. Mortimer remained with him at cards until it was very late",
+                "At breakfast, however, I informed him about my discovery"
+            ]
+        },
+        {
+            "scene_title": "Arrival at Coombe Tracey",
+            "description": "The narrator arrives at Coombe Tracey, instructs Perkins to take care of the horses, and proceeds to find Mrs. Lyons' residence.",
+            "scene_type": "EXT",
+            "scene_date": "October 19th",
+            "location": "Coombe Tracey",
+            "time_of_day": "NOON",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Narrator",
+                "Perkins"
+            ],
+            "objects": [
+                "Horses",
+                "Carriage"
+            ],
+            "text_phrases": [
+                "When I reached Coombe Tracey I told Perkins to put up the horses",
+                "I made inquiries for the lady whom I had come to interrogate"
+            ]
+        },
+        {
+            "scene_title": "Meeting Mrs. Lyons",
+            "description": "The narrator meets Mrs. Lyons, who is initially welcoming but becomes guarded upon realizing he is a stranger. They discuss Sir Charles Baskerville.",
+            "scene_type": "INT",
+            "scene_date": "October 19th",
+            "location": "Mrs. Lyons' Sitting Room",
+            "time_of_day": "AFTERNOON",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Narrator",
+                "Mrs. Lyons",
+                "Maid"
+            ],
+            "objects": [
+                "Remington typewriter",
+                "Sitting room furniture"
+            ],
+            "text_phrases": [
+                "A maid showed me in without ceremony",
+                "Mrs. Lyons was sitting before a Remington typewriter",
+                "Her face fell, however, when she saw that I was a stranger"
+            ]
+        },
+        {
+            "scene_title": "Interrogation of Mrs. Lyons",
+            "description": "The narrator questions Mrs. Lyons about her correspondence and relationship with Sir Charles, leading to a tense exchange.",
+            "scene_type": "INT",
+            "scene_date": "October 19th",
+            "location": "Mrs. Lyons' Sitting Room",
+            "time_of_day": "AFTERNOON",
+            "scene_transition_type": "CONTINUOUS",
+            "characters": [
+                "Narrator",
+                "Mrs. Lyons"
+            ],
+            "objects": [
+                "Typewriter",
+                "Furniture"
+            ],
+            "text_phrases": [
+                "What can I tell you about him?",
+                "Did you correspond with him?",
+                "The object is to avoid a public scandal",
+                "I could even quote a passage of your letter"
+            ]
+        }
+    ],
+    "1019-1054": [
+        {
+            "scene_title": "Interrogation of Mrs. Lyons",
+            "description": "A tense and detailed interrogation scene where the protagonist questions Mrs. Lyons about her actions and intentions regarding Sir Charles, leading up to his death.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Drawing room",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Narrator",
+                "Mrs. Lyons"
+            ],
+            "objects": [
+                "Letter",
+                "Chair"
+            ],
+            "text_phrases": [
+                "she had fainted",
+                "supreme effort",
+                "torrent of words",
+                "interview",
+                "long and inconclusive interview",
+                "false position"
+            ]
+        },
+        {
+            "scene_title": "Reflection on the Moor",
+            "description": "The protagonist reflects on the investigation while driving back across the moor, contemplating the vague directions and the challenge of locating the mysterious stranger in one of the many stone huts.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Moor",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Narrator"
+            ],
+            "objects": [
+                "Car",
+                "Stone huts",
+                "Revolver"
+            ],
+            "text_phrases": [
+                "drove back",
+                "hill after hill",
+                "ancient people",
+                "stone huts",
+                "Black Tor",
+                "summit",
+                "lonely moor"
+            ]
+        }
+    ],
+    "1055-1079": [
+        {
+            "scene_title": "Frankland's Triumph",
+            "description": "Dr. Watson encounters Mr. Frankland outside his garden, who invites him to celebrate his legal victories.",
+            "scene_type": "EXT",
+            "scene_date": "1880s",
+            "location": "Outside Mr. Frankland's garden gate, highroad",
+            "time_of_day": "AFTERNOON",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Dr. Watson",
+                "Mr. Frankland"
+            ],
+            "objects": [
+                "garden gate",
+                "wine glass"
+            ],
+            "text_phrases": [
+                "grey-whiskered and red-faced",
+                "outside the gate of his garden",
+                "have a glass of wine",
+                "congratulate me"
+            ]
+        },
+        {
+            "scene_title": "Frankland's Legal Battles",
+            "description": "Mr. Frankland explains his recent legal victories to Dr. Watson in his dining room.",
+            "scene_type": "INT",
+            "scene_date": "1880s",
+            "location": "Frankland's dining room",
+            "time_of_day": "AFTERNOON",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Dr. Watson",
+                "Mr. Frankland"
+            ],
+            "objects": [
+                "dining table",
+                "books"
+            ],
+            "text_phrases": [
+                "red-letter days of my life",
+                "double event",
+                "law is law",
+                "right of way through the centre of old Middleton\u2019s park"
+            ]
+        },
+        {
+            "scene_title": "Revelation of the Convict's Supplier",
+            "description": "Mr. Frankland reveals to Dr. Watson that he has observed a child delivering food to the convict on the moor.",
+            "scene_type": "INT",
+            "scene_date": "1880s",
+            "location": "Frankland's dining room",
+            "time_of_day": "AFTERNOON",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Dr. Watson",
+                "Mr. Frankland"
+            ],
+            "objects": [
+                "telescope",
+                "bundle"
+            ],
+            "text_phrases": [
+                "his food is taken to him by a child",
+                "I see him every day through my telescope",
+                "passes along the same path at the same hour"
+            ]
+        },
+        {
+            "scene_title": "Observation on the Moor",
+            "description": "Mr. Frankland points out the landscape features to Dr. Watson, arguing against his suggestion about the shepherd's son.",
+            "scene_type": "EXT",
+            "scene_date": "1880s",
+            "location": "Outside on the moor",
+            "time_of_day": "AFTERNOON",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Dr. Watson",
+                "Mr. Frankland"
+            ],
+            "objects": [
+                "Black Tor",
+                "thornbush",
+                "low hill"
+            ],
+            "text_phrases": [
+                "Black Tor over yonder",
+                "low hill beyond with the thornbush upon it",
+                "stoniest part of the whole moor"
+            ]
+        }
+    ],
+    "1080-1095": [
+        {
+            "scene_title": "Observation from the House",
+            "description": "Frankland and Dr. Watson use a telescope mounted on the flat leads of the house to observe a boy climbing a hill.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Frankland's house, flat leads",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Frankland",
+                "Dr. Watson"
+            ],
+            "objects": [
+                "telescope",
+                "tripod"
+            ],
+            "text_phrases": [
+                "telescope, a formidable instrument mounted upon a tripod",
+                "flat leads of the house"
+            ]
+        },
+        {
+            "scene_title": "The Moor and the Hill",
+            "description": "Dr. Watson follows the boy over the moor and up the hill, observing the changing landscape and the setting sun.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Moor and hill",
+            "time_of_day": "EVENING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Dr. Watson"
+            ],
+            "objects": [
+                "hill",
+                "moor",
+                "sun"
+            ],
+            "text_phrases": [
+                "stony hill over which the boy had disappeared",
+                "sun was already sinking",
+                "golden-green on one side and grey shadow on the other"
+            ]
+        },
+        {
+            "scene_title": "The Hut on the Moor",
+            "description": "Dr. Watson discovers a hut on the moor, which appears to be the hiding place of the mysterious man.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Moor, near a circle of old stone huts",
+            "time_of_day": "EVENING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Dr. Watson"
+            ],
+            "objects": [
+                "hut",
+                "stone slab",
+                "fire ashes",
+                "cooking utensils",
+                "bucket",
+                "pannikin",
+                "bottle of spirits",
+                "flat stone",
+                "cloth bundle",
+                "loaf of bread",
+                "tinned tongue",
+                "tins of preserved peaches",
+                "sheet of paper"
+            ],
+            "text_phrases": [
+                "circle of the old stone huts",
+                "hut with sufficient roof",
+                "dilapidated opening which served as a door",
+                "ashes of a fire",
+                "cooking utensils",
+                "bucket half-full of water",
+                "flat stone served the purpose of a table"
+            ]
+        }
+    ],
+    "1096-1124": [
+        {
+            "scene_title": "Sunset at Grimpen Mire",
+            "description": "The sun sets, casting a golden glow over Grimpen Mire, with distant views of Baskerville Hall and the village of Grimpen.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Grimpen Mire",
+            "time_of_day": "EVENING",
+            "scene_transition_type": "CUT TO",
+            "characters": [],
+            "objects": [
+                "sun",
+                "pools",
+                "towers",
+                "smoke"
+            ],
+            "text_phrases": [
+                "Outside the sun was sinking low",
+                "the west was blazing with scarlet and gold",
+                "distant pools which lay amid the great Grimpen Mire",
+                "two towers of Baskerville Hall",
+                "distant blur of smoke which marked the village of Grimpen"
+            ]
+        },
+        {
+            "scene_title": "Watson's Anticipation in the Hut",
+            "description": "Watson waits anxiously in a dark hut, hearing footsteps approaching as he prepares for a confrontation.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Hut near Grimpen Mire",
+            "time_of_day": "EVENING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Watson"
+            ],
+            "objects": [
+                "hut",
+                "pistol",
+                "stone"
+            ],
+            "text_phrases": [
+                "I sat in the dark recess of the hut",
+                "waited with sombre patience for the coming of its tenant",
+                "sharp clink of a boot striking upon a stone",
+                "I shrank back into the darkest corner",
+                "cocked the pistol in my pocket"
+            ]
+        },
+        {
+            "scene_title": "Holmes Reveals Himself",
+            "description": "Holmes surprises Watson by revealing himself outside the hut, easing Watson's tension and fear.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Outside the hut near Grimpen Mire",
+            "time_of_day": "EVENING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Watson",
+                "Holmes"
+            ],
+            "objects": [
+                "revolver",
+                "stone",
+                "lintel"
+            ],
+            "text_phrases": [
+                "a shadow fell across the opening of the hut",
+                "It is a lovely evening, my dear Watson",
+                "Holmes!",
+                "he sat upon a stone outside",
+                "please be careful with the revolver"
+            ]
+        },
+        {
+            "scene_title": "Holmes and Watson Reunite",
+            "description": "Holmes and Watson discuss recent events and revelations, sharing insights and confirming their parallel investigations.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Outside the hut near Grimpen Mire",
+            "time_of_day": "EVENING",
+            "scene_transition_type": "CONTINUOUS",
+            "characters": [
+                "Watson",
+                "Holmes"
+            ],
+            "objects": [
+                "cigarette stub",
+                "paper",
+                "telescope"
+            ],
+            "text_phrases": [
+                "I never was more glad to see anyone in my life",
+                "The surprise was not all on one side",
+                "your boy had been observed",
+                "Cartwright has brought up some supplies",
+                "you have been to Coombe Tracey, have you?"
+            ]
+        }
+    ],
+    "1125-1156": [
+        {
+            "scene_title": "Holmes and Watson in the Hut",
+            "description": "Holmes and Watson discuss the case in the twilight inside a hut on the moor as the temperature drops outside.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Hut on the moor",
+            "time_of_day": "DUSK",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Holmes",
+                "Watson"
+            ],
+            "objects": [
+                "bundle of papers",
+                "hut"
+            ],
+            "text_phrases": [
+                "dusk was settling over the moor",
+                "we withdrew into the hut for warmth",
+                "sitting together in the twilight",
+                "Holmes took a bundle of papers from his pocket"
+            ]
+        },
+        {
+            "scene_title": "Revelation of Stapleton's Deception",
+            "description": "Holmes reveals to Watson the true identity of Miss Stapleton and discusses the implications of this discovery.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Hut on the moor",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CONTINUOUS",
+            "characters": [
+                "Holmes",
+                "Watson"
+            ],
+            "objects": [
+                "papers",
+                "hut"
+            ],
+            "text_phrases": [
+                "the lady who has passed here as Miss Stapleton is in reality his wife",
+                "Holmes reveals the deception",
+                "sitting in the hut",
+                "Holmes took a bundle of papers"
+            ]
+        },
+        {
+            "scene_title": "Nightfall on the Moor",
+            "description": "As night fully sets in, Holmes and Watson continue their discussion under the starlit sky, pondering over the villain's motives.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Moor",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Holmes",
+                "Watson"
+            ],
+            "objects": [
+                "stars",
+                "moor"
+            ],
+            "text_phrases": [
+                "night had settled upon the moor",
+                "a few faint stars were gleaming in a violet sky"
+            ]
+        }
+    ],
+    "1157-1184": [
+        {
+            "scene_title": "The Cry on the Moor",
+            "description": "Holmes and Watson hear a terrible scream while discussing a murder case on the moor, prompting them to rush into the darkness to investigate.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Moor",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Holmes",
+                "Watson"
+            ],
+            "objects": [
+                "hut",
+                "boulders",
+                "gorse bushes"
+            ],
+            "text_phrases": [
+                "Holmes\u2019s voice sank",
+                "terrible scream",
+                "silence of the moor",
+                "dark, athletic outline at the door of the hut",
+                "running swiftly over the moor"
+            ]
+        },
+        {
+            "scene_title": "Discovery of Sir Henry's Body",
+            "description": "Holmes and Watson find the body of Sir Henry Baskerville on the moor after following the sounds of his distress.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Moor near a ridge of rocks",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Holmes",
+                "Watson",
+                "Sir Henry Baskerville"
+            ],
+            "objects": [
+                "rocks",
+                "stone-strewn slope",
+                "clotted fingers",
+                "crushed skull",
+                "ruddy tweed suit"
+            ],
+            "text_phrases": [
+                "despairing yell",
+                "dull, heavy thud",
+                "prostrate man face downward",
+                "clotted fingers",
+                "ghastly pool",
+                "ruddy tweed suit"
+            ]
+        },
+        {
+            "scene_title": "Reflection and Vow of Vengeance",
+            "description": "Holmes and Watson, devastated by the death of Sir Henry, vow to avenge him while reflecting on the events that led to this tragedy.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Moor",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Holmes",
+                "Watson"
+            ],
+            "objects": [
+                "mangled body",
+                "moon",
+                "rocks"
+            ],
+            "text_phrases": [
+                "bitter hearts",
+                "mangled body",
+                "long and weary labours",
+                "moon rose",
+                "top of the rocks"
+            ]
+        }
+    ],
+    "1185-1222": [
+        {
+            "scene_title": "Discovery of the Body on the Moor",
+            "description": "Holmes and Watson discover the body of Selden, mistaken for Sir Henry, on the moor under the moonlight. They examine the body, realizing the mix-up due to the clothes.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Moor",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Holmes",
+                "Watson",
+                "Selden (body)"
+            ],
+            "objects": [
+                "body",
+                "beard",
+                "clothes"
+            ],
+            "text_phrases": [
+                "precipitous slope",
+                "body, black and clear against the silvered stones",
+                "dripping beard was pointing up to the cold, clear moon",
+                "Boots, shirt, cap"
+            ]
+        },
+        {
+            "scene_title": "Stapleton Arrives on the Moor",
+            "description": "Stapleton approaches Holmes and Watson on the moor, surprised to see them with a body, initially mistaking it for Sir Henry.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Moor",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Holmes",
+                "Watson",
+                "Stapleton"
+            ],
+            "objects": [
+                "cigar",
+                "dead body"
+            ],
+            "text_phrases": [
+                "dull red glow of a cigar",
+                "moon shone upon him",
+                "dapper shape and jaunty walk of the naturalist",
+                "cigar fell from his fingers"
+            ]
+        }
+    ],
+    "1223-1254": [
+        {
+            "scene_title": "Moorland Confrontation",
+            "description": "Holmes and Watson discuss the case on the moor, reflecting on the challenges and the cunning of their adversary.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Moor near Baskerville Hall",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Holmes",
+                "Watson"
+            ],
+            "objects": [
+                "moor",
+                "broad moor"
+            ],
+            "text_phrases": [
+                "We\u2019re at close grips at last",
+                "What a nerve the fellow has!",
+                "How he pulled himself together",
+                "walking together across the moor"
+            ]
+        },
+        {
+            "scene_title": "Holmes and Watson's Return to Baskerville Hall",
+            "description": "Holmes and Watson return to Baskerville Hall, discussing their plans and the lack of evidence in their case.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Path to Baskerville Hall",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Holmes",
+                "Watson"
+            ],
+            "objects": [
+                "Baskerville gates"
+            ],
+            "text_phrases": [
+                "Holmes and I set off to Baskerville Hall",
+                "walked, lost in thought, as far as the Baskerville gates"
+            ]
+        },
+        {
+            "scene_title": "Dinner Preparation at Baskerville Hall",
+            "description": "Holmes and Watson arrive at Baskerville Hall, where they prepare to inform Sir Henry of recent developments over dinner.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Baskerville Hall",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Holmes",
+                "Watson",
+                "Sir Henry",
+                "Barrymore",
+                "Barrymore's wife"
+            ],
+            "objects": [
+                "supper",
+                "apron"
+            ],
+            "text_phrases": [
+                "over a belated supper we explained to the baronet",
+                "she wept bitterly in her apron"
+            ]
+        }
+    ],
+    "1255-1290": [
+        {
+            "scene_title": "Discussion at Baskerville Hall",
+            "description": "Sir Henry and Sherlock Holmes discuss the ongoing investigation and the peculiar events surrounding the Baskerville family, including the mysterious hound and the portraits in the hall.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Baskerville Hall, Banqueting Room",
+            "time_of_day": "EVENING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Sir Henry Baskerville"
+            ],
+            "objects": [
+                "portraits",
+                "lamp",
+                "banqueting table"
+            ],
+            "text_phrases": [
+                "the lamp beat upon his face",
+                "line of portraits which covered the opposite wall",
+                "banqueting-hall",
+                "bedroom candle in his hand"
+            ]
+        },
+        {
+            "scene_title": "Holmes Examines the Portrait",
+            "description": "Holmes examines a portrait of Hugo Baskerville, the ancestor believed to have started the curse of the Baskerville hound, and discusses its features and historical significance with Watson.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Baskerville Hall, Banqueting Room",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. John Watson"
+            ],
+            "objects": [
+                "portrait of Hugo Baskerville",
+                "candle",
+                "chair"
+            ],
+            "text_phrases": [
+                "the time-stained portrait on the wall",
+                "broad plumed hat, the curling love-locks, the white lace collar",
+                "the straight, severe face",
+                "held it up against the portrait"
+            ]
+        }
+    ],
+    "1291-1334": [
+        {
+            "scene_title": "Revelation of Stapleton's Portrait",
+            "description": "Holmes and Watson discover that Stapleton's face resembles a portrait, leading Holmes to deduce his criminal intentions.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Holmes' Study",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Holmes",
+                "Watson"
+            ],
+            "objects": [
+                "portrait",
+                "canvas"
+            ],
+            "text_phrases": [
+                "The face of Stapleton had sprung out of the canvas",
+                "It might be his portrait"
+            ]
+        },
+        {
+            "scene_title": "Morning Preparation",
+            "description": "Holmes is seen by Watson coming up the drive early in the morning, indicating his preparation for the day's investigative work.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Holmes' Residence, Drive",
+            "time_of_day": "MORNING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Holmes",
+                "Watson"
+            ],
+            "objects": [
+                "drive"
+            ],
+            "text_phrases": [
+                "Holmes was afoot earlier still",
+                "coming up the drive"
+            ]
+        },
+        {
+            "scene_title": "Discussion with Sir Henry",
+            "description": "Holmes and Watson discuss their plans with Sir Henry, including their imminent departure to London, leaving Sir Henry disappointed.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Holmes' Residence, Living Room",
+            "time_of_day": "MORNING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Holmes",
+                "Watson",
+                "Sir Henry"
+            ],
+            "objects": [
+                "breakfast table"
+            ],
+            "text_phrases": [
+                "Good-morning, Holmes",
+                "You look like a general who is planning a battle"
+            ]
+        },
+        {
+            "scene_title": "Departure to London",
+            "description": "Holmes and Watson make their arrangements to leave for London, bidding farewell to a disheartened Sir Henry.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Outside Holmes' Residence",
+            "time_of_day": "MORNING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Holmes",
+                "Watson",
+                "Sir Henry"
+            ],
+            "objects": [
+                "carriage",
+                "luggage"
+            ],
+            "text_phrases": [
+                "Immediately after breakfast",
+                "we were at the station of Coombe Tracey"
+            ]
+        }
+    ],
+    "1335-1372": [
+        {
+            "scene_title": "Telegram Delivery to Holmes",
+            "description": "Holmes receives a telegram from Lestrade while discussing plans with Watson.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Holmes' Residence",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. Watson"
+            ],
+            "objects": [
+                "Telegram"
+            ],
+            "text_phrases": [
+                "The boy returned with a telegram",
+                "Holmes handed to me"
+            ]
+        },
+        {
+            "scene_title": "Holmes Interviews Mrs. Laura Lyons",
+            "description": "Sherlock Holmes confronts Mrs. Laura Lyons in her office about her involvement in Sir Charles Baskerville's death.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Office of Mrs. Laura Lyons",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Mrs. Laura Lyons",
+                "Dr. Watson"
+            ],
+            "objects": [
+                "Chair",
+                "Photograph",
+                "Written descriptions"
+            ],
+            "text_phrases": [
+                "Mrs. Laura Lyons was in her office",
+                "Sherlock Holmes opened his interview",
+                "Her hands were grasping the arms of her chair",
+                "drawing several papers from his pocket"
+            ]
+        },
+        {
+            "scene_title": "Revelation of Stapleton's Deceit",
+            "description": "Holmes reveals the true identity of Mr. Stapleton to Mrs. Lyons, showing evidence of his deceit.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Office of Mrs. Laura Lyons",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CONTINUOUS",
+            "characters": [
+                "Sherlock Holmes",
+                "Mrs. Laura Lyons",
+                "Dr. Watson"
+            ],
+            "objects": [
+                "Photograph",
+                "Written descriptions"
+            ],
+            "text_phrases": [
+                "Here is a photograph of the couple",
+                "three written descriptions by trustworthy witnesses"
+            ]
+        }
+    ],
+    "1373-1399": [
+        {
+            "scene_title": "Arrival at the Station",
+            "description": "Sherlock Holmes, Lestrade, and the narrator arrive at the station where Holmes disembarks from the London express.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Train station",
+            "time_of_day": "EVENING",
+            "scene_transition_type": "ARRIVAL",
+            "characters": [
+                "Sherlock Holmes",
+                "Lestrade",
+                "Narrator"
+            ],
+            "objects": [
+                "London express train",
+                "first-class carriage"
+            ],
+            "text_phrases": [
+                "The London express came roaring into the station",
+                "a small, wiry bulldog of a man had sprung from a first-class carriage"
+            ]
+        },
+        {
+            "scene_title": "Planning at the Station",
+            "description": "After disembarking, Holmes discusses the plan for the evening, including dinner and a trip to Dartmoor.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Train station",
+            "time_of_day": "EVENING",
+            "scene_transition_type": "CONVERSATION",
+            "characters": [
+                "Sherlock Holmes",
+                "Lestrade",
+                "Narrator"
+            ],
+            "objects": [
+                "train station"
+            ],
+            "text_phrases": [
+                "We have two hours before we need think of starting",
+                "giving you a breath of the pure night air of Dartmoor"
+            ]
+        },
+        {
+            "scene_title": "Journey to Merripit House",
+            "description": "Holmes, Lestrade, and the narrator travel in a wagonette through the dark towards Merripit House, discussing trivial matters due to the presence of the driver.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Road to Merripit House",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "TRAVEL",
+            "characters": [
+                "Sherlock Holmes",
+                "Lestrade",
+                "Narrator",
+                "Wagonette driver"
+            ],
+            "objects": [
+                "wagonette",
+                "road",
+                "Frankland\u2019s house"
+            ],
+            "text_phrases": [
+                "long drive in the darkness",
+                "we at last passed Frankland\u2019s house"
+            ]
+        },
+        {
+            "scene_title": "Ambush near Merripit House",
+            "description": "Holmes, Lestrade, and the narrator set up an ambush near Merripit House, hiding behind rocks and observing the house in silence.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Near Merripit House",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "AMBUSH",
+            "characters": [
+                "Sherlock Holmes",
+                "Lestrade",
+                "Narrator"
+            ],
+            "objects": [
+                "rocks",
+                "Merripit House"
+            ],
+            "text_phrases": [
+                "These rocks upon the right make an admirable screen",
+                "We are to wait here"
+            ]
+        },
+        {
+            "scene_title": "Observation of Sir Henry and Stapleton",
+            "description": "The narrator observes Sir Henry and Stapleton through a window at Merripit House, noting their actions and expressions.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Outside Merripit House",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "OBSERVATION",
+            "characters": [
+                "Narrator",
+                "Sir Henry",
+                "Stapleton"
+            ],
+            "objects": [
+                "window",
+                "cigars",
+                "coffee",
+                "wine"
+            ],
+            "text_phrases": [
+                "I could look straight through the uncurtained window",
+                "Both of them were smoking cigars"
+            ]
+        }
+    ],
+    "1400-1414": [
+        {
+            "scene_title": "The Approaching Fog",
+            "description": "A dense, white fog drifts towards Holmes and Watson, creating an eerie atmosphere as it blankets the moor and obscures the house in the distance.",
+            "scene_type": "EXT",
+            "scene_date": "1890",
+            "location": "Grimpen Mire, moor near the house",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "continuous",
+            "characters": [
+                "Holmes",
+                "Watson"
+            ],
+            "objects": [
+                "fog",
+                "moon",
+                "house"
+            ],
+            "text_phrases": [
+                "dense, white fog",
+                "drifting slowly in our direction",
+                "moon shone on it",
+                "great shimmering ice-field",
+                "dark bulk of the house"
+            ]
+        },
+        {
+            "scene_title": "The Deadly Encounter",
+            "description": "Holmes, Watson, and Lestrade encounter the monstrous hound as it emerges from the fog, leading to a terrifying chase and a deadly confrontation.",
+            "scene_type": "EXT",
+            "scene_date": "1890",
+            "location": "Grimpen Mire, moor",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "cut",
+            "characters": [
+                "Holmes",
+                "Watson",
+                "Lestrade",
+                "Sir Henry",
+                "the hound"
+            ],
+            "objects": [
+                "fog",
+                "pistol",
+                "moonlight",
+                "path"
+            ],
+            "text_phrases": [
+                "crawling bank",
+                "silver-tipped bank",
+                "sharp click of a cocking pistol",
+                "enormous coal-black hound",
+                "fire burst from its open mouth",
+                "hound was dead"
+            ]
+        }
+    ],
+    "1415-1444": [
+        {
+            "scene_title": "Rescue of Sir Henry",
+            "description": "Sir Henry is found insensible and is revived by Holmes, Lestrade, and Watson. They discover a monstrous creature, dead, which they identify as the source of phosphorus.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Moor near Baskerville Hall",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sir Henry",
+                "Holmes",
+                "Lestrade",
+                "Watson"
+            ],
+            "objects": [
+                "brandy-flask",
+                "dead creature"
+            ],
+            "text_phrases": [
+                "Sir Henry lay insensible",
+                "Holmes breathed a prayer of gratitude",
+                "Lestrade thrust his brandy-flask",
+                "terrible creature which was lying stretched before us",
+                "huge jaws seemed to be dripping with a bluish flame"
+            ]
+        },
+        {
+            "scene_title": "Discovery in the Locked Room",
+            "description": "Holmes, Watson, and Lestrade break into a locked room in Baskerville Hall, expecting to find a villain but instead discover Mrs. Stapleton bound and mistreated.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Baskerville Hall, Upper Floor Bedroom",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Holmes",
+                "Watson",
+                "Lestrade",
+                "Mrs. Stapleton"
+            ],
+            "objects": [
+                "glass-topped cases",
+                "butterflies and moths",
+                "upright beam",
+                "pistol"
+            ],
+            "text_phrases": [
+                "bedroom doors was locked",
+                "Holmes struck the door",
+                "Pistol in hand, we all three rushed into the room",
+                "figure was tied, so swathed and muffled in the sheets",
+                "Mrs. Stapleton sank upon the floor"
+            ]
+        }
+    ],
+    "1445-1459": [
+        {
+            "scene_title": "Holmes and the Old Tin Mine",
+            "description": "Holmes and Watson learn from Mrs. Stapleton about the old tin mine where Stapleton kept his hound and made preparations for refuge. The scene is set against a backdrop of a foggy night, making it impossible to navigate the Grimpen Mire.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Grimpen Mire, near Baskerville Hall",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Holmes",
+                "Watson",
+                "Mrs. Stapleton"
+            ],
+            "objects": [
+                "old tin mine",
+                "lamp",
+                "fog"
+            ],
+            "text_phrases": [
+                "old tin mine on an island in the heart of the mire",
+                "he kept his hound",
+                "fog-bank lay like white wool against the window",
+                "Holmes held the lamp towards it"
+            ]
+        },
+        {
+            "scene_title": "The Pathway Through the Bog",
+            "description": "After the death of the hound, Holmes, Watson, and Mrs. Stapleton navigate a perilous pathway through the bog, marked by small wands. The scene vividly describes the treacherous terrain and the remnants of Stapleton's flight.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Pathway through Grimpen Mire",
+            "time_of_day": "MORNING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Holmes",
+                "Watson",
+                "Mrs. Stapleton"
+            ],
+            "objects": [
+                "pathway",
+                "wands",
+                "bog",
+                "black boot"
+            ],
+            "text_phrases": [
+                "pathway through the bog",
+                "small wand planted here and there",
+                "Holmes sank to his waist",
+                "old black boot in the air"
+            ]
+        },
+        {
+            "scene_title": "The Abandoned Mine and the Hound's Hideout",
+            "description": "Holmes and Watson discover the abandoned mine where Stapleton hid his savage hound. They find remnants of the miners' cottages and the confined area where the hound was kept, along with a skeleton of a dog.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Abandoned mine on the island in Grimpen Mire",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Holmes",
+                "Watson"
+            ],
+            "objects": [
+                "abandoned mine",
+                "miners' cottages",
+                "skeleton of a dog",
+                "luminous mixture"
+            ],
+            "text_phrases": [
+                "huge driving-wheel and a shaft half-filled with rubbish",
+                "crumbling remains of the cottages of the miners",
+                "a staple and chain with a quantity of gnawed bones",
+                "skeleton with a tangle of brown hair"
+            ]
+        }
+    ],
+    "1460-1466": [
+        {
+            "scene_title": "A Foggy Evening at Baker Street",
+            "description": "Holmes and Watson are seated by a blazing fire in their sitting room, discussing past cases and recent successes.",
+            "scene_type": "INT",
+            "scene_date": "Late 1800s",
+            "location": "Sitting room, Baker Street, London",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. John Watson"
+            ],
+            "objects": [
+                "blazing fire",
+                "sitting room furniture"
+            ],
+            "text_phrases": [
+                "Holmes and I sat, upon a raw and foggy night",
+                "on either side of a blazing fire",
+                "in our sitting-room in Baker Street"
+            ]
+        },
+        {
+            "scene_title": "Holmes Discusses the Baskerville Case",
+            "description": "Holmes recounts the events and intricacies of the Baskerville case to Watson, explaining the actions and motives of Stapleton.",
+            "scene_type": "INT",
+            "scene_date": "Late 1800s",
+            "location": "Sitting room, Baker Street, London",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CONTINUOUS",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. John Watson"
+            ],
+            "objects": [
+                "fireplace",
+                "comfortable chairs"
+            ],
+            "text_phrases": [
+                "Holmes discussing the details of the Baskerville mystery",
+                "the whole course of events",
+                "from the point of view of the man who called himself Stapleton"
+            ]
+        }
+    ],
+    "1467-1472": [
+        {
+            "scene_title": "The Scheme and the Hound",
+            "description": "Stapleton buys a savage hound and uses artificial means to make it appear diabolical. He hides it in Grimpen Mire and attempts to use it to kill Sir Charles by luring him outside at night.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Grimpen Mire and Baskerville Hall",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Stapleton",
+                "Sir Charles Baskerville"
+            ],
+            "objects": [
+                "savage hound",
+                "Grimpen Mire"
+            ],
+            "text_phrases": [
+                "savage hound",
+                "artificial means to make the creature diabolical",
+                "Grimpen Mire",
+                "safe hiding-place"
+            ]
+        },
+        {
+            "scene_title": "The Fatal Chase",
+            "description": "Stapleton treats the hound with infernal paint and sets it on Sir Charles, who is waiting at the gate. The hound chases Sir Charles down the yew alley, causing him to die from heart disease and terror.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Yew alley at Baskerville Hall",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Stapleton",
+                "Sir Charles Baskerville"
+            ],
+            "objects": [
+                "hound",
+                "infernal paint",
+                "yew alley"
+            ],
+            "text_phrases": [
+                "hound with infernal paint",
+                "flaming jaws and blazing eyes",
+                "huge black creature",
+                "yew alley"
+            ]
+        },
+        {
+            "scene_title": "Stapleton's Manipulation",
+            "description": "Stapleton manipulates Mrs. Laura Lyons by pretending to be single and promising marriage, using her to lure Sir Charles out for an interview, setting the stage for the fatal encounter with the hound.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Mrs. Laura Lyons' residence",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Stapleton",
+                "Mrs. Laura Lyons"
+            ],
+            "objects": [
+                "letter",
+                "residence"
+            ],
+            "text_phrases": [
+                "complete influence over her",
+                "promising marriage",
+                "write this letter",
+                "interview on the evening"
+            ]
+        }
+    ],
+    "1473-1480": [
+        {
+            "scene_title": "Stapleton's Scheme for the Hound",
+            "description": "Stapleton attempts to acquire Sir Henry's old boot to use for setting a hound on his track, indicating his meticulous planning and criminal intent.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Hotel",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Stapleton",
+                "Hotel staff"
+            ],
+            "objects": [
+                "boot",
+                "money"
+            ],
+            "text_phrases": [
+                "Stapleton to get some article of Sir Henry\u2019s attire",
+                "boots or chamber-maid of the hotel was well bribed",
+                "first boot which was procured for him was a new one",
+                "returned and obtained another"
+            ]
+        },
+        {
+            "scene_title": "Stapleton's Criminal Background",
+            "description": "Discussion about Stapleton's past criminal activities and his clever escape tactics, revealing his dangerous and resourceful nature.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "London",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Stapleton",
+                "Narrator"
+            ],
+            "objects": [
+                "cab",
+                "name tag"
+            ],
+            "text_phrases": [
+                "Stapleton in the cab",
+                "Stapleton\u2019s career of crime",
+                "cold-blooded pistolling of the page",
+                "Stapleton recruited his waning resources"
+            ]
+        },
+        {
+            "scene_title": "The Care of the Hound",
+            "description": "The old manservant Anthony, likely caring for the hound during Stapleton's absence, highlighting the secretive and calculated operations of Stapleton.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Merripit House",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Anthony",
+                "Hound"
+            ],
+            "objects": [
+                "Merripit House",
+                "Grimpen Mire"
+            ],
+            "text_phrases": [
+                "old manservant at Merripit House",
+                "Anthony",
+                "cared for the hound",
+                "cross the Grimpen Mire"
+            ]
+        },
+        {
+            "scene_title": "Stapleton Watched",
+            "description": "The narrator secretly watches Stapleton while staying at Coombe Tracey, using Cartwright's assistance to maintain surveillance.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "Coombe Tracey",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Narrator",
+                "Cartwright",
+                "Stapleton"
+            ],
+            "objects": [
+                "hut",
+                "disguise"
+            ],
+            "text_phrases": [
+                "I came down secretly",
+                "stayed for the most part at Coombe Tracey",
+                "used the hut upon the moor",
+                "Cartwright was frequently watching you"
+            ]
+        }
+    ],
+    "1481-1488": [
+        {
+            "scene_title": "Confrontation at Merripit House",
+            "description": "A dramatic scene where Mrs. Stapleton confronts her husband about his murderous plans, leading to a furious argument and her eventual restraint to prevent her from warning Sir Henry.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Merripit House",
+            "time_of_day": "EVENING",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Mrs. Stapleton",
+                "Mr. Stapleton"
+            ],
+            "objects": [
+                "Ropes",
+                "Dinner table"
+            ],
+            "text_phrases": [
+                "She taxed her husband with his intended crime",
+                "a furious scene followed",
+                "He tied her up",
+                "warning Sir Henry"
+            ]
+        },
+        {
+            "scene_title": "The Moor Confrontation",
+            "description": "The scene on the moor where the true nature of the beast is revealed, and Stapleton's plans come to a disastrous end.",
+            "scene_type": "EXT",
+            "scene_date": "1890s",
+            "location": "The Moor",
+            "time_of_day": "NIGHT",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Sir Henry",
+                "Stapleton",
+                "The Beast",
+                "Dr. Mortimer",
+                "The Specialist"
+            ],
+            "objects": [
+                "Fog",
+                "Moorland"
+            ],
+            "text_phrases": [
+                "Stapleton\u2019s attempt upon Sir Henry",
+                "the death of the unfortunate convict",
+                "the terrible and paralyzing spectacle which the beast presented",
+                "the fog which enabled him to burst upon us"
+            ]
+        },
+        {
+            "scene_title": "Planning the Future",
+            "description": "Stapleton and Mrs. Stapleton discuss various strategies for claiming the inheritance without arousing suspicion, highlighting Stapleton's cunning and desperation.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Merripit House",
+            "time_of_day": "DAY",
+            "scene_transition_type": "CUT TO",
+            "characters": [
+                "Mrs. Stapleton",
+                "Stapleton"
+            ],
+            "objects": [
+                "Documents",
+                "Maps"
+            ],
+            "text_phrases": [
+                "Mrs. Stapleton has heard her husband discuss the problem",
+                "He might claim the property from South America",
+                "establish his identity before the British authorities",
+                "an elaborate disguise"
+            ]
+        },
+        {
+            "scene_title": "A Night at the Opera",
+            "description": "Holmes and Watson prepare for a relaxing evening at the opera after solving the case, marking a return to normalcy and leisure.",
+            "scene_type": "INT",
+            "scene_date": "1890s",
+            "location": "Holmes and Watson's Residence",
+            "time_of_day": "EVENING",
+            "scene_transition_type": "FADE OUT",
+            "characters": [
+                "Sherlock Holmes",
+                "Dr. Watson"
+            ],
+            "objects": [
+                "Opera tickets",
+                "Dinner attire"
+            ],
+            "text_phrases": [
+                "we may turn our thoughts into more pleasant channels",
+                "I have a box for _Les Huguenots_",
+                "be ready in half an hour",
+                "stop at Marcini\u2019s for a little dinner on the way"
+            ]
+        }
+    ]
+}
