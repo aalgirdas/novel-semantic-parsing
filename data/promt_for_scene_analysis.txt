@@ -1,0 +1,41 @@
+You'll read TEXT from the book. Then select the scenes that can be illustrated and provide the structural information in the JSON format.
+      If the text contains dialogue, provide a summary of the dialogue in the attribute dialog_summary.
+      The "objects" attribute should list all objects from the text that can be placed on the stage.
+      The attribute object_part_of_object must list objects that are mentioned in the scene and that are part of another object. Provide the noun of such an object, and after the semicolon provide the name of the parent object.
+      The action_sequence attribute should list a sequence of actions that means motion and that can be and that can be visualized using animation. List only verbs.
+      In JSON attribute text_phrases, provide a list of phrases from the text that best identify objects in the scene.
+        JSON format:
+
+  [
+      {
+          "scene_title": "",
+          "description": "",
+          "scene_type": "values ​​can be INT or EXT (interior or exterior)",
+          "scene_date": "the date of the action taking place on the stage, it is given by the year",
+          "location": "",
+          "time_of_day": "(e.g., NOON, NIGHT, etc.)",
+          "dialog_summary": "",
+          "characters": [
+              "",
+              ""
+          ],
+          "objects": [
+              "",
+              ""
+          ],
+          "object_part_of_object": [
+              ";",
+              ";"
+          ],
+          "action_sequence": [
+              "",
+              ""
+          ],
+          "text_phrases": [
+              "",
+              ""
+          ]
+      }
+  ]
+        
+        TEXT
