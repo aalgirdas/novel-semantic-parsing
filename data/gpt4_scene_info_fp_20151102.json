@@ -1,0 +1,4457 @@
+{
+    "0-19": [
+        {
+            "scene_title": "Casino Late Night",
+            "dialog_summary": "",
+            "description": "James Bond, feeling the weight of exhaustion from high-stakes gambling, decides to leave the roulette table. He observes Le Chiffre, who continues to play and win, surrounded by a significant amount of casino chips.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Casino Royale, salle priv\u00e9e",
+            "time_of_day": "NIGHT",
+            "characters": [
+                "James Bond",
+                "Le Chiffre"
+            ],
+            "objects": [
+                "casino",
+                "roulette table",
+                "brass rail",
+                "hundred-mille plaques",
+                "big yellow plaques"
+            ],
+            "object_part_of_object": [
+                "roulette table;casino",
+                "brass rail;casino"
+            ],
+            "action_sequence": [
+                "shifted",
+                "went",
+                "watched",
+                "moved"
+            ],
+            "constant_state_sequence": [
+                "surrounded",
+                "sitting",
+                "playing"
+            ],
+            "text_phrases": [
+                "The scent and smoke",
+                "moved away"
+            ]
+        },
+        {
+            "scene_title": "Casino Financial Reflections",
+            "dialog_summary": "Bond reflects on the financial outcomes of various players in the casino, including himself, and considers the logistics of potentially robbing the casino.",
+            "description": "Bond contemplates the casino's financial transactions and security measures while collecting his winnings and considering the impossibility of robbing the casino.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Casino Royale",
+            "time_of_day": "MORNING",
+            "characters": [
+                "James Bond",
+                "caissier"
+            ],
+            "objects": [
+                "caisse",
+                "notes",
+                "plaques",
+                "barrier",
+                "cosh",
+                "gun"
+            ],
+            "object_part_of_object": [
+                "notes;caisse",
+                "plaques;caisse",
+                "barrier;caisse",
+                "cosh;caissier",
+                "gun;caissier"
+            ],
+            "action_sequence": [
+                "collected",
+                "pushed",
+                "walked"
+            ],
+            "constant_state_sequence": [
+                "sitting",
+                "dips",
+                "ranged"
+            ],
+            "text_phrases": [
+                "The barrier surrounding",
+                "walked down the steps"
+            ]
+        },
+        {
+            "scene_title": "Bond's Departure from Casino",
+            "dialog_summary": "",
+            "description": "After leaving the casino, Bond walks through the gardens to his hotel, reflecting on his physical sensations and the security of his room.",
+            "scene_type": "EXT",
+            "scene_date": "1953",
+            "location": "From Casino Royale to H\u00f4tel Splendide",
+            "time_of_day": "NIGHT",
+            "characters": [
+                "James Bond",
+                "concierge"
+            ],
+            "objects": [
+                "evening shoes",
+                "gravel",
+                "boulevard",
+                "gardens",
+                "hotel key"
+            ],
+            "object_part_of_object": [
+                "gravel;boulevard",
+                "gardens;boulevard"
+            ],
+            "action_sequence": [
+                "walked",
+                "smiled",
+                "took"
+            ],
+            "constant_state_sequence": [
+                "breathed",
+                "focused"
+            ],
+            "text_phrases": [
+                "As he gave a thousand francs",
+                "took the cable"
+            ]
+        }
+    ],
+    "20-35": [
+        {
+            "scene_title": "Bond's Nighttime Routine",
+            "dialog_summary": "",
+            "description": "Bond returns to his hotel room after a night at the casino. He meticulously checks his room for any signs of intrusion, using his trained skills as a secret agent. Satisfied that his room is secure, he prepares for bed, reflecting on his day and the money he has won. His last action before sleep is to ensure his gun is within easy reach under his pillow.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Hotel room, Royale-les-Eaux",
+            "time_of_day": "NIGHT",
+            "characters": [
+                "Bond"
+            ],
+            "objects": [
+                "hotel room",
+                "gun",
+                "bed",
+                "pillow",
+                "window",
+                "banknotes",
+                "writing-table",
+                "note-book",
+                "mirror",
+                "settee",
+                "bathroom",
+                "lavatory cistern",
+                "clothes cupboard",
+                "writing-desk",
+                "door",
+                "stairs",
+                "corridor"
+            ],
+            "object_part_of_object": [
+                "porcelain handle;clothes cupboard",
+                "copper ball-cock;lavatory cistern",
+                "drawer;writing-desk"
+            ],
+            "action_sequence": [
+                "walked",
+                "turned",
+                "bent down",
+                "inspected",
+                "lifted",
+                "verified",
+                "undressed",
+                "sat down",
+                "entered",
+                "shoved",
+                "cleaned",
+                "climbed",
+                "turned over",
+                "slipped",
+                "slept"
+            ],
+            "constant_state_sequence": [
+                "felt",
+                "knew",
+                "ignored",
+                "made",
+                "gazed",
+                "rested",
+                "relapsed"
+            ],
+            "text_phrases": [
+                "Bond read the cable",
+                "Then he slept"
+            ]
+        }
+    ],
+    "36-59": [
+        {
+            "scene_title": "M reads the memorandum",
+            "dialog_summary": "M interacts with the Head of S over the intercom, asking for clarification of a foreign term.",
+            "description": "M is reading a detailed memorandum about the precarious situation of Le Chiffre, who is facing a financial crisis due to a law that closed brothels in France, severely impacting his investments. M grunts, presses a switch on the intercom, and asks the Head of S to clarify a term. After a brief exchange, M continues reading about the dire consequences for Le Chiffre.",
+            "scene_type": "INT",
+            "scene_date": "1946",
+            "location": "M's office",
+            "time_of_day": "DAY",
+            "characters": [
+                "M",
+                "Head of S"
+            ],
+            "objects": [
+                "memorandum",
+                "intercom",
+                "switch"
+            ],
+            "object_part_of_object": [
+                "switch;intercom"
+            ],
+            "action_sequence": [
+                "pressed",
+                "spelt",
+                "released",
+                "turned"
+            ],
+            "constant_state_sequence": [
+                "reading",
+                "grunted"
+            ],
+            "text_phrases": [
+                "To: M.",
+                "be killed than paid off."
+            ]
+        }
+    ],
+    "61-96": [
+        {
+            "scene_title": "Casino Royale's High Stakes Summer",
+            "dialog_summary": "",
+            "description": "The scene describes the bustling atmosphere of Casino Royale, which is expected to see the highest gambling activity in Europe. The casino has leased its top gambling tables to the Mahomet Ali Syndicate, a group of \u00e9migr\u00e9 Egyptian bankers. The aim is to attract major gamblers from America and Europe to regain its old glory.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Casino Royale, Royale-les-Eaux, France",
+            "time_of_day": "DAY",
+            "characters": [
+                "Mahomet Ali Syndicate members",
+                "Gamblers"
+            ],
+            "objects": [
+                "Casino",
+                "Baccarat table",
+                "Chemin-de-fer tables"
+            ],
+            "object_part_of_object": [
+                "Baccarat table;Casino",
+                "Chemin-de-fer tables;Casino"
+            ],
+            "action_sequence": [
+                "leased",
+                "encouraged"
+            ],
+            "constant_state_sequence": [
+                "is",
+                "have"
+            ],
+            "text_phrases": [
+                "Now, it is expected",
+                "Victorian renown"
+            ]
+        },
+        {
+            "scene_title": "Le Chiffre's Operation",
+            "dialog_summary": "",
+            "description": "The scene outlines a proposed counter-operation against Le Chiffre, a powerful Soviet agent. The plan involves defeating him at the gambling tables to discredit and financially ruin him, thereby weakening his influence and the Communist trade union he is associated with.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Secret Intelligence Service Office",
+            "time_of_day": "DAY",
+            "characters": [
+                "Intelligence Officers"
+            ],
+            "objects": [
+                "Documents",
+                "Tables"
+            ],
+            "object_part_of_object": [
+                "Documents;Office",
+                "Tables;Office"
+            ],
+            "action_sequence": [
+                "recommend",
+                "defeated"
+            ],
+            "constant_state_sequence": [
+                "is",
+                "should"
+            ],
+            "text_phrases": [
+                "Proposed Counter-operation",
+                "hands of the Deuxi\u00e8me Bureau"
+            ]
+        },
+        {
+            "scene_title": "Profile of Le Chiffre",
+            "dialog_summary": "",
+            "description": "This scene provides a detailed profile of Le Chiffre, describing his physical appearance, habits, and background. It highlights his skills and the security measures he takes, such as always being accompanied by armed guards.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Secret Intelligence Service Archive Room",
+            "time_of_day": "DAY",
+            "characters": [
+                "Archivist"
+            ],
+            "objects": [
+                "Profile document",
+                "Photographs"
+            ],
+            "object_part_of_object": [
+                "Profile document;Archive Room",
+                "Photographs;Archive Room"
+            ],
+            "action_sequence": [
+                "encountered",
+                "transferred"
+            ],
+            "constant_state_sequence": [
+                "is",
+                "has"
+            ],
+            "text_phrases": [
+                "Name: Le Chiffre",
+                "Smiles infrequently"
+            ]
+        },
+        {
+            "scene_title": "SMERSH Overview",
+            "dialog_summary": "",
+            "description": "The scene provides an overview of SMERSH, a feared Soviet organization tasked with eliminating treachery within the Soviet Secret Service. It details the organization's history, structure, and notorious operations, including the assassination of Trotsky.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Secret Intelligence Service Briefing Room",
+            "time_of_day": "DAY",
+            "characters": [
+                "Intelligence Analysts"
+            ],
+            "objects": [
+                "Briefing documents",
+                "Maps"
+            ],
+            "object_part_of_object": [
+                "Briefing documents;Briefing Room",
+                "Maps;Briefing Room"
+            ],
+            "action_sequence": [
+                "expanded",
+                "purged"
+            ],
+            "constant_state_sequence": [
+                "is",
+                "has"
+            ],
+            "text_phrases": [
+                "Subject: SMERSH",
+                "final judgement"
+            ]
+        }
+    ],
+    "97-126": [
+        {
+            "scene_title": "Head of S's Plan Presentation",
+            "dialog_summary": "Head of S discusses with the Chief of Staff and Miss Moneypenny about presenting a plan to M. He hands over a top-secret document and instructs them to keep M undisturbed while he reviews it.",
+            "description": "Head of S enters the top floor of a gloomy building, walks through a green baize door and along a corridor to present a plan to M's Chief of Staff and Miss Moneypenny in an office setting.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Secret Service Headquarters, Regent\u2019s Park, London",
+            "time_of_day": "DAY",
+            "characters": [
+                "Head of S",
+                "Chief of Staff",
+                "Miss Moneypenny"
+            ],
+            "objects": [
+                "memorandum",
+                "black folder",
+                "red star",
+                "intercom",
+                "double doors",
+                "blue light"
+            ],
+            "object_part_of_object": [
+                "red star;black folder",
+                "intercom;desk"
+            ],
+            "action_sequence": [
+                "walked",
+                "went",
+                "pressed",
+                "leant",
+                "crossed",
+                "came out"
+            ],
+            "constant_state_sequence": [
+                "smiled",
+                "stood"
+            ],
+            "text_phrases": [
+                "Head of S (the section",
+                "blue light burned"
+            ]
+        },
+        {
+            "scene_title": "M's Approval and Bond's Assignment",
+            "dialog_summary": "Head of S discusses the outcome of the plan presentation with his Number Two, revealing M's approval and the assignment of 007 to the mission. Bond later discusses the mission details and concerns with M.",
+            "description": "Head of S feels triumphant about M's approval of the plan. Later, Bond and M discuss the upcoming mission, its risks, and preparations in M's office.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "M's office, Secret Service Headquarters, London",
+            "time_of_day": "DAY",
+            "characters": [
+                "Head of S",
+                "Number Two",
+                "James Bond",
+                "M"
+            ],
+            "objects": [
+                "memorandum",
+                "desk",
+                "window"
+            ],
+            "object_part_of_object": [
+                "window;waiting-room"
+            ],
+            "action_sequence": [
+                "asked",
+                "came back",
+                "gazing",
+                "looked",
+                "shook"
+            ],
+            "constant_state_sequence": [
+                "smiled",
+                "said"
+            ],
+            "text_phrases": [
+                "Later, a triumphant Head",
+                "watch out. This sounds"
+            ]
+        }
+    ],
+    "127-155": [
+        {
+            "scene_title": "Bond and M's Briefing",
+            "dialog_summary": "M tells Bond that he will have someone to run his communications and not to worry about it.",
+            "description": "Bond, after receiving instructions from M, leaves the room reluctantly, hoping the person assigned to him will be loyal and competent.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "M's office",
+            "time_of_day": "DAY",
+            "characters": [
+                "Bond",
+                "M"
+            ],
+            "objects": [
+                "door",
+                "room"
+            ],
+            "object_part_of_object": [
+                "door;room"
+            ],
+            "action_sequence": [
+                "went",
+                "turned",
+                "left"
+            ],
+            "constant_state_sequence": [
+                "said",
+                "think",
+                "keep",
+                "need",
+                "worry",
+                "argue",
+                "hope"
+            ],
+            "text_phrases": [
+                "Thank you, sir",
+                "ambitious."
+            ]
+        },
+        {
+            "scene_title": "Bond's Arrival at Royale-les-Eaux",
+            "dialog_summary": "",
+            "description": "Bond reflects on his recent arrival at Royale-les-Eaux, his uneventful check-in at the H\u00f4tel Splendide, and his cover story as a Jamaican plantocrat.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "H\u00f4tel Splendide, Royale-les-Eaux",
+            "time_of_day": "MORNING",
+            "characters": [
+                "Bond"
+            ],
+            "objects": [
+                "room",
+                "register"
+            ],
+            "object_part_of_object": [
+                "register;room"
+            ],
+            "action_sequence": [
+                "arrived",
+                "awoke"
+            ],
+            "constant_state_sequence": [
+                "signed",
+                "expressed",
+                "asked",
+                "quote",
+                "made",
+                "chose"
+            ],
+            "text_phrases": [
+                "As two weeks later",
+                "casinos."
+            ]
+        },
+        {
+            "scene_title": "Bond's Breakfast and Unexpected Visitor",
+            "dialog_summary": "Bond receives a visit from Mathis, who brings a radio set as a cover for their liaison, and reveals that Bond's location has been compromised.",
+            "description": "Bond enjoys a hearty breakfast while looking out at the sea, and is interrupted by a call from the concierge about a visitor. Mathis arrives with a radio set, tests it, and then informs Bond that his cover is blown.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Bond's room at H\u00f4tel Splendide",
+            "time_of_day": "MORNING",
+            "characters": [
+                "Bond",
+                "Mathis",
+                "concierge"
+            ],
+            "objects": [
+                "telephone",
+                "radio set",
+                "electric fire",
+                "mantelpiece",
+                "bed",
+                "packet of Caporal"
+            ],
+            "object_part_of_object": [
+                "electric fire;mantelpiece",
+                "packet of Caporal;bed"
+            ],
+            "action_sequence": [
+                "rang",
+                "arrived",
+                "placed",
+                "turned",
+                "sat",
+                "ripped"
+            ],
+            "constant_state_sequence": [
+                "looked",
+                "consumed",
+                "lit",
+                "watched",
+                "lost",
+                "announcing",
+                "waiting",
+                "frowned",
+                "held",
+                "unwrapped",
+                "gazed",
+                "bent",
+                "walked",
+                "clapped",
+                "wrang",
+                "smiled",
+                "pointed",
+                "listened"
+            ],
+            "text_phrases": [
+                "Bond liked to make",
+                "delightful resort."
+            ]
+        }
+    ],
+    "156-176": [
+        {
+            "scene_title": "Suspicious Examination",
+            "dialog_summary": "Mathis explains the tampering with the electric fire and discusses the radio's performance.",
+            "description": "Bond examines the electric fire's panel screws and finds scratches, indicating tampering. Mathis switches off the radio, which had been transmitting, and engages in a conversation about the clarity of the transmission and the quality of the radio.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Hotel room",
+            "time_of_day": "DAY",
+            "characters": [
+                "Bond",
+                "Mathis"
+            ],
+            "objects": [
+                "electric fire",
+                "screws",
+                "panel",
+                "radio",
+                "wall"
+            ],
+            "object_part_of_object": [
+                "screws;electric fire",
+                "panel;wall"
+            ],
+            "action_sequence": [
+                "walked",
+                "examined",
+                "switched"
+            ],
+            "constant_state_sequence": [
+                "secured",
+                "transmitting"
+            ],
+            "text_phrases": [
+                "Some of this",
+                "switched it off"
+            ]
+        },
+        {
+            "scene_title": "Planning and Revelations",
+            "dialog_summary": "Mathis and Bond discuss the new female agent, the situation with the Russians, and the upcoming mission.",
+            "description": "Mathis reveals details about Bond's new partner and the situation with their cover being blown. They discuss the capabilities of the new radio and the role of the new female agent. Mathis also mentions Le Chiffre's location and the presence of mysterious characters in town.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Hotel room",
+            "time_of_day": "DAY",
+            "characters": [
+                "Bond",
+                "Mathis"
+            ],
+            "objects": [
+                "radio",
+                "bed",
+                "Caporal (cigarette)",
+                "hotel"
+            ],
+            "object_part_of_object": [
+                ";"
+            ],
+            "action_sequence": [
+                "sat",
+                "switched",
+                "asked",
+                "grinned"
+            ],
+            "constant_state_sequence": [
+                "frowned",
+                "smiled",
+                "coughed"
+            ],
+            "text_phrases": [
+                "Now it is time",
+                "bowed himself out"
+            ]
+        },
+        {
+            "scene_title": "Bond's Reflection and Departure",
+            "dialog_summary": "Bond reflects on the information shared by Mathis and expresses frustration about the female agent.",
+            "description": "After Mathis leaves, Bond sits at the window, gathering his thoughts about the dire situation and his dissatisfaction with having a female partner for the mission. He expresses his frustration verbally before leaving the room.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Hotel room",
+            "time_of_day": "NOON",
+            "characters": [
+                "Bond"
+            ],
+            "objects": [
+                "window",
+                "wireless set"
+            ],
+            "object_part_of_object": [
+                ";"
+            ],
+            "action_sequence": [
+                "sat",
+                "walked",
+                "left"
+            ],
+            "constant_state_sequence": [
+                "gathered"
+            ],
+            "text_phrases": [
+                "Bond sat at the window",
+                "walked out of the room"
+            ]
+        }
+    ],
+    "177-197": [
+        {
+            "scene_title": "Revival of Royale-les-Eaux",
+            "dialog_summary": "",
+            "description": "The seaside town of Royale-les-Eaux, once a small fishing village, has experienced a revival. The town, now known for its elegant Casino Royale, has been refurbished with the Casino repainted and the gardens spruced up. The main street is lively with shops from Paris jewellers and couturiers.",
+            "scene_type": "EXT",
+            "scene_date": "1950",
+            "location": "Royale-les-Eaux",
+            "time_of_day": "DAY",
+            "characters": [],
+            "objects": [
+                "Casino",
+                "gardens",
+                "fountains",
+                "hotels",
+                "main street",
+                "shops"
+            ],
+            "object_part_of_object": [
+                "fountains;gardens",
+                "shops;main street"
+            ],
+            "action_sequence": [
+                "spruced",
+                "played"
+            ],
+            "constant_state_sequence": [
+                "repainted",
+                "decorated"
+            ],
+            "text_phrases": [
+                "The sun shone",
+                "lavish promises"
+            ]
+        },
+        {
+            "scene_title": "Bond's Arrival at the Hermitage",
+            "dialog_summary": "",
+            "description": "James Bond drives his Bentley out of the garage and through the town to the Hermitage. He enjoys the drive, feeling the power of his car as he maneuvers through the streets.",
+            "scene_type": "EXT",
+            "scene_date": "1950",
+            "location": "Streets of Royale-les-Eaux to the Hermitage",
+            "time_of_day": "DAY",
+            "characters": [
+                "James Bond"
+            ],
+            "objects": [
+                "garage",
+                "Bentley",
+                "streets",
+                "Hermitage"
+            ],
+            "object_part_of_object": [
+                "Bentley;garage"
+            ],
+            "action_sequence": [
+                "drove",
+                "eased"
+            ],
+            "constant_state_sequence": [
+                "serviced",
+                "tended"
+            ],
+            "text_phrases": [
+                "Bond stood",
+                "route nationale"
+            ]
+        },
+        {
+            "scene_title": "At the Hermitage Bar",
+            "dialog_summary": "Bond observes the customers at the Hermitage bar, overhearing a conversation about preferences in drinks. He is then surprised by Mathis, who introduces him to Mademoiselle Lynd.",
+            "description": "Bond sits at the Hermitage bar, taking in the luxurious setting and the patrons. The room is decorated in a masculine style with brass-studded leather and mahogany. Bond orders a drink and soon encounters Mathis and Mademoiselle Lynd.",
+            "scene_type": "INT",
+            "scene_date": "1950",
+            "location": "Hermitage Bar",
+            "time_of_day": "EVENING",
+            "characters": [
+                "James Bond",
+                "Mathis",
+                "Mademoiselle Lynd",
+                "customers"
+            ],
+            "objects": [
+                "bar",
+                "table",
+                "windows",
+                "curtains",
+                "carpets",
+                "waiters",
+                "champagne",
+                "martinis"
+            ],
+            "object_part_of_object": [
+                "windows;bar",
+                "table;bar"
+            ],
+            "action_sequence": [
+                "walked",
+                "chose"
+            ],
+            "constant_state_sequence": [
+                "sat",
+                "gazed"
+            ],
+            "text_phrases": [
+                "An hour later",
+                "doing business this morning"
+            ]
+        }
+    ],
+    "198-218": [
+        {
+            "scene_title": "Introduction at the Cafe",
+            "dialog_summary": "Bond invites a girl and Mathis to join him for drinks and engages in light conversation. The girl remains mostly silent, smoking a cigarette.",
+            "description": "Bond, feeling a reserved friendliness, invites a girl and Mathis to join him for drinks at a cafe. They discuss the weather and local prospects while the girl smokes a cigarette silently, observing Bond.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Cafe in Royale-les-Eaux",
+            "time_of_day": "NOON",
+            "characters": [
+                "Bond",
+                "Mathis",
+                "the girl"
+            ],
+            "objects": [
+                "chair",
+                "cigarette",
+                "drinks",
+                "table",
+                "waiter"
+            ],
+            "object_part_of_object": [
+                "fine \u00e0 l\u2019eau;drinks",
+                "bacardi;drinks"
+            ],
+            "action_sequence": [
+                "inclined",
+                "pulled",
+                "sat",
+                "beckoned",
+                "smoked",
+                "exhaled"
+            ],
+            "constant_state_sequence": [
+                "talked",
+                "gazed",
+                "wore"
+            ],
+            "text_phrases": [
+                "Bond inclined himself",
+                "exhaling it casually"
+            ]
+        },
+        {
+            "scene_title": "Bond's Observation and Invitation",
+            "dialog_summary": "Bond and Mathis continue their conversation while Bond observes the girl and extends a dinner invitation to her.",
+            "description": "While conversing with Mathis, Bond is distracted by the girl's beauty and composure, eventually inviting her to dinner and to accompany him to the casino.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Cafe in Royale-les-Eaux",
+            "time_of_day": "AFTERNOON",
+            "characters": [
+                "Bond",
+                "Mathis",
+                "the girl"
+            ],
+            "objects": [
+                "chair",
+                "cigarette",
+                "drinks",
+                "table",
+                "telephone booth"
+            ],
+            "object_part_of_object": [
+                "telephone booth;cafe"
+            ],
+            "action_sequence": [
+                "rose",
+                "crossed",
+                "touched",
+                "smiled"
+            ],
+            "constant_state_sequence": [
+                "talked",
+                "felt",
+                "showed"
+            ],
+            "text_phrases": [
+                "Bond felt her presence",
+                "acknowledge that they were a team"
+            ]
+        },
+        {
+            "scene_title": "Explosion at the Cafe",
+            "dialog_summary": "An explosion occurs just as Mathis and the girl discuss Bond, causing chaos in the cafe.",
+            "description": "As Mathis and the girl converse about Bond, a sudden explosion shatters the window of the cafe, leading to panic and Mathis acting quickly to ensure safety.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Cafe in Royale-les-Eaux",
+            "time_of_day": "AFTERNOON",
+            "characters": [
+                "Mathis",
+                "the girl"
+            ],
+            "objects": [
+                "chair",
+                "window",
+                "bottles",
+                "bar",
+                "pavement"
+            ],
+            "object_part_of_object": [
+                "window;cafe",
+                "bottles;bar"
+            ],
+            "action_sequence": [
+                "shivered",
+                "hit",
+                "rocked",
+                "toppled",
+                "kicked",
+                "hurtled"
+            ],
+            "constant_state_sequence": [
+                "sat",
+                "smiled"
+            ],
+            "text_phrases": [
+                "He reminds me rather of Hoagy Carmichael",
+                "hurtled through the empty window-frame"
+            ]
+        }
+    ],
+    "219-237": [
+        {
+            "scene_title": "Surveillance and Explosion",
+            "dialog_summary": "",
+            "description": "Bond observes two men under a tree across the boulevard, both dressed similarly and carrying brightly colored camera cases. As Bond approaches, one of the men, referred to as Blue-man, opens his camera case, triggering a massive explosion that severely impacts the surroundings and leaves Bond dazed and injured on the pavement.",
+            "scene_type": "EXT",
+            "scene_date": "1953",
+            "location": "Boulevard near Hotel Splendide",
+            "time_of_day": "DAY",
+            "characters": [
+                "Bond",
+                "Red-man",
+                "Blue-man"
+            ],
+            "objects": [
+                "tree",
+                "camera-case",
+                "pavement",
+                "plane-tree",
+                "boulevard",
+                "road",
+                "pavements",
+                "trunks of the trees",
+                "branches",
+                "crater"
+            ],
+            "object_part_of_object": [
+                "trunk;tree",
+                "branches;tree"
+            ],
+            "action_sequence": [
+                "noticed",
+                "unslung",
+                "bent",
+                "fiddle",
+                "slammed"
+            ],
+            "constant_state_sequence": [
+                "standing",
+                "dressed",
+                "carrying",
+                "gazing",
+                "lay"
+            ],
+            "text_phrases": [
+                "There were few people",
+                "telephone rang"
+            ]
+        },
+        {
+            "scene_title": "Aftermath and Recovery",
+            "dialog_summary": "Mathis reassures Bond and instructs the police over the phone to handle the situation as a vendetta between Bulgarian Communists, directing them to find the third perpetrator.",
+            "description": "After the explosion, Bond is helped by Mathis who leads him away from the chaos towards his hotel room. Mathis turns on the radio and questions Bond about the incident, then makes a phone call to manage the police response.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Hotel Splendide, Bond's room",
+            "time_of_day": "DAY",
+            "characters": [
+                "Bond",
+                "Mathis"
+            ],
+            "objects": [
+                "radio",
+                "fireplace",
+                "telephone",
+                "bed",
+                "window"
+            ],
+            "object_part_of_object": [
+                "hook;telephone"
+            ],
+            "action_sequence": [
+                "raised",
+                "lead",
+                "push",
+                "stripped",
+                "sprayed",
+                "tore",
+                "turned",
+                "jumped",
+                "ordered",
+                "turned off",
+                "slammed"
+            ],
+            "constant_state_sequence": [
+                "standing",
+                "sitting",
+                "enjoyed"
+            ],
+            "text_phrases": [
+                "It was Mathis who got to him first",
+                "the telephone rang"
+            ]
+        }
+    ],
+    "238-258": [
+        {
+            "scene_title": "Bond's Luncheon Reflection",
+            "dialog_summary": "",
+            "description": "Bond, after a tense moment of reflection about his allies and enemies, engages in a solitary activity of preparing to eat toast while planning to tip the waiter generously for the meal. He is in a contemplative state, preparing himself mentally and physically for the upcoming gambling session.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Hotel room",
+            "time_of_day": "AFTERNOON",
+            "characters": [
+                "Bond"
+            ],
+            "objects": [
+                "knife",
+                "toast",
+                "glass of very hot water",
+                "pot of Strasbourg porcelain"
+            ],
+            "object_part_of_object": [
+                "glass;beside the pot of Strasbourg porcelain"
+            ],
+            "action_sequence": [
+                "picked up",
+                "dipped",
+                "reminded"
+            ],
+            "constant_state_sequence": [
+                "stood",
+                "thought"
+            ],
+            "text_phrases": [
+                "Bond shook himself",
+                "reminded himself to tip the waiter"
+            ]
+        },
+        {
+            "scene_title": "Bond's Massage and Rest",
+            "dialog_summary": "",
+            "description": "Bond receives a thorough massage from a Swedish masseur in his hotel room, which helps him relax and alleviate the physical tensions and bruises from previous encounters. After the massage, Bond falls into a deep, rejuvenating sleep.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Hotel room",
+            "time_of_day": "AFTERNOON",
+            "characters": [
+                "Bond",
+                "Swedish masseur"
+            ],
+            "objects": [
+                "window",
+                "door"
+            ],
+            "object_part_of_object": [],
+            "action_sequence": [
+                "rang",
+                "got to work",
+                "fell"
+            ],
+            "constant_state_sequence": [
+                "sat",
+                "ceased",
+                "awoke"
+            ],
+            "text_phrases": [
+                "She rang off",
+                "Bond fell into a dreamless sleep"
+            ]
+        },
+        {
+            "scene_title": "Bond at the Casino",
+            "dialog_summary": "",
+            "description": "Bond walks into the casino, filled with anticipation and confidence. He exchanges a significant amount of money into chips and begins to study the roulette game's patterns before placing his bets strategically.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Casino",
+            "time_of_day": "EVENING",
+            "characters": [
+                "Bond",
+                "chef de partie"
+            ],
+            "objects": [
+                "roulette table",
+                "roulette ball",
+                "roulette wheel",
+                "ivory ball",
+                "chips"
+            ],
+            "object_part_of_object": [
+                "roulette ball;roulette wheel",
+                "ivory ball;roulette wheel"
+            ],
+            "action_sequence": [
+                "walked",
+                "changed",
+                "took",
+                "studied",
+                "flicks"
+            ],
+            "constant_state_sequence": [
+                "liked",
+                "saw",
+                "accepted"
+            ],
+            "text_phrases": [
+                "Bond walked over to the Casino",
+                "flicks the ball round the outer rim"
+            ]
+        }
+    ],
+    "259-288": [
+        {
+            "scene_title": "Casino Encounter",
+            "dialog_summary": "Bond and Felix Leiter meet and converse over drinks, discussing their roles and the situation at hand.",
+            "description": "Bond plays at the casino, attracting attention with his high stakes. He meets Felix Leiter, who he suspects is a CIA agent. They exchange introductions and decide to have drinks. Bond orders a special martini and shares his recipe with the barman, while Leiter suggests a name for the drink. They discuss the recent events and their roles in the ongoing investigation.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Casino",
+            "time_of_day": "NIGHT",
+            "characters": [
+                "James Bond",
+                "Felix Leiter",
+                "Barman"
+            ],
+            "objects": [
+                "table",
+                "chair",
+                "plaque",
+                "bar",
+                "glass",
+                "drink",
+                "Chesterfield cigarettes"
+            ],
+            "object_part_of_object": [
+                "plaque;table",
+                "glass;bar"
+            ],
+            "action_sequence": [
+                "strolled",
+                "pushed",
+                "shook",
+                "reached"
+            ],
+            "constant_state_sequence": [
+                "sitting",
+                "smiled",
+                "seemed",
+                "sat"
+            ],
+            "text_phrases": [
+                "Directly Bond had started",
+                "Bond sympathized with him."
+            ]
+        }
+    ],
+    "289-306": [
+        {
+            "scene_title": "Casino Departure and Hotel Arrival",
+            "dialog_summary": "Bond and Leiter discuss the loyalty of the concierge and Bond's recovery from an afternoon incident.",
+            "description": "Bond and Leiter leave the casino after Bond secures his winnings and stroll to their hotel, discussing the day's events and the loyalty of the hotel concierge. They observe the cleanup operation of a recent explosion as they walk.",
+            "scene_type": "EXT",
+            "scene_date": "1953",
+            "location": "Street from Casino to Hotel Splendide, Royale-les-Eaux",
+            "time_of_day": "EVENING",
+            "characters": [
+                "Bond",
+                "Leiter"
+            ],
+            "objects": [
+                "whisky",
+                "hotel",
+                "Casino",
+                "caisse",
+                "notes",
+                "Splendide",
+                "workmen",
+                "trees",
+                "hoses",
+                "municipal tank cars",
+                "boulevard",
+                "pavements",
+                "bomb-crater",
+                "passers-by"
+            ],
+            "object_part_of_object": [
+                "boulevard;pavements",
+                "trees;scene",
+                "hoses;municipal tank cars"
+            ],
+            "action_sequence": [
+                "swallowed",
+                "told",
+                "decided",
+                "stroll",
+                "leaving",
+                "deposited",
+                "keeping",
+                "walked",
+                "saw",
+                "was",
+                "washing",
+                "had disappeared",
+                "had paused",
+                "assumed",
+                "had been carried out",
+                "asked",
+                "approached",
+                "was",
+                "said",
+                "had been unable",
+                "had said",
+                "must assume",
+                "are trained",
+                "have",
+                "remembered",
+                "hurried",
+                "inquire",
+                "had recovered",
+                "thought",
+                "say",
+                "hoped",
+                "were relayed",
+                "would start",
+                "proffered"
+            ],
+            "constant_state_sequence": [
+                "was",
+                "is"
+            ],
+            "text_phrases": [
+                "By the time",
+                "proffered glycerine"
+            ]
+        },
+        {
+            "scene_title": "Preparation for the Evening",
+            "dialog_summary": "",
+            "description": "Bond prepares for the evening by dressing up and arming himself, reflecting on his plans and the upcoming game.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Bond's room, Hotel Splendide",
+            "time_of_day": "EVENING",
+            "characters": [
+                "Bond"
+            ],
+            "objects": [
+                "clothes",
+                "bath",
+                "shower",
+                "bed",
+                "mirror",
+                "tie",
+                "cigarettes",
+                "gunmetal box",
+                "Ronson",
+                "notes",
+                "leather holster",
+                "Beretta automatic",
+                "clip",
+                "round",
+                "barrel",
+                "action",
+                "trigger",
+                "chamber",
+                "safety catch",
+                "pouch",
+                "shoulder-holster",
+                "dinner-jacket coat",
+                "silk evening shirt",
+                "tie",
+                "door"
+            ],
+            "object_part_of_object": [
+                "clip;Beretta automatic",
+                "round;Beretta automatic",
+                "barrel;Beretta automatic",
+                "action;Beretta automatic",
+                "trigger;Beretta automatic",
+                "chamber;Beretta automatic",
+                "safety catch;Beretta automatic",
+                "pouch;shoulder-holster"
+            ],
+            "action_sequence": [
+                "threw",
+                "took",
+                "followed",
+                "lay",
+                "remained",
+                "examine",
+                "had to plan",
+                "visualize",
+                "closed",
+                "pursued",
+                "watching",
+                "rose",
+                "dressed",
+                "dismissing",
+                "tied",
+                "paused",
+                "examined",
+                "looked",
+                "subsided",
+                "filled",
+                "slipped",
+                "snapped",
+                "pocketing",
+                "opened",
+                "took",
+                "slipped",
+                "took",
+                "extracted",
+                "whipped",
+                "pulling",
+                "charged",
+                "loaded",
+                "put up",
+                "dropped",
+                "looked",
+                "slipped",
+                "felt",
+                "verified",
+                "gave",
+                "walked",
+                "locked",
+                "turned",
+                "heard",
+                "call"
+            ],
+            "constant_state_sequence": [
+                "was",
+                "is"
+            ],
+            "text_phrases": [
+                "Bond walked up",
+                "Good evening"
+            ]
+        }
+    ],
+    "307-343": [
+        {
+            "scene_title": "Dinner at Royale",
+            "dialog_summary": "Bond and Vesper discuss their dinner choices and drinks, including a special martini named after Vesper. They also discuss their preferences and the details of enjoying a meal.",
+            "description": "Bond and Vesper are seated at a secluded table in a mirrored alcove of a luxurious restaurant. They order their dinner and drinks, including a special martini named 'The Vesper'. The scene is filled with a detailed description of their meal choices and the interaction with the restaurant staff.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Luxurious restaurant in Royale",
+            "time_of_day": "EVENING",
+            "characters": [
+                "Bond",
+                "Vesper",
+                "ma\u00eetre d\u2019h\u00f4tel",
+                "sommelier"
+            ],
+            "objects": [
+                "glass of vodka",
+                "carafe of vodka",
+                "menu",
+                "caviar",
+                "rognon de veau",
+                "pommes souffl\u00e9s",
+                "fraises des bois",
+                "cream",
+                "tournedos",
+                "sauce B\u00e9arnaise",
+                "coeur d\u2019artichaut",
+                "avocado pear",
+                "French dressing",
+                "champagne",
+                "wine list"
+            ],
+            "object_part_of_object": [
+                "glass;carafe of vodka",
+                "menu;restaurant",
+                "wine list;restaurant"
+            ],
+            "action_sequence": [
+                "laughed",
+                "led",
+                "watched",
+                "beckoned",
+                "turned",
+                "ordered",
+                "explained",
+                "promised",
+                "added",
+                "turned",
+                "bowed",
+                "repeated",
+                "proffering",
+                "pointed",
+                "smiled",
+                "grinned",
+                "filled",
+                "held",
+                "looked",
+                "shrug",
+                "leant"
+            ],
+            "constant_state_sequence": [
+                "felt",
+                "forgotten",
+                "deciphered",
+                "said",
+                "sensed",
+                "explained",
+                "approve",
+                "agree",
+                "forgive",
+                "take",
+                "makes",
+                "like",
+                "hope"
+            ],
+            "text_phrases": [
+                "Bond laughed",
+                "hot toast from the kitchens"
+            ]
+        }
+    ],
+    "344-364": [
+        {
+            "scene_title": "Revelation of the Plot",
+            "dialog_summary": "Vesper reveals the details of the plot against Bond, involving the third Bulgar, the explosive devices disguised as camera cases, and the subsequent double-cross that led to the demise of the bomb-throwers.",
+            "description": "Vesper shares the intricate details of the plot to kill Bond, involving the third Bulgar and two explosive devices disguised as camera cases. The scene unfolds as they discuss the cunning plan and its failure over dinner.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Dining area",
+            "time_of_day": "NIGHT",
+            "characters": [
+                "Bond",
+                "Vesper"
+            ],
+            "objects": [
+                "Citro\u00ebn",
+                "gun",
+                "camera-cases",
+                "smoke-bomb",
+                "explosive",
+                "vodka",
+                "caviar",
+                "toast",
+                "onion",
+                "egg",
+                "plates"
+            ],
+            "object_part_of_object": [
+                "lever;smoke-bomb",
+                "white;egg",
+                "yolk;egg"
+            ],
+            "action_sequence": [
+                "picked",
+                "brought",
+                "shot",
+                "threw",
+                "press",
+                "eat"
+            ],
+            "constant_state_sequence": [
+                "glittered",
+                "was",
+                "saw",
+                "told",
+                "said"
+            ],
+            "text_phrases": [
+                "Tell me.",
+                "sketch out the plan"
+            ]
+        }
+    ],
+    "365-380": [
+        {
+            "scene_title": "Baccarat Game Explanation",
+            "dialog_summary": "Bond explains the rules and strategies of playing baccarat to his companion, emphasizing the challenges and his intentions to break the bank or be broken.",
+            "description": "Bond and his companion are engaged in a serious conversation over dinner about the upcoming baccarat game against Le Chiffre. Bond meticulously details the game's mechanics, the layout of the table, and his strategic approach to confronting Le Chiffre.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Dining area",
+            "time_of_day": "EVENING",
+            "characters": [
+                "Bond",
+                "Companion"
+            ],
+            "objects": [
+                "champagne",
+                "strawberries",
+                "avocado pear",
+                "coffee",
+                "baccarat table",
+                "cards",
+                "shoe",
+                "croupier",
+                "chef de partie"
+            ],
+            "object_part_of_object": [
+                "shoe; baccarat table",
+                "cards; shoe",
+                "croupier; baccarat table",
+                "chef de partie; baccarat table"
+            ],
+            "action_sequence": [
+                "drank",
+                "ate",
+                "smoked",
+                "talked"
+            ],
+            "constant_state_sequence": [
+                "listened",
+                "felt",
+                "explaining",
+                "sitting"
+            ],
+            "text_phrases": [
+                "She listened to him",
+                "So nine plus seven equals six\u2014not sixteen."
+            ]
+        }
+    ],
+    "381-400": [
+        {
+            "scene_title": "Casino Royale: Baccarat Explained",
+            "dialog_summary": "Bond explains the rules of Baccarat to Vesper, emphasizing the strategic decisions involved.",
+            "description": "Bond and Vesper are in a restaurant where Bond explains the intricacies of Baccarat, discussing the natural eights and nines and the decisions to draw or stand. Vesper listens attentively, observing Bond's passionate expression.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Restaurant",
+            "time_of_day": "EVENING",
+            "characters": [
+                "Bond",
+                "Vesper"
+            ],
+            "objects": [
+                "restaurant",
+                "table",
+                "cards",
+                "cigarette",
+                "bill"
+            ],
+            "object_part_of_object": [
+                "cards;table",
+                "bill;restaurant"
+            ],
+            "action_sequence": [
+                "listened",
+                "watched",
+                "deals",
+                "turn",
+                "ask",
+                "stood",
+                "drawn",
+                "look",
+                "turns",
+                "draw",
+                "stood",
+                "draw",
+                "stubbed",
+                "called"
+            ],
+            "constant_state_sequence": [
+                "is",
+                "are",
+                "have",
+                "has",
+                "is",
+                "is"
+            ],
+            "text_phrases": [
+                "The winner is",
+                "I get more of them"
+            ]
+        },
+        {
+            "scene_title": "Departure from the Restaurant",
+            "dialog_summary": "Bond and Vesper leave the restaurant, discussing their plans for the evening.",
+            "description": "After explaining the game, Bond and Vesper leave the restaurant. Bond drives the Bentley to the hotel entrance, and they walk through the ornate ante-rooms of the casino, greeted by functionaries.",
+            "scene_type": "EXT",
+            "scene_date": "1953",
+            "location": "Hotel steps and entrance",
+            "time_of_day": "EVENING",
+            "characters": [
+                "Bond",
+                "Vesper",
+                "sommelier",
+                "Casino functionaries"
+            ],
+            "objects": [
+                "restaurant",
+                "Bentley",
+                "hotel",
+                "ante-rooms",
+                "salle priv\u00e9e",
+                "door"
+            ],
+            "object_part_of_object": [
+                "door;salle priv\u00e9e",
+                "door;hotel"
+            ],
+            "action_sequence": [
+                "rose",
+                "led",
+                "drove",
+                "parking",
+                "walked",
+                "looked",
+                "acknowledging"
+            ],
+            "constant_state_sequence": [
+                "is",
+                "was",
+                "seemed",
+                "was"
+            ],
+            "text_phrases": [
+                "Vesper rose",
+                "acknowledging cheerfully"
+            ]
+        },
+        {
+            "scene_title": "Casino Encounter and Baccarat Table",
+            "dialog_summary": "Bond meets Felix Leiter at the casino, who offers to show Vesper how to play roulette. Bond then prepares to play Baccarat.",
+            "description": "Inside the casino, Bond and Vesper encounter Felix Leiter. After a brief interaction, Bond proceeds to the Baccarat table, prepares his money, and takes his seat, ready for the game.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Casino",
+            "time_of_day": "EVENING",
+            "characters": [
+                "Bond",
+                "Vesper",
+                "Felix Leiter",
+                "casino functionaries",
+                "chef de partie",
+                "huissier",
+                "players"
+            ],
+            "objects": [
+                "casino",
+                "roulette tables",
+                "baccarat table",
+                "caisse",
+                "brass rail",
+                "chair",
+                "cigarette-case",
+                "lighter",
+                "ash-tray"
+            ],
+            "object_part_of_object": [
+                "roulette tables;casino",
+                "baccarat table;casino",
+                "brass rail;baccarat table",
+                "chair;baccarat table",
+                "cigarette-case;Bond",
+                "lighter;Bond",
+                "ash-tray;baccarat table"
+            ],
+            "action_sequence": [
+                "detached",
+                "greeted",
+                "introduced",
+                "exchanging",
+                "looked",
+                "excused",
+                "walked",
+                "stood",
+                "divided",
+                "strolled",
+                "moved",
+                "sat",
+                "wiped",
+                "put",
+                "lit",
+                "leant"
+            ],
+            "constant_state_sequence": [
+                "is",
+                "has",
+                "is",
+                "are",
+                "was",
+                "kept"
+            ],
+            "text_phrases": [
+                "Felix Leiter detached",
+                "leant back in his chair"
+            ]
+        }
+    ],
+    "401-423": [
+        {
+            "scene_title": "Casino Royale Gambling Scene",
+            "dialog_summary": "",
+            "description": "Bond observes the players at the casino table, each with distinct backgrounds and playing styles. Le Chiffre, the banker, arrives and begins the game with a series of precise movements, dealing cards to the players, including the Greek gambler. The tension builds as the Greek decides not to draw another card, and Le Chiffre reveals his winning hand.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Casino Royale",
+            "time_of_day": "NIGHT",
+            "characters": [
+                "Bond",
+                "Le Chiffre",
+                "Monsieur Sixte",
+                "Lord Danvers",
+                "American wife",
+                "Greek gambler",
+                "Carmel Delane",
+                "Lady Danvers",
+                "Mr Du Pont",
+                "Mrs Du Pont",
+                "Maharajah",
+                "Signor Tomelli",
+                "Croupier"
+            ],
+            "objects": [
+                "banker's chair",
+                "table",
+                "cards",
+                "metal and wooden shoe",
+                "spatula",
+                "canister"
+            ],
+            "object_part_of_object": [
+                "metal and wooden shoe;table",
+                "canister;table"
+            ],
+            "action_sequence": [
+                "glanced",
+                "came",
+                "cut",
+                "fitted",
+                "tapped",
+                "gave",
+                "slipped",
+                "lifted",
+                "dropped",
+                "scuttled",
+                "gathered",
+                "inserted",
+                "slipped",
+                "withdrew",
+                "picked",
+                "turned",
+                "faced",
+                "lifting",
+                "slipping"
+            ],
+            "constant_state_sequence": [
+                "sat",
+                "looked"
+            ],
+            "text_phrases": [
+                "Opposite him, the banker\u2019s chair was vacant.",
+                "slipping them through the wide slot in the table"
+            ]
+        }
+    ],
+    "424-453": [
+        {
+            "scene_title": "High Stakes at the Casino",
+            "dialog_summary": "Bond and Le Chiffre engage in a high-stakes game of baccarat. Bond wins the round with an unbeatable nine, while Le Chiffre reveals valueless cards.",
+            "description": "In a tense casino setting, Bond and Le Chiffre face off in a baccarat game. The Greek and other players observe as Bond confidently places his bet and wins the round, collecting a large sum of chips.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Casino Royale, fictional location in France",
+            "time_of_day": "NIGHT",
+            "characters": [
+                "Bond",
+                "Le Chiffre",
+                "The Greek",
+                "Mrs Du Pont",
+                "Mr Du Pont",
+                "Croupier",
+                "Spectators",
+                "Gunmen"
+            ],
+            "objects": [
+                "Casino table",
+                "Chips",
+                "Cards",
+                "Dinner-jacket",
+                "Metal cylinder",
+                "Inhaler",
+                "Notes",
+                "Spatula",
+                "Brass rail",
+                "Malacca cane"
+            ],
+            "object_part_of_object": [
+                "Cards;Casino table",
+                "Chips;Casino table",
+                "Inhaler;Metal cylinder",
+                "Notes;Bond's pocket",
+                "Spatula;Croupier"
+            ],
+            "action_sequence": [
+                "pushed",
+                "slipped",
+                "murmured",
+                "lit",
+                "settled",
+                "slipped",
+                "inserted",
+                "inhaled",
+                "pocketed",
+                "slapped",
+                "held",
+                "slipped",
+                "fingered",
+                "slipped",
+                "reached",
+                "glanced",
+                "tossed",
+                "faced",
+                "flicked",
+                "spaded",
+                "slipped",
+                "turned",
+                "kicked",
+                "leant",
+                "laughed",
+                "looked",
+                "stood",
+                "shifted",
+                "hung"
+            ],
+            "constant_state_sequence": [
+                "lay",
+                "takes",
+                "chosen",
+                "announced",
+                "settled",
+                "launched",
+                "continue",
+                "achieve",
+                "looked",
+                "showed",
+                "lending",
+                "removed",
+                "came",
+                "held",
+                "surmounted",
+                "draped",
+                "showed",
+                "sensed",
+                "holding",
+                "showed",
+                "leaned"
+            ],
+            "text_phrases": [
+                "The Greek pushed",
+                "obscene object."
+            ]
+        }
+    ],
+    "454-486": [
+        {
+            "scene_title": "High Stakes at the Casino",
+            "dialog_summary": "Bond and other players engage in a high-stakes game of baccarat against Le Chiffre. Dialogue includes betting terms like 'Banco' and 'Suivi', and the croupier announcing game results.",
+            "description": "In a tense casino setting, Bond plays baccarat against Le Chiffre. The atmosphere is charged with the silent concentration of players and the background noise of other games. Bond experiences a series of losses, which dramatically depletes his funds, heightening the suspense.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Casino Royale, fictional location in France",
+            "time_of_day": "NIGHT",
+            "characters": [
+                "James Bond",
+                "Le Chiffre",
+                "Croupier",
+                "Vesper Lynd",
+                "Felix Leiter",
+                "Mrs. Du Pont",
+                "The Greek",
+                "Carmel Delane",
+                "Lady Danvers"
+            ],
+            "objects": [
+                "baccarat table",
+                "cards",
+                "chips",
+                "notes",
+                "plaques",
+                "shoe",
+                "spatula"
+            ],
+            "object_part_of_object": [
+                "cards;shoe",
+                "spatula;croupier"
+            ],
+            "action_sequence": [
+                "pushing",
+                "slapping",
+                "tapping",
+                "raked",
+                "pushed",
+                "turned",
+                "flicked",
+                "slipped"
+            ],
+            "constant_state_sequence": [
+                "stood",
+                "smiled",
+                "looked",
+                "seemed",
+                "glanced",
+                "faced"
+            ],
+            "text_phrases": [
+                "The game continued",
+                "He had won"
+            ]
+        }
+    ],
+    "487-515": [
+        {
+            "scene_title": "Bond's Defeat and Unexpected Aid",
+            "dialog_summary": "",
+            "description": "Bond, feeling defeated and cleaned out, sits at the gambling table and smokes a cigarette. He reflects on his losses and the impending return to London. Unexpectedly, he receives an envelope filled with money, a gesture of aid from the USA, which renews his hope.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Casino",
+            "time_of_day": "NIGHT",
+            "characters": [
+                "Bond",
+                "Vesper",
+                "Leiter",
+                "huissier"
+            ],
+            "objects": [
+                "black case",
+                "cigarette",
+                "Ronson",
+                "lighter",
+                "table",
+                "envelope",
+                "notes",
+                "note-paper"
+            ],
+            "object_part_of_object": [
+                "cigarette;black case",
+                "lighter;table"
+            ],
+            "action_sequence": [
+                "opened",
+                "took",
+                "snapped",
+                "lit",
+                "put",
+                "took",
+                "expelled",
+                "looked",
+                "coming",
+                "stopped",
+                "bent",
+                "placed",
+                "moved",
+                "took",
+                "slit",
+                "slipped",
+                "glanced",
+                "swallowed",
+                "looked",
+                "grinned",
+                "smiled",
+                "raised",
+                "set"
+            ],
+            "constant_state_sequence": [
+                "sat",
+                "frozen",
+                "was",
+                "was",
+                "gave",
+                "knew",
+                "was",
+                "felt",
+                "retaining",
+                "was",
+                "had"
+            ],
+            "text_phrases": [
+                "Bond was beaten",
+                "no more miracles"
+            ]
+        },
+        {
+            "scene_title": "The High Stakes Game",
+            "dialog_summary": "Bond declares 'Suivi' to match the high stakes, causing a stir around the table.",
+            "description": "The croupier announces a high stake of thirty-two million francs, drawing attention and excitement around the casino. Bond, with renewed resources, challenges Le Chiffre by matching the bet, leading to a tense moment as he demonstrates his ability to cover the bet.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Casino",
+            "time_of_day": "NIGHT",
+            "characters": [
+                "Bond",
+                "Le Chiffre",
+                "croupier",
+                "chef de partie",
+                "gunman",
+                "Casino directors"
+            ],
+            "objects": [
+                "table",
+                "notes",
+                "envelope"
+            ],
+            "object_part_of_object": [
+                "notes;envelope"
+            ],
+            "action_sequence": [
+                "nodded",
+                "rang",
+                "built",
+                "took",
+                "leant",
+                "said",
+                "ran",
+                "crowded",
+                "consulted",
+                "turned",
+                "shovelled",
+                "busied",
+                "caught",
+                "press"
+            ],
+            "constant_state_sequence": [
+                "was",
+                "was",
+                "was",
+                "was",
+                "knew",
+                "happened",
+                "added"
+            ],
+            "text_phrases": [
+                "The croupier had completed",
+                "right into the cleft"
+            ]
+        }
+    ],
+    "516-555": [
+        {
+            "scene_title": "The Silent Threat",
+            "dialog_summary": "A threatening voice behind Bond instructs him to withdraw his bet or face being shot with a silent gun.",
+            "description": "Bond is at a casino table when he receives a life-threatening whisper from a man with a southern French accent, warning him to withdraw his bet or be shot silently.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Casino",
+            "time_of_day": "NIGHT",
+            "characters": [
+                "Bond",
+                "Gunman",
+                "Le Chiffre",
+                "Vesper",
+                "Felix Leiter"
+            ],
+            "objects": [
+                "gun",
+                "casino table",
+                "chair",
+                "walking-stick",
+                "notes",
+                "brass rail"
+            ],
+            "object_part_of_object": [
+                "rubber baffles;gun",
+                "barrel;gun"
+            ],
+            "action_sequence": [
+                "turned",
+                "heaved",
+                "tipped",
+                "wrenched",
+                "went"
+            ],
+            "constant_state_sequence": [
+                "was",
+                "believed",
+                "smiling",
+                "breathing",
+                "waiting"
+            ],
+            "text_phrases": [
+                "At the same time",
+                "Le Chiffre watched him"
+            ]
+        },
+        {
+            "scene_title": "Recovery and Continuation",
+            "dialog_summary": "After Bond's disruptive action, the crowd and casino staff express concern and offer assistance. Bond reassures everyone and continues the game.",
+            "description": "Following a dramatic moment where Bond disrupts the game to avoid being shot, he recovers with the help of the crowd and staff, and the game resumes.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Casino",
+            "time_of_day": "NIGHT",
+            "characters": [
+                "Bond",
+                "Le Chiffre",
+                "Felix Leiter",
+                "Mrs Du Pont",
+                "Casino staff",
+                "Spectators"
+            ],
+            "objects": [
+                "chair",
+                "malacca stick",
+                "benzedrine inhaler",
+                "casino table",
+                "cards",
+                "shoe"
+            ],
+            "object_part_of_object": [
+                "rubber tip;malacca stick"
+            ],
+            "action_sequence": [
+                "heaved",
+                "tapped",
+                "slapped",
+                "sucked"
+            ],
+            "constant_state_sequence": [
+                "was",
+                "felt",
+                "looked",
+                "breathing",
+                "waiting"
+            ],
+            "text_phrases": [
+                "Bond decided",
+                "Le Chiffre watched him"
+            ]
+        }
+    ],
+    "556-593": [
+        {
+            "scene_title": "High Stakes at the Baccarat Table",
+            "dialog_summary": "Bond and Le Chiffre engage in a tense game of Baccarat, where Bond ultimately reveals a winning hand.",
+            "description": "In a high-stakes game of Baccarat, Bond faces off against Le Chiffre. The tension builds as cards are drawn and revealed, leading to Bond's victory with a nine of hearts, defeating Le Chiffre's hand.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Casino",
+            "time_of_day": "NIGHT",
+            "characters": [
+                "James Bond",
+                "Le Chiffre",
+                "Croupier"
+            ],
+            "objects": [
+                "cards",
+                "table",
+                "cigarette",
+                "bottle of Clicquot",
+                "glass",
+                "plaque",
+                "spatula",
+                "shoe",
+                "velvet-covered chain"
+            ],
+            "object_part_of_object": [
+                "cards;table",
+                "cigarette;Bond's mouth",
+                "glass;table",
+                "plaque;table",
+                "spatula;table",
+                "shoe;table",
+                "velvet-covered chain;rail"
+            ],
+            "action_sequence": [
+                "reached",
+                "drew",
+                "fanned",
+                "clenched",
+                "stiffened",
+                "slapped",
+                "slipped",
+                "turned",
+                "exhaled",
+                "slipped",
+                "flicked",
+                "shunted",
+                "threw",
+                "riffled",
+                "slapped",
+                "sat",
+                "filled",
+                "drank",
+                "leant",
+                "curled",
+                "glanced",
+                "flipped",
+                "eased",
+                "stood",
+                "brushed",
+                "unhooked",
+                "let",
+                "opened",
+                "vanished",
+                "stood",
+                "slipped",
+                "cut",
+                "asked",
+                "ducked"
+            ],
+            "constant_state_sequence": [
+                "looked",
+                "felt",
+                "rocked",
+                "sat",
+                "watched"
+            ],
+            "text_phrases": [
+                "Bond reached out",
+                "ducked under the rail"
+            ]
+        }
+    ],
+    "594-616": [
+        {
+            "scene_title": "Casino Winnings and Plans",
+            "dialog_summary": "Bond and Felix Leiter discuss their recent game and plans for the evening. Leiter shows Bond a bullet and talks about the gunman. They plan to celebrate and discuss the next steps.",
+            "description": "Bond and Leiter are at the casino's private office where Bond collects his winnings. They move to the bar, discuss the game, and Leiter shows a bullet from a recent incident. They plan to celebrate at a nightclub and discuss future actions.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Casino's private office and bar",
+            "time_of_day": "NIGHT",
+            "characters": [
+                "Bond",
+                "Felix Leiter"
+            ],
+            "objects": [
+                "desk",
+                "chips",
+                "bottle of champagne",
+                "bullet",
+                "gun",
+                "cheque"
+            ],
+            "object_part_of_object": [
+                "chips;desk",
+                "bullet;table"
+            ],
+            "action_sequence": [
+                "walked",
+                "handed",
+                "took",
+                "placed",
+                "tapped",
+                "rose",
+                "turned"
+            ],
+            "constant_state_sequence": [
+                "lay",
+                "discussed",
+                "congratulated",
+                "gave",
+                "smiled",
+                "looked",
+                "read"
+            ],
+            "text_phrases": [
+                "Together they walked",
+                "I\u2019d love to"
+            ]
+        },
+        {
+            "scene_title": "Night Walk and Hotel Return",
+            "dialog_summary": "Bond and Leiter discuss security concerns and Leiter decides to rest while Bond plans to secure his winnings.",
+            "description": "After leaving the casino, Bond and Leiter walk to the hotel under the moonlight, discussing potential threats and security measures. They reach Bond's hotel room without incident.",
+            "scene_type": "EXT to INT",
+            "scene_date": "1953",
+            "location": "From Casino to Hotel",
+            "time_of_day": "NIGHT",
+            "characters": [
+                "Bond",
+                "Felix Leiter"
+            ],
+            "objects": [
+                "guns",
+                "hotel",
+                "motorcars",
+                "courtyard"
+            ],
+            "object_part_of_object": [
+                "guns;hands"
+            ],
+            "action_sequence": [
+                "walked",
+                "strolled",
+                "insisted",
+                "went"
+            ],
+            "constant_state_sequence": [
+                "lined",
+                "observed",
+                "reflected",
+                "gazed",
+                "wondered"
+            ],
+            "text_phrases": [
+                "They strolled over",
+                "He went into"
+            ]
+        }
+    ],
+    "617-634": [
+        {
+            "scene_title": "Entrance to the Roi Galant",
+            "dialog_summary": "",
+            "description": "Bond and Vesper enter the Roi Galant, passing through a large golden picture-frame entrance. Inside, the busy casino atmosphere buzzes with activity as players engage in games of roulette and boule.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Roi Galant Casino",
+            "time_of_day": "NIGHT",
+            "characters": [
+                "Bond",
+                "Vesper"
+            ],
+            "objects": [
+                "golden picture-frame",
+                "roulette tables",
+                "boule tables",
+                "caisse"
+            ],
+            "object_part_of_object": [
+                "roulette tables;Roi Galant Casino",
+                "boule tables;Roi Galant Casino"
+            ],
+            "action_sequence": [
+                "led",
+                "fought"
+            ],
+            "constant_state_sequence": [
+                "enclosed",
+                "busy"
+            ],
+            "text_phrases": [
+                "Five minutes later",
+                "kick in the teeth"
+            ]
+        },
+        {
+            "scene_title": "Night-club at Roi Galant",
+            "dialog_summary": "Bond and Vesper discuss the completion of their mission and share a moment of reflection.",
+            "description": "In a dimly lit night-club, Bond and Vesper are seated at a corner table. The ambiance is intimate, highlighted by candlelight and soft music. They engage in a conversation about the day's events and their feelings.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Roi Galant Night-club",
+            "time_of_day": "NIGHT",
+            "characters": [
+                "Bond",
+                "Vesper"
+            ],
+            "objects": [
+                "candles",
+                "gilded candelabra",
+                "wall mirrors",
+                "gold picture-frames",
+                "red satin walls",
+                "red plush chairs",
+                "banquettes",
+                "piano",
+                "electric guitar",
+                "drums",
+                "ash-tray",
+                "cigarettes",
+                "bottle of Veuve Clicquot",
+                "scrambled eggs",
+                "bacon"
+            ],
+            "object_part_of_object": [
+                "candles;gilded candelabra",
+                "gilded candelabra;night-club",
+                "wall mirrors;night-club",
+                "gold picture-frames;night-club",
+                "red satin walls;night-club",
+                "red plush chairs;night-club",
+                "banquettes;night-club",
+                "piano;trio",
+                "electric guitar;trio",
+                "drums;trio"
+            ],
+            "action_sequence": [
+                "sat",
+                "turned",
+                "smoked",
+                "tapped",
+                "drank",
+                "rose",
+                "walked"
+            ],
+            "constant_state_sequence": [
+                "lit",
+                "playing",
+                "dripped",
+                "rested",
+                "supported",
+                "held",
+                "sipped",
+                "glanced"
+            ],
+            "text_phrases": [
+                "The night-club was small",
+                "felt flat"
+            ]
+        }
+    ],
+    "635-658": [
+        {
+            "scene_title": "Chase Begins",
+            "dialog_summary": "Bond refuses a taxi and starts searching for Vesper.",
+            "description": "Bond hurries through the casino's gaming room and into the entrance hall, looking for Vesper and Mathis but finds neither. He almost runs to the entrance, scanning the area and ignoring the commissionaire's offer for a taxi. He notices a Citro\u00ebn making a swift escape, throwing a small black object from its window.",
+            "scene_type": "EXT",
+            "scene_date": "1953",
+            "location": "Casino Royale, Entrance",
+            "time_of_day": "NIGHT",
+            "characters": [
+                "James Bond",
+                "Commissionaire"
+            ],
+            "objects": [
+                "gaming-room",
+                "entrance hall",
+                "Citro\u00ebn",
+                "small black object",
+                "flower-bed"
+            ],
+            "object_part_of_object": [
+                "small black object;Citro\u00ebn",
+                "flower-bed;Casino Royale"
+            ],
+            "action_sequence": [
+                "hurried",
+                "running",
+                "looked",
+                "started",
+                "shot",
+                "raced",
+                "ran"
+            ],
+            "constant_state_sequence": [
+                "cursed",
+                "hovered"
+            ],
+            "text_phrases": [
+                "He hurried through",
+                "ran back with it"
+            ]
+        },
+        {
+            "scene_title": "Bond's Frustration and Determination",
+            "dialog_summary": "",
+            "description": "Bond discovers a note in Vesper's evening bag indicating a forgery and rushes to his Bentley. He drives furiously along the coast road, cursing Vesper and the situation, while determined not to fall for the enemy's tricks.",
+            "scene_type": "EXT",
+            "scene_date": "1953",
+            "location": "Coast Road",
+            "time_of_day": "NIGHT",
+            "characters": [
+                "James Bond"
+            ],
+            "objects": [
+                "Bentley",
+                "evening bag",
+                "note",
+                "coast road"
+            ],
+            "object_part_of_object": [
+                "note;evening bag"
+            ],
+            "action_sequence": [
+                "leapt",
+                "drove",
+                "whipping"
+            ],
+            "constant_state_sequence": [
+                "cursed",
+                "boiled"
+            ],
+            "text_phrases": [
+                "Bond leapt for the Bentley",
+                "Bond\u2019s mind raged furiously"
+            ]
+        }
+    ],
+    "659-684": [
+        {
+            "scene_title": "Chase on the Coastal Road",
+            "dialog_summary": "",
+            "description": "Bond is in pursuit of Le Chiffre's Citro\u00ebn along a coastal road at night. He adjusts his car's lights to better see the Citro\u00ebn ahead and prepares his weapon for the confrontation.",
+            "scene_type": "EXT",
+            "scene_date": "1953",
+            "location": "Coastal road",
+            "time_of_day": "NIGHT",
+            "characters": [
+                "Bond"
+            ],
+            "objects": [
+                "Citro\u00ebn",
+                "fog-lights",
+                "Marchals",
+                "dashboard",
+                "Colt Army Special .45",
+                "seat"
+            ],
+            "object_part_of_object": [
+                "dashboard;car",
+                "seat;car"
+            ],
+            "action_sequence": [
+                "gaining",
+                "slowed",
+                "turned",
+                "dowsed",
+                "see",
+                "felt",
+                "took out",
+                "laid",
+                "switched",
+                "screamed off"
+            ],
+            "constant_state_sequence": [
+                "knew",
+                "could",
+                "felt",
+                "hope"
+            ],
+            "text_phrases": [
+                "He knew he must be gaining fast",
+                "His face in the blue light from the dashboard was grim but serene"
+            ]
+        },
+        {
+            "scene_title": "Le Chiffre's Car Interior",
+            "dialog_summary": "",
+            "description": "Inside Le Chiffre's Citro\u00ebn, three men and Vesper are traveling at high speed. Le Chiffre drives attentively while the other occupants handle various controls and Vesper, bound and partially undressed, remains passive.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Le Chiffre's Citro\u00ebn",
+            "time_of_day": "NIGHT",
+            "characters": [
+                "Le Chiffre",
+                "squat man",
+                "tall thin gunman",
+                "Vesper"
+            ],
+            "objects": [
+                "Citro\u00ebn",
+                "driving seat",
+                "lever",
+                "velvet skirt",
+                "rope",
+                "dashboard"
+            ],
+            "object_part_of_object": [
+                "lever;Citro\u00ebn",
+                "driving seat;Citro\u00ebn",
+                "dashboard;Citro\u00ebn"
+            ],
+            "action_sequence": [
+                "driving",
+                "grasped",
+                "lay",
+                "gazing",
+                "lay",
+                "moving"
+            ],
+            "constant_state_sequence": [
+                "was",
+                "sat",
+                "hunched",
+                "stretched",
+                "tied",
+                "breathed",
+                "concentrating"
+            ],
+            "text_phrases": [
+                "Ahead in the Citro\u00ebn there were three men and the girl",
+                "She was not bound in any other way and she lay quiet"
+            ]
+        },
+        {
+            "scene_title": "Ambush at the Crossroads",
+            "dialog_summary": "Le Chiffre orders his men to prepare for Bond's approach and to execute a trap.",
+            "description": "Le Chiffre and his men execute a trap by deploying spikes from their car to sabotage Bond's vehicle. As Bond's car crashes, Le Chiffre and his men prepare to capture him.",
+            "scene_type": "EXT",
+            "scene_date": "1953",
+            "location": "Crossroads",
+            "time_of_day": "NIGHT",
+            "characters": [
+                "Le Chiffre",
+                "squat man",
+                "tall thin gunman",
+                "Bond"
+            ],
+            "objects": [
+                "Citro\u00ebn",
+                "lever",
+                "boot",
+                "Michelin post",
+                "Bentley",
+                "revolver",
+                "black egg",
+                "steel spikes"
+            ],
+            "object_part_of_object": [
+                "lever;Citro\u00ebn",
+                "boot;Citro\u00ebn"
+            ],
+            "action_sequence": [
+                "slowed",
+                "pulled",
+                "yawned",
+                "clatter",
+                "jangling",
+                "depressed",
+                "stopped",
+                "screamed",
+                "hurtled",
+                "braced",
+                "slammed",
+                "toppled",
+                "fell",
+                "squeaked",
+                "walked",
+                "get"
+            ],
+            "constant_state_sequence": [
+                "concentrating",
+                "glanced",
+                "seemed",
+                "made",
+                "threw",
+                "dowsing",
+                "reared",
+                "resting",
+                "paw",
+                "keep",
+                "hurry"
+            ],
+            "text_phrases": [
+                "Le Chiffre seemed to make up his mind",
+                "I don\u2019t want a corpse. And hurry up, it\u2019s getting light"
+            ]
+        }
+    ],
+    "685-705": [
+        {
+            "scene_title": "Rescue and Capture",
+            "dialog_summary": "Le Chiffre instructs his men to tie Bond's arms and take his belongings before putting him in the car.",
+            "description": "Bond is unconscious and immovable after an accident. Two men work to extract him from his damaged car, cutting through the fabric and easing his legs free. They manage to pull him out and lay him on the road. Le Chiffre oversees the operation, instructing his men to secure Bond and search him for weapons. Bond regains consciousness due to the pain from the wire flex tied around his wrists.",
+            "scene_type": "EXT",
+            "scene_date": "1953",
+            "location": "Roadside near the wrecked car",
+            "time_of_day": "NIGHT",
+            "characters": [
+                "Bond",
+                "Le Chiffre",
+                "Thin man",
+                "Other man"
+            ],
+            "objects": [
+                "Convertible hood",
+                "Long knife",
+                "Fabric",
+                "Steering-wheel",
+                "Fabric roof",
+                "Wire flex",
+                "Beretta",
+                "Car",
+                "Citro\u00ebn"
+            ],
+            "object_part_of_object": [
+                "Convertible hood;Car",
+                "Fabric roof;Car",
+                "Steering-wheel;Car",
+                "Beretta;Bond"
+            ],
+            "action_sequence": [
+                "got",
+                "cut",
+                "squeezed",
+                "forced",
+                "eased",
+                "inched",
+                "threw",
+                "stuffed",
+                "walked",
+                "brought",
+                "yanked",
+                "pushed",
+                "dragged"
+            ],
+            "constant_state_sequence": [
+                "was",
+                "felt",
+                "showed",
+                "left",
+                "took",
+                "had",
+                "felt",
+                "looked"
+            ],
+            "text_phrases": [
+                "The two men",
+                "dragged into the back seat"
+            ]
+        },
+        {
+            "scene_title": "Bond's Reflection and Arrival at Villa",
+            "dialog_summary": "",
+            "description": "Bond reflects on the efficiency and preparedness of his enemies while being transported in a Citro\u00ebn. He curses himself for underestimating them and not taking more precautions. As dawn breaks, they arrive at a dilapidated villa named 'Les Noctambules'. Bond realizes the strategic use of Vesper in their plans.",
+            "scene_type": "EXT",
+            "scene_date": "1953",
+            "location": "French seaside villa",
+            "time_of_day": "DAWN",
+            "characters": [
+                "Bond",
+                "Le Chiffre",
+                "Thin man",
+                "Third man"
+            ],
+            "objects": [
+                "Citro\u00ebn",
+                "Gear lever",
+                "Stucco pillars",
+                "Forecourt",
+                "White door",
+                "Bell-push",
+                "Zinc letters",
+                "Wooden base"
+            ],
+            "object_part_of_object": [
+                "Gear lever;Citro\u00ebn",
+                "Bell-push;White door",
+                "Zinc letters;Wooden base"
+            ],
+            "action_sequence": [
+                "reversed",
+                "banged",
+                "doing",
+                "lurched",
+                "ran",
+                "drew"
+            ],
+            "constant_state_sequence": [
+                "was",
+                "reflected",
+                "thought",
+                "realized",
+                "imagined",
+                "would",
+                "take",
+                "present",
+                "get"
+            ],
+            "text_phrases": [
+                "All this time",
+                "quickly the villa"
+            ]
+        }
+    ],
+    "706-733": [
+        {
+            "scene_title": "Capture and Confrontation",
+            "dialog_summary": "",
+            "description": "Bond is forcibly taken out of the car and led into a house by Le Chiffre and his accomplices. Inside, Bond attempts to resist but is quickly subdued by the Corsican with a skillful counter-move. Bond is then threatened and led further into the house.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Le Chiffre's hideout",
+            "time_of_day": "EARLY MORNING",
+            "characters": [
+                "Bond",
+                "Le Chiffre",
+                "Vesper",
+                "The Corsican",
+                "The thin man"
+            ],
+            "objects": [
+                "car",
+                "door",
+                "key",
+                "house",
+                "elbow",
+                "gun",
+                "shoe",
+                "wall",
+                "floor",
+                "collar",
+                "barrel"
+            ],
+            "object_part_of_object": [
+                "elbow;thin man",
+                "barrel;gun"
+            ],
+            "action_sequence": [
+                "urged",
+                "pushed",
+                "followed",
+                "turned",
+                "kicked",
+                "hurled",
+                "slammed",
+                "twisted",
+                "crashed",
+                "hauled",
+                "swiped",
+                "slammed",
+                "walked"
+            ],
+            "constant_state_sequence": [
+                "reflected",
+                "knew",
+                "opened",
+                "disappeared",
+                "stood",
+                "crooked",
+                "led",
+                "decided",
+                "connected",
+                "looked",
+                "bent",
+                "spoke",
+                "showed",
+                "felt",
+                "preceded"
+            ],
+            "text_phrases": [
+                "But, Bond reflected",
+                "preceded the thin man"
+            ]
+        },
+        {
+            "scene_title": "Preparation for Interrogation",
+            "dialog_summary": "Le Chiffre instructs the thin man to prepare Bond for interrogation, threatening harm if Bond resists.",
+            "description": "In a sparsely furnished room, Le Chiffre instructs the thin man to prepare Bond for an interrogation, warning Bond of physical harm if he resists. The thin man then performs a curious action by cutting out the seat of a cane chair, presumably to use it in the interrogation.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Le Chiffre's hideout",
+            "time_of_day": "EARLY MORNING",
+            "characters": [
+                "Bond",
+                "Le Chiffre",
+                "The thin man"
+            ],
+            "objects": [
+                "room",
+                "sideboard",
+                "sofa",
+                "table",
+                "chair",
+                "cane chair",
+                "carafe",
+                "glasses",
+                "knife",
+                "cane seat",
+                "flex"
+            ],
+            "object_part_of_object": [
+                "cane seat;cane chair",
+                "cane chair;chair"
+            ],
+            "action_sequence": [
+                "pointed",
+                "turned",
+                "opened",
+                "cut",
+                "came",
+                "sticking",
+                "turned",
+                "unwound",
+                "stood"
+            ],
+            "constant_state_sequence": [
+                "said",
+                "spoke",
+                "showed",
+                "made",
+                "left"
+            ],
+            "text_phrases": [
+                "It was a large",
+                "stood quickly aside"
+            ]
+        }
+    ],
+    "734-763": [
+        {
+            "scene_title": "Bond's Torture",
+            "dialog_summary": "Le Chiffre tortures Bond to extract information about the money. He explains the consequences of Bond's resistance and threatens further harm.",
+            "description": "Bond is bound naked to a chair, utterly defenseless. Le Chiffre, with a carpet-beater and a carving knife, prepares to torture Bond. The room is tense as Le Chiffre methodically explains the stakes to Bond, who is visibly suffering.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Interrogation room",
+            "time_of_day": "NIGHT",
+            "characters": [
+                "Bond",
+                "Le Chiffre",
+                "Thin Man"
+            ],
+            "objects": [
+                "chair",
+                "carpet-beater",
+                "carving knife",
+                "coffee pot",
+                "table",
+                "glasses",
+                "cigarette",
+                "lighter",
+                "Gauloises packet"
+            ],
+            "object_part_of_object": [
+                "seat;chair",
+                "legs;chair",
+                "arms;chair",
+                "bindings;chair"
+            ],
+            "action_sequence": [
+                "dropped",
+                "walked",
+                "bound",
+                "sat",
+                "left"
+            ],
+            "constant_state_sequence": [
+                "stood",
+                "settled",
+                "looked",
+                "waited"
+            ],
+            "text_phrases": [
+                "Vite.",
+                "be on my way."
+            ]
+        }
+    ],
+    "764-790": [
+        {
+            "scene_title": "Torture Scene",
+            "dialog_summary": "Le Chiffre tortures Bond to extract information about the hidden money. Bond endures the pain and tries to resist giving in.",
+            "description": "Bond is tied to a chair, experiencing severe torture at the hands of Le Chiffre, who uses a cane instrument to inflict pain. Bond tries to cope with the agony by recalling advice from colleagues about the stages of torture. Le Chiffre intermittently pauses to sip coffee and interrogate Bond about the location of the money.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "A secure room in a villain's hideout",
+            "time_of_day": "NIGHT",
+            "characters": [
+                "Bond",
+                "Le Chiffre"
+            ],
+            "objects": [
+                "chair",
+                "cane",
+                "coffee",
+                "carpet-beater",
+                "glass"
+            ],
+            "object_part_of_object": [
+                "cane;hand",
+                "glass;coffee"
+            ],
+            "action_sequence": [
+                "lifted",
+                "struck",
+                "screamed",
+                "jangled",
+                "desisted",
+                "sipped",
+                "flickered",
+                "opened",
+                "lashed",
+                "poured",
+                "wrenched",
+                "poured",
+                "released",
+                "raised",
+                "spoke",
+                "sank"
+            ],
+            "constant_state_sequence": [
+                "paused",
+                "waited",
+                "sat",
+                "frowning",
+                "addressed",
+                "thought",
+                "reflected",
+                "talking",
+                "puffed",
+                "smiled",
+                "drank",
+                "writhing",
+                "trying",
+                "thoughtless",
+                "lay",
+                "went",
+                "picked"
+            ],
+            "text_phrases": [
+                "He paused",
+                "Typical of an English gentleman"
+            ]
+        }
+    ],
+    "791-824": [
+        {
+            "scene_title": "Torture and Rescue",
+            "dialog_summary": "Le Chiffre tortures Bond, who is in a severely weakened state. As Le Chiffre prepares to end the session, an unexpected rescuer intervenes, stopping Le Chiffre and ultimately executing him as a traitor to the Soviet Union.",
+            "description": "Bond is subjected to brutal torture by Le Chiffre, who uses a cane and other harsh methods. As Bond faints from the pain, Le Chiffre momentarily stops, only to resume with increased fury. Just as Le Chiffre declares the torture session over, a mysterious third party intervenes, commanding Le Chiffre to drop his weapon and ultimately revealing himself as an agent sent to eliminate Le Chiffre for his failures. The scene ends with Le Chiffre's execution.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Torture room",
+            "time_of_day": "MORNING",
+            "characters": [
+                "James Bond",
+                "Le Chiffre",
+                "SMERSH agent"
+            ],
+            "objects": [
+                "cane",
+                "chair",
+                "knife",
+                "glass of coffee",
+                "Venetian blinds"
+            ],
+            "object_part_of_object": [
+                "glass of coffee;table"
+            ],
+            "action_sequence": [
+                "rattled",
+                "lifted",
+                "wiped",
+                "seized",
+                "slapped",
+                "rolled",
+                "poured",
+                "threw",
+                "opened",
+                "reached",
+                "dropped",
+                "fall"
+            ],
+            "constant_state_sequence": [
+                "chuckled",
+                "contemplated",
+                "gazed",
+                "stood",
+                "waited",
+                "worked"
+            ],
+            "text_phrases": [
+                "Unfortunately you lost",
+                "Do you plead guilty?"
+            ]
+        }
+    ],
+    "825-846": [
+        {
+            "scene_title": "Le Chiffre's Demise",
+            "dialog_summary": "",
+            "description": "Le Chiffre, after being hit, grows a third eye on his forehead and his face contorts as he collapses onto the arm of the chair. His body shows no further movement as the chair impassively watches over him.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Casino Royale",
+            "time_of_day": "NIGHT",
+            "characters": [
+                "Le Chiffre"
+            ],
+            "objects": [
+                "chair",
+                "body",
+                "eye",
+                "mouth"
+            ],
+            "object_part_of_object": [
+                "eye;face",
+                "mouth;face"
+            ],
+            "action_sequence": [
+                "grew",
+                "slip",
+                "lurched",
+                "fell"
+            ],
+            "constant_state_sequence": [
+                "hung",
+                "looked"
+            ],
+            "text_phrases": [
+                "A thin string",
+                "impassively out"
+            ]
+        },
+        {
+            "scene_title": "Bond's Encounter",
+            "dialog_summary": "\"You are fortunate,\" said the voice. \"I have no orders to kill you. Your life has been saved twice in one day.\"",
+            "description": "Bond experiences a sudden and threatening encounter as a mysterious figure with a mask and a knife carves a symbol into his hand, then leaves quietly.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Casino Royale",
+            "time_of_day": "NIGHT",
+            "characters": [
+                "James Bond",
+                "Mysterious Figure"
+            ],
+            "objects": [
+                "knife",
+                "chair",
+                "mask",
+                "mackintosh",
+                "stiletto"
+            ],
+            "object_part_of_object": [
+                "stiletto;hand",
+                "mask;face"
+            ],
+            "action_sequence": [
+                "pulled",
+                "pushed",
+                "moved",
+                "poised",
+                "executed"
+            ],
+            "constant_state_sequence": [
+                "looked",
+                "holding"
+            ],
+            "text_phrases": [
+                "There was a faint",
+                "moved quietly away"
+            ]
+        },
+        {
+            "scene_title": "Bond's Recovery",
+            "dialog_summary": "A nurse comforts Bond, who has just awakened from a nightmare, and reassures him with kind words.",
+            "description": "Bond wakes up in a hospital bed, feeling secure and comforted by a nurse after experiencing intense nightmares and realizing he is no longer captive.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Hospital",
+            "time_of_day": "MORNING",
+            "characters": [
+                "James Bond",
+                "Nurse"
+            ],
+            "objects": [
+                "bed",
+                "coffin",
+                "window",
+                "cloth"
+            ],
+            "object_part_of_object": [
+                "coffin;bed"
+            ],
+            "action_sequence": [
+                "shook",
+                "rose",
+                "came"
+            ],
+            "constant_state_sequence": [
+                "strapped",
+                "smiled",
+                "sank"
+            ],
+            "text_phrases": [
+                "During the next",
+                "smiled back at her"
+            ]
+        }
+    ],
+    "847-868": [
+        {
+            "scene_title": "Bond's Recovery in the Nursing Home",
+            "dialog_summary": "Bond wakes up in a nursing home and is informed by Nurse Gibson and a doctor about his condition and recent events. The doctor and Mathis discuss Bond's resilience and the implications of his survival.",
+            "description": "Bond, recovering in a nursing home, is visited by a doctor and his friend Mathis after regaining consciousness. He learns about the aftermath of his encounter with Le Chiffre and receives a personal message from M.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Nursing home at Royale",
+            "time_of_day": "DAY",
+            "characters": [
+                "Bond",
+                "Nurse Gibson",
+                "Doctor",
+                "Mathis"
+            ],
+            "objects": [
+                "bed",
+                "temperature chart",
+                "chair"
+            ],
+            "object_part_of_object": [
+                "temperature chart;bed"
+            ],
+            "action_sequence": [
+                "opened",
+                "walked",
+                "came",
+                "stood",
+                "pulled",
+                "left",
+                "looked",
+                "turned",
+                "smiled"
+            ],
+            "constant_state_sequence": [
+                "was",
+                "is",
+                "are",
+                "have"
+            ],
+            "text_phrases": [
+                "Where am I?",
+                "ultra-security-minded organization in London."
+            ]
+        }
+    ],
+    "869-893": [
+        {
+            "scene_title": "Bond's Recovery and Mathis' Report",
+            "dialog_summary": "Mathis visits Bond, who is recovering, and they discuss the aftermath of Le Chiffre's demise and the status of the hidden money.",
+            "description": "Bond is in a hospital room, recovering from his injuries. Mathis provides updates on the situation with Le Chiffre and the Communist Party, and Bond reveals where he hid the money.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Hospital Room",
+            "time_of_day": "DAY",
+            "characters": [
+                "Bond",
+                "Mathis"
+            ],
+            "objects": [
+                "hospital bed",
+                "shorthand book",
+                "number plate",
+                "cheque"
+            ],
+            "object_part_of_object": [
+                "number plate;door"
+            ],
+            "action_sequence": [
+                "came",
+                "rose",
+                "stormed",
+                "hustled"
+            ],
+            "constant_state_sequence": [
+                "lay",
+                "propped",
+                "shrouded"
+            ],
+            "text_phrases": [
+                "A tall thin man",
+                "decided to resign"
+            ]
+        }
+    ],
+    "894-916": [
+        {
+            "scene_title": "Reflections on Morality and Duty",
+            "dialog_summary": "Bond and Mathis discuss the complexities of distinguishing between heroes and villains, and Bond reflects on his past actions and the moral ambiguities of his job.",
+            "description": "In a quiet, introspective moment, Bond shares with Mathis his inner turmoil and doubts about the simplicity of labeling people as heroes or villains based on his experiences as a double O agent. Mathis listens, occasionally interjecting with his own views.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Hospital room",
+            "time_of_day": "DAY",
+            "characters": [
+                "Bond",
+                "Mathis"
+            ],
+            "objects": [
+                "bandaged hands",
+                "bed",
+                "Remington thirty-thirty's",
+                "telescopic sights",
+                "silencers",
+                "knife"
+            ],
+            "object_part_of_object": [
+                "telescopic sights;Remington thirty-thirty's",
+                "silencers;Remington thirty-thirty's"
+            ],
+            "action_sequence": [
+                "looked",
+                "smoked",
+                "gestured",
+                "threw",
+                "fall"
+            ],
+            "constant_state_sequence": [
+                "sat",
+                "stared"
+            ],
+            "text_phrases": [
+                "Mathis looked",
+                "Mathis laughed"
+            ]
+        }
+    ],
+    "917-938": [
+        {
+            "scene_title": "Bond's Philosophical Debate",
+            "dialog_summary": "Bond discusses his views on evil and goodness, sympathizing with the underdog and questioning the nature of evil. Mathis responds humorously, contemplating committing sins and discussing the complexities of conscience.",
+            "description": "Bond and Mathis engage in a deep conversation about the nature of good and evil, with Bond expressing sympathy for villains like Le Chiffre and pondering the lack of understanding about evil. Mathis jokes about committing sins and the difficulty of dealing with conscience.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Casino Royale, France",
+            "time_of_day": "NIGHT",
+            "characters": [
+                "Bond",
+                "Mathis"
+            ],
+            "objects": [
+                "book",
+                "watch"
+            ],
+            "object_part_of_object": [
+                "bullet;revolver"
+            ],
+            "action_sequence": [
+                "rose",
+                "shouted"
+            ],
+            "constant_state_sequence": [
+                "sitting",
+                "thinking"
+            ],
+            "text_phrases": [
+                "A woman.",
+                "shut the door."
+            ]
+        },
+        {
+            "scene_title": "Bond's Reflection and Decision to See Vesper",
+            "dialog_summary": "",
+            "description": "Bond reflects on his dislike for flowers and feminine things, and decides to see Vesper after learning she has been visiting him and sending flowers, which he had previously rejected.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Nursing home",
+            "time_of_day": "DAY",
+            "characters": [
+                "Bond",
+                "Nurse"
+            ],
+            "objects": [
+                "flowers"
+            ],
+            "object_part_of_object": [
+                ";"
+            ],
+            "action_sequence": [
+                "asked"
+            ],
+            "constant_state_sequence": [
+                "disliked",
+                "told"
+            ],
+            "text_phrases": [
+                "Hey, shouted Bond.",
+                "claustrophobia."
+            ]
+        }
+    ],
+    "939-963": [
+        {
+            "scene_title": "Bond and Vesper's Emotional Exchange",
+            "dialog_summary": "Bond and Vesper discuss her daily activities and the possibility of Bond joining her at the beach once he recovers. The conversation turns emotional as Vesper tries to comfort Bond, but he initially responds with bitterness. Vesper becomes tearful, and Bond eventually softens, apologizing for his harsh words.",
+            "description": "Bond is in a hospital room, recovering from injuries. Vesper visits him, looking unexpectedly healthy and sunburned. They talk about her time spent at the beach and her desire to take Bond there once he's better. The conversation reveals Bond's physical and emotional pain, leading to an emotional breakdown from Vesper, which prompts Bond to console her.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Hospital room",
+            "time_of_day": "MORNING",
+            "characters": [
+                "Bond",
+                "Vesper"
+            ],
+            "objects": [
+                "bed",
+                "door",
+                "frock",
+                "belt",
+                "handkerchief",
+                "bag",
+                "window",
+                "make-up"
+            ],
+            "object_part_of_object": [
+                "belt;frock",
+                "handkerchief;bag"
+            ],
+            "action_sequence": [
+                "came",
+                "sitting",
+                "walked",
+                "busied",
+                "came"
+            ],
+            "constant_state_sequence": [
+                "smiling",
+                "sitting",
+                "filled",
+                "swallowed",
+                "strangled",
+                "looked",
+                "buried",
+                "dabbed",
+                "pressed",
+                "stood"
+            ],
+            "text_phrases": [
+                "Bond was bored",
+                "came back to the bed"
+            ]
+        }
+    ],
+    "964-984": [
+        {
+            "scene_title": "Bond and Vesper's Conversation",
+            "dialog_summary": "Bond and Vesper discuss her kidnapping and the events that followed, including her actions and the ordeal Bond went through.",
+            "description": "Bond and Vesper engage in a deep conversation about the recent traumatic events. Vesper recounts her kidnapping and the subsequent actions, while Bond reassures her and tries to comfort her.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Hotel room in Royale",
+            "time_of_day": "NIGHT",
+            "characters": [
+                "Bond",
+                "Vesper"
+            ],
+            "objects": [
+                "cigarette",
+                "car",
+                "skirt",
+                "bag",
+                "arm-chair",
+                "rope",
+                "chair"
+            ],
+            "object_part_of_object": [
+                "skirt;Vesper",
+                "bag;Vesper"
+            ],
+            "action_sequence": [
+                "talked",
+                "walked",
+                "jumped",
+                "scooped",
+                "kicked",
+                "picked",
+                "shoved",
+                "struggling",
+                "threw",
+                "tied",
+                "managed",
+                "got",
+                "burst"
+            ],
+            "constant_state_sequence": [
+                "looked",
+                "felt",
+                "decided",
+                "said",
+                "avoiding",
+                "blushed",
+                "nodded",
+                "thought",
+                "helped",
+                "spoke",
+                "worried",
+                "fainted",
+                "came",
+                "gathered",
+                "heard",
+                "slept",
+                "saw",
+                "filled",
+                "buried",
+                "comfortingly",
+                "patted",
+                "promised",
+                "forgive",
+                "make"
+            ],
+            "text_phrases": [
+                "Bond looked at her tenderly",
+                "She looked at him"
+            ]
+        }
+    ],
+    "985-1008": [
+        {
+            "scene_title": "Vesper's Visit and Bond's Recovery",
+            "dialog_summary": "Vesper visits Bond, they discuss his recovery and make plans for the future. Bond reflects on his feelings for Vesper and contrasts them with past relationships.",
+            "description": "Bond and Vesper share a moment of connection in Bond's recovery room. Vesper brings excitement and a promise of future adventures, contrasting with Bond's usual experiences with women. Their relationship deepens as Bond recovers.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Recovery room",
+            "time_of_day": "DAY",
+            "characters": [
+                "Bond",
+                "Vesper"
+            ],
+            "objects": [
+                "bed",
+                "bag",
+                "door"
+            ],
+            "object_part_of_object": [
+                "bag;bed"
+            ],
+            "action_sequence": [
+                "rose",
+                "picked",
+                "walked",
+                "went",
+                "listened"
+            ],
+            "constant_state_sequence": [
+                "looked",
+                "smiled",
+                "pressed",
+                "sat",
+                "talked"
+            ],
+            "text_phrases": [
+                "thought Bond to himself",
+                "closed the door"
+            ]
+        },
+        {
+            "scene_title": "Drive and Reflection",
+            "dialog_summary": "Bond and Vesper drive along the coast, discussing past events and their current journey. Bond notices Vesper's distracted behavior.",
+            "description": "While driving, Bond recounts his previous chase and accident, pointing out specific details along the road. Vesper appears distracted, only responding minimally, which concerns Bond.",
+            "scene_type": "EXT",
+            "scene_date": "1953",
+            "location": "Coast road towards Les Noctambules",
+            "time_of_day": "DAY",
+            "characters": [
+                "Bond",
+                "Vesper"
+            ],
+            "objects": [
+                "car",
+                "tarmac",
+                "hedge",
+                "oil patch"
+            ],
+            "object_part_of_object": [
+                "tarmac;road",
+                "hedge;roadside",
+                "oil patch;road"
+            ],
+            "action_sequence": [
+                "drove",
+                "followed",
+                "slowed",
+                "leant",
+                "rounded"
+            ],
+            "constant_state_sequence": [
+                "described",
+                "pointed",
+                "caught",
+                "looked"
+            ],
+            "text_phrases": [
+                "Their drive was spoiled",
+                "rounded a bend"
+            ]
+        }
+    ],
+    "1009-1038": [
+        {
+            "scene_title": "Chase and Realization",
+            "dialog_summary": "Vesper expresses her fear of being followed, Bond reassures her, but they still take precautions and hide to observe the pursuing car.",
+            "description": "Bond and Vesper are driving when Vesper shares her fear of being followed. Bond tries to calm her, suggesting the other driver is just a commercial traveller. They decide to hide and watch as the car passes, confirming the driver did glance their way, but Bond reassures Vesper it was just the sign he noticed.",
+            "scene_type": "EXT",
+            "scene_date": "1953",
+            "location": "Road leading to L'Auberge du Fruit D\u00e9fendu",
+            "time_of_day": "DAY",
+            "characters": [
+                "Bond",
+                "Vesper"
+            ],
+            "objects": [
+                "car",
+                "black saloon",
+                "road",
+                "sign",
+                "hedge"
+            ],
+            "object_part_of_object": [
+                "black saloon;car",
+                "sign;hedge"
+            ],
+            "action_sequence": [
+                "turned",
+                "coming",
+                "looked",
+                "approaching",
+                "glance",
+                "tore",
+                "moved"
+            ],
+            "constant_state_sequence": [
+                "smiled",
+                "relieved",
+                "sank",
+                "pressed"
+            ],
+            "text_phrases": [
+                "Finally he took",
+                "Come on. I\u2019m sorry"
+            ]
+        },
+        {
+            "scene_title": "Arrival at the Inn",
+            "dialog_summary": "Bond and Vesper arrive at the inn, greeted by the proprietors. They express their delight with the place.",
+            "description": "Bond and Vesper reach their destination, a quaint inn by the sea. They are warmly greeted by the proprietors, Monsieur and Madame Versoix. The scene sets a tone of relaxation and recovery after their tense journey.",
+            "scene_type": "EXT",
+            "scene_date": "1953",
+            "location": "L'Auberge du Fruit D\u00e9fendu",
+            "time_of_day": "AFTERNOON",
+            "characters": [
+                "Bond",
+                "Vesper",
+                "Monsieur Versoix",
+                "Madame Versoix"
+            ],
+            "objects": [
+                "terrace",
+                "house",
+                "courtyard",
+                "windows",
+                "lobsters",
+                "wooden spoon",
+                "apron"
+            ],
+            "object_part_of_object": [
+                "windows;house",
+                "wooden spoon;Madame Versoix"
+            ],
+            "action_sequence": [
+                "drew",
+                "came",
+                "greeted",
+                "showed"
+            ],
+            "constant_state_sequence": [
+                "wore",
+                "held",
+                "loved",
+                "preparing"
+            ],
+            "text_phrases": [
+                "They both leant forward",
+                "He shrugged his shoulders philosophically"
+            ]
+        }
+    ],
+    "1039-1068": [
+        {
+            "scene_title": "Intimate Moment in Vesper's Room",
+            "dialog_summary": "Bond and Vesper share a passionate and intimate moment, which ends with Bond apologizing and Vesper showing signs of emotional exhaustion.",
+            "description": "Bond pushes Vesper into her room, kisses her, and they share a passionate embrace. The scene ends with Vesper pushing Bond away and sinking onto the bed, exhausted.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Vesper's room",
+            "time_of_day": "EVENING",
+            "characters": [
+                "Bond",
+                "Vesper"
+            ],
+            "objects": [
+                "room",
+                "door",
+                "bed",
+                "shoulders",
+                "cheeks",
+                "eyes",
+                "hands",
+                "forearms",
+                "waist",
+                "mouth",
+                "teeth",
+                "tongue",
+                "buttocks",
+                "breasts",
+                "hair",
+                "cigarette",
+                "window"
+            ],
+            "object_part_of_object": [
+                "shoulders;Bond",
+                "cheeks;Vesper",
+                "eyes;Vesper",
+                "hands;Vesper",
+                "forearms;Bond",
+                "waist;Vesper",
+                "mouth;Vesper",
+                "teeth;Vesper",
+                "tongue;Bond",
+                "buttocks;Vesper",
+                "breasts;Vesper",
+                "hair;Vesper",
+                "cigarette;Vesper"
+            ],
+            "action_sequence": [
+                "pushed",
+                "closed",
+                "stepped",
+                "dropped",
+                "went",
+                "opened",
+                "plunged",
+                "forcing",
+                "slipped",
+                "gripped",
+                "pressing",
+                "rubbed",
+                "reached",
+                "seized",
+                "bent",
+                "pushed",
+                "shook",
+                "came",
+                "leant",
+                "brushed",
+                "put",
+                "walked",
+                "stood",
+                "looked",
+                "bent",
+                "strained",
+                "let",
+                "walked",
+                "went"
+            ],
+            "constant_state_sequence": [
+                "talking",
+                "shining",
+                "rested",
+                "working",
+                "clung",
+                "sank",
+                "looked",
+                "sat",
+                "looked",
+                "took",
+                "let",
+                "stood",
+                "saw",
+                "realized",
+                "sat",
+                "felt",
+                "played",
+                "slipped",
+                "thought",
+                "refrained",
+                "gave",
+                "kept",
+                "surfaced",
+                "turned",
+                "swam",
+                "came",
+                "engulfed",
+                "knew",
+                "took",
+                "looked",
+                "shrugged",
+                "lay",
+                "gazed",
+                "thought"
+            ],
+            "text_phrases": [
+                "Quite so, said Bond",
+                "could resign and travel"
+            ]
+        }
+    ],
+    "1069-1106": [
+        {
+            "scene_title": "Beach Reflections",
+            "dialog_summary": "",
+            "description": "Bond lies naked on the beach, reflecting on his feelings for Vesper. He notices the shadows from the headland approaching and decides to get up and brush off the sand. He walks back to the hotel, realizing only then that he is still naked, and quickly puts on his light coat.",
+            "scene_type": "EXT",
+            "scene_date": "1953",
+            "location": "Beach near the hotel",
+            "time_of_day": "EVENING",
+            "characters": [
+                "Bond"
+            ],
+            "objects": [
+                "sand",
+                "beach",
+                "headland",
+                "shadows",
+                "trunks",
+                "pyjama-coat",
+                "hotel"
+            ],
+            "object_part_of_object": [
+                "shadows;headland"
+            ],
+            "action_sequence": [
+                "lay",
+                "push",
+                "turned",
+                "looked",
+                "stood",
+                "brushed",
+                "picked",
+                "started",
+                "reached",
+                "bent",
+                "realized",
+                "slipped",
+                "walked"
+            ],
+            "constant_state_sequence": [
+                "crept",
+                "changed",
+                "felt",
+                "reflected"
+            ],
+            "text_phrases": [
+                "But somehow",
+                "walked on to the hotel"
+            ]
+        },
+        {
+            "scene_title": "Hotel Room Discoveries",
+            "dialog_summary": "",
+            "description": "Upon returning to his hotel room, Bond finds that Vesper has neatly arranged his and her belongings. He notices the presence of nembutal sleeping-pills among Vesper's items, which surprises him. The bath is prepared with a new flask of pine bath-essence, indicating Vesper's care for him.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Bond's hotel room",
+            "time_of_day": "EVENING",
+            "characters": [
+                "Bond"
+            ],
+            "objects": [
+                "room",
+                "belongings",
+                "bathroom",
+                "toothbrush",
+                "shaving things",
+                "glass shelf",
+                "wash-basin",
+                "toothbrush",
+                "bottles",
+                "jar",
+                "face-cream",
+                "nembutal sleeping-pills",
+                "bath",
+                "flask",
+                "pine bath-essence",
+                "towel"
+            ],
+            "object_part_of_object": [
+                "toothbrush;bathroom",
+                "shaving things;bathroom",
+                "glass shelf;bathroom",
+                "wash-basin;bathroom",
+                "bottles;bathroom",
+                "jar;bathroom",
+                "face-cream;bathroom",
+                "nembutal sleeping-pills;bathroom",
+                "flask;bathroom",
+                "towel;bathroom"
+            ],
+            "action_sequence": [
+                "got",
+                "touched",
+                "found",
+                "glanced",
+                "surprised",
+                "filled"
+            ],
+            "constant_state_sequence": [
+                "arranged",
+                "neatly"
+            ],
+            "text_phrases": [
+                "When he got back",
+                "beside it with his towel"
+            ]
+        },
+        {
+            "scene_title": "Proposal and Dinner",
+            "dialog_summary": "Bond proposes to Vesper during a conversation where she jokes about his needs and desires. They continue to enjoy their dinner, discussing their feelings indirectly and looking forward to the night.",
+            "description": "Bond and Vesper share a romantic dinner on the terrace, enjoying lobster, champagne, and strawberries. They engage in light-hearted banter, with Bond proposing marriage in a playful manner. The scene captures their deepening emotional connection and anticipation for the night ahead.",
+            "scene_type": "EXT",
+            "scene_date": "1953",
+            "location": "Hotel terrace",
+            "time_of_day": "NIGHT",
+            "characters": [
+                "Bond",
+                "Vesper"
+            ],
+            "objects": [
+                "table",
+                "dining-room",
+                "champagne",
+                "wine-cooler",
+                "glasses",
+                "liver pat\u00e9",
+                "French bread",
+                "butter",
+                "chips of ice",
+                "lobster",
+                "bottle of champagne",
+                "cream",
+                "fraises des bois",
+                "moonlit bay"
+            ],
+            "object_part_of_object": [
+                "wine-cooler;table",
+                "glasses;table",
+                "chips of ice;butter"
+            ],
+            "action_sequence": [
+                "poured",
+                "busied",
+                "helped",
+                "drank",
+                "filled",
+                "ate",
+                "told",
+                "talked",
+                "touched",
+                "ladled",
+                "sighed",
+                "gazed",
+                "looked",
+                "smiled",
+                "leaned",
+                "put",
+                "took",
+                "joined"
+            ],
+            "constant_state_sequence": [
+                "stood",
+                "snorted",
+                "dressed",
+                "appeared",
+                "wearing",
+                "wait",
+                "behaving",
+                "gave",
+                "deserve",
+                "know",
+                "thought",
+                "laughed",
+                "relieved"
+            ],
+            "text_phrases": [
+                "\u201cVesper,\u201d he called",
+                "make a peninsula"
+            ]
+        }
+    ],
+    "1107-1139": [
+        {
+            "scene_title": "Intimate Moment and Departure",
+            "dialog_summary": "Vesper expresses tiredness and shares a brief intimate moment with Bond before leaving.",
+            "description": "After having coffee and brandy, Vesper picks up her bag, stands behind Bond, and rests her hand on his shoulder. She then kisses his hair and leaves, turning on the light in her room which Bond observes.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Living room",
+            "time_of_day": "NIGHT",
+            "characters": [
+                "Bond",
+                "Vesper"
+            ],
+            "objects": [
+                "coffee",
+                "brandy",
+                "bag",
+                "light"
+            ],
+            "object_part_of_object": [
+                "hand;Vesper",
+                "hair;Bond"
+            ],
+            "action_sequence": [
+                "picked",
+                "stood",
+                "resting",
+                "reached",
+                "bent",
+                "brushed",
+                "gone",
+                "smoked",
+                "waited",
+                "followed",
+                "paused",
+                "went"
+            ],
+            "constant_state_sequence": [
+                "sipping",
+                "holding",
+                "stayed"
+            ],
+            "text_phrases": [
+                "The small shadow had passed",
+                "he went upstairs"
+            ]
+        },
+        {
+            "scene_title": "Morning Swim",
+            "dialog_summary": "",
+            "description": "Bond wakes at dawn, creeps out of the house, and goes to the beach where he swims naked in the cold sea, enjoying the tranquility and reflecting on his memories with Vesper.",
+            "scene_type": "EXT",
+            "scene_date": "1953",
+            "location": "Beach",
+            "time_of_day": "DAWN",
+            "characters": [
+                "Bond"
+            ],
+            "objects": [
+                "bed",
+                "pyjama-coat",
+                "beach",
+                "sea",
+                "sand",
+                "jacket",
+                "sky"
+            ],
+            "object_part_of_object": [
+                "waves;sea",
+                "shadows;snow"
+            ],
+            "action_sequence": [
+                "awoke",
+                "stroked",
+                "got",
+                "crept",
+                "took off",
+                "wandered",
+                "walked",
+                "sank",
+                "came",
+                "lay",
+                "rose",
+                "walked"
+            ],
+            "constant_state_sequence": [
+                "lay",
+                "licked",
+                "stared",
+                "saw"
+            ],
+            "text_phrases": [
+                "Bond awoke in his own room",
+                "walked back slowly along the beach"
+            ]
+        },
+        {
+            "scene_title": "Unexpected Encounter and Vesper's Nervousness",
+            "dialog_summary": "Bond encounters Vesper unexpectedly and they discuss her early morning activities, revealing her nervousness and possible deceit.",
+            "description": "Bond, surprised to see Vesper early in the morning, questions her after she emerges from a telephone booth. Vesper appears nervous and tries to explain her actions hastily, which makes Bond suspicious.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Dining-room",
+            "time_of_day": "MORNING",
+            "characters": [
+                "Bond",
+                "Vesper"
+            ],
+            "objects": [
+                "telephone booth",
+                "stairs",
+                "terrace"
+            ],
+            "object_part_of_object": [
+                "hand;Vesper",
+                "mouth;Vesper"
+            ],
+            "action_sequence": [
+                "walked",
+                "emerge",
+                "turned",
+                "stared",
+                "asked",
+                "said",
+                "talked",
+                "put",
+                "disengaged",
+                "moved"
+            ],
+            "constant_state_sequence": [
+                "thinking",
+                "laughed",
+                "turned",
+                "caught"
+            ],
+            "text_phrases": [
+                "from the terrace into the half-darkness",
+                "moved quickly on up the stairs"
+            ]
+        }
+    ],
+    "1140-1165": [
+        {
+            "scene_title": "Luncheon Tension",
+            "dialog_summary": "Bond and Vesper have a tense lunch where Vesper is visibly disturbed by a man who appears on the terrace, whom she identifies as someone following them.",
+            "description": "During a strained luncheon, Vesper is distracted and barely responds to Bond. Suddenly, she stiffens and drops her fork upon noticing a man on the terrace, causing Bond to turn and observe the newcomer. The man, dressed somberly and sporting a black eye patch, seems ordinary but Vesper insists he's been following them. Despite Bond's attempts to reassure her, Vesper remains distressed and decides to retire to her room.",
+            "scene_type": "EXT",
+            "scene_date": "1953",
+            "location": "Terrace of a coastal inn",
+            "time_of_day": "NOON",
+            "characters": [
+                "Bond",
+                "Vesper",
+                "Mysterious man",
+                "Patron"
+            ],
+            "objects": [
+                "fork",
+                "plate",
+                "table",
+                "terrace",
+                "chair",
+                "brief-case",
+                "newspaper",
+                "glass of wine",
+                "black Peugeot",
+                "Paris number-plate"
+            ],
+            "object_part_of_object": [
+                "fork;plate",
+                "plate;table",
+                "chair;table",
+                "newspaper;brief-case",
+                "glass of wine;table",
+                "Paris number-plate;black Peugeot"
+            ],
+            "action_sequence": [
+                "walked",
+                "stiffened",
+                "fell",
+                "looked",
+                "turned",
+                "reached",
+                "started",
+                "asked",
+                "left",
+                "rose",
+                "walked"
+            ],
+            "constant_state_sequence": [
+                "sat",
+                "gazed",
+                "avoided",
+                "occupied",
+                "clutched",
+                "brought",
+                "put"
+            ],
+            "text_phrases": [
+                "It seemed fantastic",
+                "He supposed one got used to it"
+            ]
+        }
+    ],
+    "1166-1201": [
+        {
+            "scene_title": "Conversation and Concerns",
+            "dialog_summary": "Bond and Vesper discuss their feelings and the mysterious troubles affecting Vesper. Bond proposes marriage and tries to comfort Vesper as she struggles with her emotions.",
+            "description": "Bond and Vesper are in a room, sitting stiffly like passengers in a railway carriage. Bond holds Vesper's cold hands and tries to comfort her as she becomes emotional and clutches him tightly.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Hotel room",
+            "time_of_day": "DAY",
+            "characters": [
+                "Bond",
+                "Vesper"
+            ],
+            "objects": [
+                "bed",
+                "window",
+                "door",
+                "handkerchief",
+                "chair"
+            ],
+            "object_part_of_object": [
+                "window; room",
+                "door; room"
+            ],
+            "action_sequence": [
+                "rose",
+                "led",
+                "clutched",
+                "held",
+                "kissed",
+                "shut"
+            ],
+            "constant_state_sequence": [
+                "sat",
+                "watching",
+                "said",
+                "turned"
+            ],
+            "text_phrases": [
+                "It is indeed very sad",
+                "I am gay"
+            ]
+        },
+        {
+            "scene_title": "Dinner and Drinks",
+            "dialog_summary": "During dinner, Vesper tries to maintain a cheerful demeanor, but her underlying distress surfaces. She asks Bond to forget the troubling matters for the night and promises to explain everything in the morning.",
+            "description": "Bond and Vesper are having dinner, where Vesper attempts to be lively and drinks significantly, trying to match Bond's drinking pace. The scene ends with Vesper knocking against her chair and admitting she might be drunk.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Hotel dining area",
+            "time_of_day": "EVENING",
+            "characters": [
+                "Bond",
+                "Vesper"
+            ],
+            "objects": [
+                "dinner table",
+                "chairs",
+                "bottle of champagne",
+                "handkerchief",
+                "bag"
+            ],
+            "object_part_of_object": [
+                "chairs; dining area",
+                "handkerchief; bag"
+            ],
+            "action_sequence": [
+                "sat",
+                "knocked",
+                "giggled",
+                "dabbed"
+            ],
+            "constant_state_sequence": [
+                "drank",
+                "said",
+                "looked"
+            ],
+            "text_phrases": [
+                "Vesper went off early to Royale",
+                "I am gay"
+            ]
+        }
+    ],
+    "1202-1237": [
+        {
+            "scene_title": "Tender Moments and Harsh Realities",
+            "dialog_summary": "Vesper and Bond share intimate moments, expressing deep emotions and endearments. Later, Bond receives a shocking letter revealing Vesper's true identity as a double agent.",
+            "description": "Bond and Vesper share a deeply emotional and intimate night, reconnecting and expressing their love. The scene shifts to a dramatic morning where Bond receives a letter that reveals Vesper's betrayal as a double agent, leading to a mix of emotions and a drastic change in the atmosphere.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Hotel room",
+            "time_of_day": "NIGHT to MORNING",
+            "characters": [
+                "Bond",
+                "Vesper",
+                "Patron"
+            ],
+            "objects": [
+                "bed",
+                "sheet",
+                "hair",
+                "envelope",
+                "letter",
+                "glass",
+                "book",
+                "cigarettes",
+                "matches",
+                "mirror",
+                "lipstick",
+                "handkerchief",
+                "bottle",
+                "sleeping-pills"
+            ],
+            "object_part_of_object": [
+                "hair;Vesper",
+                "sheet;bed",
+                "glass;table",
+                "book;table",
+                "cigarettes;table",
+                "matches;table",
+                "mirror;table",
+                "lipstick;table",
+                "handkerchief;table",
+                "bottle;floor"
+            ],
+            "action_sequence": [
+                "ran",
+                "blew",
+                "rose",
+                "bent",
+                "reached",
+                "turned",
+                "knelt",
+                "drew",
+                "hurled",
+                "dashed",
+                "fell",
+                "shook",
+                "walked",
+                "sat",
+                "stared",
+                "threw",
+                "opened"
+            ],
+            "constant_state_sequence": [
+                "stood",
+                "made",
+                "slept",
+                "held",
+                "looked",
+                "examined",
+                "was",
+                "showed",
+                "was",
+                "gazed"
+            ],
+            "text_phrases": [
+                "She stood behind him",
+                "opened it"
+            ]
+        }
+    ],
+    "1238-1262": [
+        {
+            "scene_title": "Vesper's Confession",
+            "dialog_summary": "",
+            "description": "Vesper reveals her struggles and decisions in a letter to Bond, explaining her actions and the threats she faced from SMERSH. She expresses her love and resignation to her fate.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Hotel room",
+            "time_of_day": "NIGHT",
+            "characters": [
+                "Vesper",
+                "Bond"
+            ],
+            "objects": [
+                "letter",
+                "telephone booth"
+            ],
+            "object_part_of_object": [
+                ";"
+            ],
+            "action_sequence": [
+                "threw",
+                "banged",
+                "pulled",
+                "walked",
+                "shut"
+            ],
+            "constant_state_sequence": [
+                "found",
+                "decided",
+                "wanted",
+                "refused",
+                "controlled",
+                "threatened",
+                "withdrew",
+                "followed",
+                "realized",
+                "reviewed",
+                "fitted",
+                "saw",
+                "relegated",
+                "examined",
+                "thrust",
+                "absorbed",
+                "ground",
+                "dug",
+                "sweated"
+            ],
+            "text_phrases": [
+                "But when I found",
+                "He was on to"
+            ]
+        },
+        {
+            "scene_title": "Bond's Reaction and Decision",
+            "dialog_summary": "",
+            "description": "After reading Vesper's letter, Bond experiences a mix of emotions and resolves to take action against SMERSH, recognizing it as the real threat behind the espionage.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Hotel room",
+            "time_of_day": "NIGHT",
+            "characters": [
+                "Bond"
+            ],
+            "objects": [
+                "letter",
+                "telephone"
+            ],
+            "object_part_of_object": [
+                ";"
+            ],
+            "action_sequence": [
+                "threw",
+                "brushed",
+                "banged",
+                "stood",
+                "pulled",
+                "walked",
+                "shut",
+                "snatched"
+            ],
+            "constant_state_sequence": [
+                "reviewed",
+                "fitted",
+                "saw",
+                "relegated",
+                "examined",
+                "thrust",
+                "absorbed",
+                "ground",
+                "dug",
+                "sweated",
+                "had",
+                "came"
+            ],
+            "text_phrases": [
+                "Bond threw the letter",
+                "The telephone rang"
+            ]
+        }
+    ],
+    "1263-1264": [
+        {
+            "scene_title": "Urgent Communication",
+            "dialog_summary": "007 reports an emergency over an open line, revealing that 3030 was a double agent working for Redland and is now dead.",
+            "description": "The scene captures a tense moment as 007 communicates crucial information about the double agent 3030 over an open communication line.",
+            "scene_type": "INT",
+            "scene_date": "1953",
+            "location": "Secret Service Office",
+            "time_of_day": "NIGHT",
+            "characters": [
+                "007"
+            ],
+            "objects": [
+                "line",
+                "emergency"
+            ],
+            "object_part_of_object": [
+                ";"
+            ],
+            "action_sequence": [
+                "speaking",
+                "hear"
+            ],
+            "constant_state_sequence": [
+                "is"
+            ],
+            "text_phrases": [
+                "This is 007",
+                "bitch is dead now"
+            ]
+        }
+    ]
+}
