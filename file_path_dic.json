@@ -68,4 +68,27 @@
         "end_line": "TRANSCRIBER NOTES",
         "file_path": "file:///content/20151111.txt"
     }
+
+    "Moonraker": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20150804/20150804.txt",
+        "stringReplaceDic": {
+            "\u201c": "'",
+            "\u201d": "'",
+            "\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d"
+        },
+        "book_code": "fp_20150804",
+        "chapter_regex": "CHAPTER (\\d+)",
+        "start_line": "_PART ONE: MONDAY_",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20150804.txt"
+    }
+
+    
+
+
+
+
 }
