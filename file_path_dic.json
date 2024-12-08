@@ -1,0 +1,71 @@
+{
+    "Frankenstein": {
+        "book_code": "84",
+        "chapter_regex": "(Chapter|Letter) (\\d+)$"
+    },
+    "A Study in Scarlet": {
+        "book_code": "244",
+        "chapter_regex": "CHAPTER (?:VII|VI|V?I{0,2}|IV|I{1,3})\\."
+    },
+    "Moby Dick": {
+        "book_code": "2701",
+        "chapter_regex": "CHAPTER (\\d+)\\..*",
+        "start_line": "sea.\u201d \u2014_Whale Song_."
+    },
+    "The Hound of the Baskervilles": {
+        "book_code": "2852",
+        "chapter_regex": "Chapter (\\d+)\\."
+    },
+    "Pride and Prejudice": {
+        "book_code": "42671",
+        "chapter_regex": "CHAPTER (?:VII|VI|V?I{0,2}|IV|I{1,3})\\.",
+        "start_line": "PRIDE & PREJUDICE.",
+        "end_line": "Transcriber's note:"
+    },
+    "1984": {
+        "book_code": "fp_20120511",
+        "chapter_regex": "^[IVXLCDM]+$",
+        "start_line": "BY THE HADDON",
+        "end_line": "THE END",
+        "file_path": "file:///content/20120511.txt"
+    },
+    "ALL QUIET ON THE WESTERN FRONT": {
+        "book_code": "fp_20241107",
+        "chapter_regex": "CHAPTER (?:VII|VI|V?I{0,2}|IV|I{1,3})",
+        "start_line": "ALL QUIET ON THE WESTERN FRONT",
+        "end_line": "CHISWICK PRESS",
+        "file_path": "file:///content/20241107.txt"
+    },
+    "Casino Royale": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20151102/20151102.txt",
+        "stringReplaceDic": {
+            "\u201c": "'",
+            "\u201d": "'",
+            "\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d"
+        },
+        "book_code": "fp_20151102",
+        "chapter_regex": "CHAPTER (\\d+)",
+        "start_line": "Casino Royale",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20151102.txt"
+    },
+    "Live and Let Die": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20151111/20151111.txt",
+        "stringReplaceDic": {
+            "\u201c": "'",
+            "\u201d": "'",
+            "\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d"
+        },
+        "book_code": "fp_20151111",
+        "chapter_regex": "^(\\d+)\\. .{0,50}$",
+        "start_line": "23 Passionate Leave",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20151111.txt"
+    }
+}
