@@ -76,5 +76,14 @@
         "start_line": "_PART ONE: MONDAY_",
         "end_line": "TRANSCRIBER NOTES",
         "file_path": "file:///content/20150804.txt"
+    },
+    "Diamonds are Forever": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20170328/20170328.txt",
+        "book_code": "fp_20170328",
+        "chapter_regex": "^(\\d+) .*[A-Z] [A-Z].*",
+        "start_line": "AYLESBURY, BUCKS",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20170328.txt"
     }
 }
