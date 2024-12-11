@@ -99,5 +99,14 @@
         "start_line": "28 La Tricoteuse",
         "end_line": "TRANSCRIBER NOTES",
         "file_path": "file:///content/20160104.txt"
+    },
+    "Dr NO": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20170725/20170725.txt",
+        "book_code": "fp_20170725",
+        "chapter_regex": "^[IVX]+ [A-Z].*",
+        "start_line": "First published 1958 by Jonathan Cape Ltd.",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20170725.txt"
     }
 }
