@@ -79,11 +79,25 @@
     },
     "Diamonds are Forever": {
         "useWget": true,
-        "wgetURL": "https://www.fadedpage.com/books/20170328/20170328.txt",
-        "book_code": "fp_20170328",
+        "wgetURL": "https://www.fadedpage.com/books/20160104/20160104.txt",
+        "book_code": "fp_20160104",
         "chapter_regex": "^(\\d+) .*[A-Z] [A-Z].*",
-        "start_line": "AYLESBURY, BUCKS",
+        "start_line": "The Plan",
         "end_line": "TRANSCRIBER NOTES",
-        "file_path": "file:///content/20170328.txt"
+        "file_path": "file:///content/20160104.txt"
+    },
+    "From Russia With Love": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20160104/20160104.txt",
+        "book_code": "fp_20160104",
+        "stringReplaceDic": {
+            "\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d"
+        },
+        "chapter_regex": "^(\\d+)\\. .*",
+        "start_line": "28 La Tricoteuse",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20160104.txt"
     }
 }
