@@ -108,5 +108,20 @@
         "start_line": "First published 1958 by Jonathan Cape Ltd.",
         "end_line": "TRANSCRIBER NOTES",
         "file_path": "file:///content/20170725.txt"
+    },
+    "Goldfinger": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20160105/20160105.txt",
+        "book_code": "fp_20160105",
+        "stringReplaceDic": {
+            "^'": "\u201c",
+            "' ": "\u201d ",
+            "'$": "\u201d",
+            " '": "\u201c"
+        },
+        "chapter_regex": "^CHAPTER .*",
+        "start_line": "1 - HAPPENSTANCE",
+        "end_line": "[End of Goldfinger, by Ian Fleming]",
+        "file_path": "file:///content/20160105.txt"
     }
 }
