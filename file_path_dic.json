@@ -123,5 +123,21 @@
         "start_line": "1 - HAPPENSTANCE",
         "end_line": "[End of Goldfinger, by Ian Fleming]",
         "file_path": "file:///content/20160105.txt"
+    },
+    "For Your Eyes Only": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20170435/20170435.txt",
+        "book_code": "fp_20170435",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": "\u201c"
+        },
+        "chapter_regex": "^[A-Z ]+$",
+        "start_line": "The Hildebrand Rarity                      199",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20170435.txt"
     }
 }
