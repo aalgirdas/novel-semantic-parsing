@@ -139,5 +139,141 @@
         "start_line": "The Hildebrand Rarity                      199",
         "end_line": "TRANSCRIBER NOTES",
         "file_path": "file:///content/20170435.txt"
+    },
+    "Thunderball": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20191233/20191233.txt",
+        "book_code": "fp_20191233",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": "\u201c"
+        },
+        "chapter_regex": "^(\\d+)$",
+        "start_line": "_Muse_",
+        "end_line": "THESE  ARE  PAN  BOOKS",
+        "file_path": "file:///content/20191233.txt"
+    },
+    "The Spy Who Loved Me": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20151114/20151114.txt",
+        "book_code": "fp_20151114",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": "\u201c"
+        },
+        "chapter_regex": "^(\\d+)\\..*",
+        "start_line": "15 The Writing on My Heart",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20151114.txt"
+    },
+    "On Her Majesty's Secret Service": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20180448/20180448.txt",
+        "book_code": "fp_20180448",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": "\u201c"
+        },
+        "chapter_regex": "^(\\d{1,2}) .*",
+        "start_line": "27 ALL THE TIME IN THE WORLD                  234",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20180448.txt"
+    },
+    "You Only Live Twice": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20171118/20171118.txt",
+        "book_code": "fp_20171118",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": "\u201c"
+        },
+        "chapter_regex": "^(\\d{1,2})$",
+        "start_line": "_to travel hopefully . . ._",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20171118.txt"
+    },
+    "The Man with the Golden Gun": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20180848/20180848.txt",
+        "book_code": "fp_20180848",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": "\u201c"
+        },
+        "chapter_regex": "^(\\d{1,2})  .*",
+        "start_line": "17  ENDIT      _176_",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20180848.txt"
+    },
+    "Octopussy": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20190516/20190516.txt",
+        "book_code": "fp_20190516",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": "\u201c"
+        },
+        "chapter_regex": "^(\\d{1,2})$",
+        "start_line": "DECEASED",
+        "end_line": "ABOUT THE AUTHOR",
+        "file_path": "file:///content/20190516.txt"
+    },
+    "The Living Daylights": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20190513/20190513.txt",
+        "book_code": "fp_20190513",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": "\u201c"
+        },
+        "chapter_regex": "^(\\d{1,2})$",
+        "start_line": "BY IAN FLEMING",
+        "end_line": "ABOUT THE AUTHOR",
+        "file_path": "file:///content/20190513.txt"
+    },
+    "The Bell Jar": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20160540/20160540.txt",
+        "book_code": "fp_20160540",
+        "stringReplaceDic": {
+            "^'": "\"",
+            "' ": "\" ",
+            "'$": "\"",
+            " '": " \""
+        },
+        "chapter_regex": "^Chapter .*",
+        "start_line": "Sylvia Plath",
+        "end_line": "[End of The Bell Jar, by Sylvia Plath]",
+        "file_path": "file:///content/20160540.txt"
+    },
+    "As I Lay Dying": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20171024/20171024.txt",
+        "book_code": "fp_20171024",
+        "chapter_regex": "^[A-Z ]{3,50}$",
+        "start_line": "HAL SMITH",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20171024.txt"
     }
 }
