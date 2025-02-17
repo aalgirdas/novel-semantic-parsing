@@ -275,5 +275,2225 @@
         "start_line": "HAL SMITH",
         "end_line": "TRANSCRIBER NOTES",
         "file_path": "file:///content/20171024.txt"
+    },
+    "A Moveable Feast": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20141111/20141111.txt",
+        "book_code": "fp_20141111",
+        "chapter_regex": "^_.*_$",
+        "start_line": "M. H.",
+        "end_line": "[Illustration: _1. Ernest Hemingway as a young man_]",
+        "file_path": "file:///content/20141111.txt"
+    },
+    "The Old Man and the Sea": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20141070/20141070.txt",
+        "book_code": "fp_20141070",
+        "chapter_regex": "^_.*_$",
+        "start_line": "THE OLD MAN AND THE SEA",
+        "end_line": "_BOOKS BY_",
+        "file_path": "file:///content/20141070.txt"
+    },
+    "Brave New World": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20160545/20160545.txt",
+        "book_code": "fp_20160545",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": " \u201c"
+        },
+        "chapter_regex": "^Chapter [IVX]+$",
+        "start_line": "NICOLAS BERDIAEFF.",
+        "end_line": "Printed in Great Britain",
+        "file_path": "file:///content/20160545.txt"
+    },
+    "The Haunting of Hill House": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20180856/20180856.txt",
+        "book_code": "fp_20180856",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": " \u201c"
+        },
+        "chapter_regex": "(^[A-Z ]+$)|(^\\d+$)",
+        "start_line": "_For Leonard Brown_",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20180856.txt"
+    },
+    "The Grapes of Wrath": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20220149/20220149.txt",
+        "book_code": "fp_20220149",
+        "chapter_regex": "^Chapter [a-zA-Z\\- ]+$",
+        "start_line": "THIRTY-NINTH PRINTING DECEMBER 1975",
+        "end_line": "THE END",
+        "file_path": "file:///content/20220149.txt"
+    },
+    "Little House in the Big Woods": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20140841/20140841.txt",
+        "book_code": "fp_20140841",
+        "chapter_regex": "^Chapter \\d+\\.$",
+        "start_line": "Chapter 13. The Deer in the Wood.",
+        "end_line": "[End of _Little House in the Big Woods_ by Laura Ingalls Wilder]",
+        "file_path": "file:///content/20140841.txt"
+    },
+    "The Sun Also Rises": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20150622/20150622.txt",
+        "book_code": "fp_20150622",
+        "chapter_regex": "^CHAPTER \\d+$",
+        "start_line": "BOOK I",
+        "end_line": "THE END",
+        "file_path": "file:///content/20150622.txt"
+    },
+    "The Sound and the Fury": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/201410L9/201410L9.txt",
+        "book_code": "fp_201410L9",
+        "chapter_regex": "^[A-Z ]+, \\d+$",
+        "start_line": "THE SOUND AND THE FURY",
+        "end_line": "Transcriber\u2019s Notes",
+        "file_path": "file:///content/201410L9.txt"
+    },
+    "A Farewell to Arms": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20170312/20170312.txt",
+        "book_code": "fp_20170312",
+        "chapter_regex": "^CHAPTER [IVX]+$",
+        "start_line": "BOOK 1",
+        "end_line": "THE END",
+        "file_path": "file:///content/20170312.txt"
+    },
+    "Gaudy Night": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20140201/20140201.txt",
+        "book_code": "fp_20140201",
+        "stringReplaceDic": {
+            "^'": "\"",
+            "' ": "\" ",
+            "'$": "\"",
+            " '": " \""
+        },
+        "chapter_regex": "^\\d+$",
+        "start_line": "SIR PHILIP SIDNEY",
+        "end_line": "The Proctor, stumping grimly past with averted eyes, reflected that",
+        "file_path": "file:///content/20140201.txt"
+    },
+    "On the Beach": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20131214/20131214.txt",
+        "book_code": "fp_20131214",
+        "chapter_regex": "^\\d+$",
+        "start_line": "=ON THE BEACH=",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20131214.txt"
+    },
+    "The Screwtape Letters": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20140509/20140509.txt",
+        "book_code": "fp_20140509",
+        "stringReplaceDic": {
+            "\u201c": "'",
+            "\u201d": "'"
+        },
+        "chapter_regex": "^[IVX]+$",
+        "start_line": "_July 5, 1941_",
+        "end_line": "Publication Information",
+        "file_path": "file:///content/20140509.txt"
+    },
+    "The Enchanted Wood": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20190961/20190961.txt",
+        "book_code": "fp_20190961",
+        "chapter_regex": "^CHAPTER [IVX]+.*$",
+        "start_line": "XXIX. SAFE BACK HOME AGAIN\u2014AND GOOD-BYE!        186",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20190961.txt"
+    },
+    "The Maltese Falcon": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20161221/20161221.txt",
+        "book_code": "fp_20161221",
+        "chapter_regex": "^\\d+$",
+        "start_line": "TO _JOSE_",
+        "end_line": "THE END",
+        "file_path": "file:///content/20161221.txt"
+    },
+    "First Term at Malory Towers": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20190330/20190330.txt",
+        "book_code": "fp_20190330",
+        "chapter_regex": "^[A-Za-z ]{5,30}$",
+        "start_line": "London Toronto Sydney New York",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20190330.txt"
+    },
+    "The Lion, the Witch and the Wardrobe": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/201410B2/201410B2.txt",
+        "book_code": "fp_201410B2",
+        "chapter_regex": "^CHAPTER [IVX]+$",
+        "start_line": "XVII.  _The Hunting of the White Stag_",
+        "end_line": "_The End_",
+        "file_path": "file:///content/201410B2.txt"
+    },
+    "The Great Divorce": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20140726/20140726.txt",
+        "book_code": "fp_20140726",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": " \u201c"
+        },
+        "chapter_regex": "^\\d+\\.$",
+        "start_line": "THE GREAT DIVORCE",
+        "end_line": "Footnotes",
+        "file_path": "file:///content/20140726.txt"
+    },
+    "Wise Blood": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20161228/20161228.txt",
+        "book_code": "fp_20161228",
+        "chapter_regex": "^CHAPTER \\d+$",
+        "start_line": "W I S E   B L O O D",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20161228.txt"
+    },
+    "The Long Goodbye": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20140522/20140522.txt",
+        "book_code": "fp_20140522",
+        "chapter_regex": "^\\d+$",
+        "start_line": "THE LONG GOODBYE",
+        "end_line": "ABOUT THE AUTHOR",
+        "file_path": "file:///content/20140522.txt"
+    },
+    "The Complete Short Stories of W. Somerset Maugham": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20180433/20180433.txt",
+        "book_code": "fp_20180433",
+        "chapter_regex": "^[A-Za-z ]{4,35}$",
+        "start_line": "lead him to.",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20180433.txt"
+    },
+    "The Big Sleep": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20201159/20201159.txt",
+        "book_code": "fp_20201159",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": " \u201c"
+        },
+        "chapter_regex": "^\\d+$",
+        "start_line": "Copyright 1939 by Raymond Chandler",
+        "end_line": "THE END",
+        "file_path": "file:///content/20201159.txt"
+    },
+    "The Mystery of the Burnt Cottage": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20190864/20190864.txt",
+        "book_code": "fp_20190864",
+        "chapter_regex": "^[A-Za-z ]{4,45}$",
+        "start_line": "(_Left to right_) Daisy, Fatty, Pip, Bets, Larry]",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20190864.txt"
+    },
+    "Five on a Treasure Island": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20190424/20190424.txt",
+        "book_code": "fp_20190424",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": " \u201c"
+        },
+        "chapter_regex": "^CHAPTER .+$",
+        "start_line": "17 THE END OF THE GREAT ADVENTURE          171",
+        "end_line": "THE END",
+        "file_path": "file:///content/20190424.txt"
+    },
+    "Absalom, Absalom!": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20190331/20190331.txt",
+        "book_code": "fp_20190331",
+        "chapter_regex": "^\\[*\\*  [IVX]+  \\*\\]*$",
+        "start_line": "Publication date was October 26, 1936.",
+        "end_line": "CHRONOLOGY",
+        "file_path": "file:///content/20190331.txt"
+    },
+    "Their Eyes Were Watching God": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20200240/20200240.txt",
+        "book_code": "fp_20200240",
+        "chapter_regex": "^\\d+$",
+        "start_line": "_To Henry Allen Moe_",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20200240.txt"
+    },
+    "East of Eden": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20211110/20211110.txt",
+        "book_code": "fp_20211110",
+        "chapter_regex": "(^Chapter [IVX]+$)|(^Chapter \\d+$)",
+        "start_line": "PART ONE",
+        "end_line": "THE END",
+        "file_path": "file:///content/20211110.txt"
+    },
+    "The Man of Bronze: A Doc Savage Adventure": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20140713/20140713.txt",
+        "book_code": "fp_20140713",
+        "chapter_regex": "^[IVX]+ [A-Z\u2019 ]+$",
+        "start_line": "XXII TREASURE-TROVE",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20140713.txt"
+    },
+    "The Heart Is a Lonely Hunter": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20190862/20190862.txt",
+        "book_code": "fp_20190862",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": " \u201c"
+        },
+        "chapter_regex": "^\\d+$",
+        "start_line": "Part One",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20190862.txt"
+    },
+    "Of Mice and Men": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20210154/20210154.txt",
+        "book_code": "fp_20210154",
+        "chapter_regex": "^\\d+$",
+        "start_line": "Printed in the United States of America by The Murray Printing Co.",
+        "end_line": "_ALSO BY JOHN STEINBECK_",
+        "file_path": "file:///content/20210154.txt"
+    },
+    "Farewell My Lovely": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20120626/20120626.txt",
+        "book_code": "fp_20120626",
+        "chapter_regex": "^\\[\\d+\\]$",
+        "start_line": "FAREWELL, MY LOVELY",
+        "end_line": "+--------------------------------------------------------------+",
+        "file_path": "file:///content/20120626.txt"
+    },
+    "The Second World War: The Gathering Storm": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20190527/20190527.txt",
+        "book_code": "fp_20190527",
+        "chapter_regex": "^\\d{1,2}$",
+        "start_line": "The Gathering Storm",
+        "end_line": "END OF BOOK TWO",
+        "file_path": "file:///content/20190527.txt"
+    },
+    "Upper Fourth at Malory Towers": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20190771/20190771.txt",
+        "book_code": "fp_20190771",
+        "chapter_regex": "^[A-Za-z ]{4,45}$",
+        "start_line": "by Stanley Lloyd.",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20190771.txt"
+    },
+    "Farmer Boy": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20200431/20200431.txt",
+        "book_code": "fp_20200431",
+        "chapter_regex": "^Chapter \\d+.*$",
+        "start_line": "Farmer Boy",
+        "end_line": "THE END",
+        "file_path": "file:///content/20200431.txt"
+    },
+    "Out of Africa": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20170717/20170717.txt",
+        "book_code": "fp_20170717",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": " \u201c"
+        },
+        "chapter_regex": "^\\d+$",
+        "start_line": "We come, we come.\u2019",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20170717.txt"
+    },
+    "Last Term at Malory Towers": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20200201/20200201.txt",
+        "book_code": "fp_20200201",
+        "chapter_regex": "^[A-Za-z ]{4,45}$",
+        "start_line": "by Stanley Lloyd.",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20200201.txt"
+    },
+    "Second Form at Malory Towers": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20190525/20190525.txt",
+        "book_code": "fp_20190525",
+        "chapter_regex": "^[A-Za-z ]{4,45}$",
+        "start_line": "by Stanley Lloyd.",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20190525.txt"
+    },
+    "The Simple Art of Murder": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20140930/20140930.txt",
+        "book_code": "fp_20140930",
+        "chapter_regex": "^[A-Z-\u2019 ]{9,45}$",
+        "start_line": "becoming too dull to be worth living in.",
+        "end_line": "ABOUT THE AUTHOR",
+        "file_path": "file:///content/20140930.txt"
+    },
+    "The Nine Tailors": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20140327/20140327.txt",
+        "book_code": "fp_20140327",
+        "chapter_regex": "^[A-Z ]{9,45}$",
+        "start_line": "(TROYTE.)",
+        "end_line": "_The voice of the bells of Fenchurch St. Paul: Gaude, Gaudy, Domini in",
+        "file_path": "file:///content/20140327.txt"
+    },
+    "The Twins at St. Clare's": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20200303/20200303.txt",
+        "book_code": "fp_20200303",
+        "chapter_regex": "^[A-Za-z ]{4,45}$",
+        "start_line": "by W. Lindsay Cable.",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20200303.txt"
+    },
+    "Winnie-the-Pooh": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20150606/20150606.txt",
+        "book_code": "fp_20150606",
+        "chapter_regex": "^CHAPTER [IVX]+.*$",
+        "start_line": "GOOD-BYE",
+        "end_line": "Printed in Canada",
+        "file_path": "file:///content/20150606.txt"
+    },
+    "In the Fifth at Malory Towers": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20191128/20191128.txt",
+        "book_code": "fp_20191128",
+        "chapter_regex": "^[A-Za-z ]{4,45}$",
+        "start_line": "by Stanley Lloyd.",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20191128.txt"
+    },
+    "The Pilgrim's Regress": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20150649/20150649.txt",
+        "book_code": "fp_20150649",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": " \u201c"
+        },
+        "chapter_regex": "^CHAPTER .*$",
+        "start_line": "\u2014HOOKER",
+        "end_line": "FOOTNOTES",
+        "file_path": "file:///content/20150649.txt"
+    },
+    "Have His Carcase": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20140452/20140452.txt",
+        "book_code": "fp_20140452",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": " \u201c"
+        },
+        "chapter_regex": "^CHAPTER [IVX]+$",
+        "start_line": "XXXIV. EVIDENCE OF WHAT DID HAPPEN                        346",
+        "end_line": "Transcriber's Notes:",
+        "file_path": "file:///content/20140452.txt"
+    },
+    "Prince Caspian. The Return to Narnia.": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/201410A9/201410A9.txt",
+        "book_code": "fp_201410A9",
+        "chapter_regex": "^_Chapter [IVX]+_$",
+        "start_line": "XV  ASLAN MAKES A DOOR IN THE AIR",
+        "end_line": "[End of Prince Caspian, by C. S. Lewis]",
+        "file_path": "file:///content/201410A9.txt"
+    },
+    "The Thin Man": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20161133/20161133.txt",
+        "book_code": "fp_20161133",
+        "chapter_regex": "^\\d+$",
+        "start_line": "TO _LILLIAN_",
+        "end_line": "THE END",
+        "file_path": "file:///content/20161133.txt"
+    },
+    "Third Year at Malory Towers": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20190623/20190623.txt",
+        "book_code": "fp_20190623",
+        "chapter_regex": "^[A-Za-z ]{4,45}$",
+        "start_line": "by Stanley Lloyd.",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20190623.txt"
+    },
+    "For Whom the Bell Tolls": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20210122/20210122.txt",
+        "book_code": "fp_20210122",
+        "chapter_regex": "^CHAPTER [A-Z- ]+$",
+        "start_line": "\u25c6    \u25c6",
+        "end_line": "THE END",
+        "file_path": "file:///content/20210122.txt"
+    },
+    "That Hideous Strength": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20141232/20141232.txt",
+        "book_code": "fp_20141232",
+        "chapter_regex": "^[A-Z ]{3,45} .*_.*_.*$",
+        "start_line": "_Magdalen College, Oxford._",
+        "end_line": "The End.",
+        "file_path": "file:///content/20141232.txt"
+    },
+    "Animal Farm": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/201410E7/201410E7.txt",
+        "book_code": "fp_201410E7",
+        "chapter_regex": "^CHAPTER [IVX]+$",
+        "start_line": "SCRANTON, PA.",
+        "end_line": "[End of Animal Farm, by George Orwell]",
+        "file_path": "file:///content/201410E7.txt"
+    },
+    "The Long Winter": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20200960/20200960.txt",
+        "book_code": "fp_20200960",
+        "chapter_regex": "^\\d{1,2}\\. .*$",
+        "start_line": "33.             CHRISTMAS IN MAY,                           327",
+        "end_line": "THE END",
+        "file_path": "file:///content/20200960.txt"
+    },
+    "Till we have Faces": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20161102/20161102.txt",
+        "book_code": "fp_20161102",
+        "chapter_regex": "^[IVX]+$",
+        "start_line": "PART ONE",
+        "end_line": "TILL WE HAVE FACES",
+        "file_path": "file:///content/20161102.txt"
+    },
+    "Black Boy": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20200436/20200436.txt",
+        "book_code": "fp_20200436",
+        "chapter_regex": "^_Chapter [IVX]+_$",
+        "start_line": "_Arlington, Vermont_",
+        "end_line": "_Set in Linotype Fairfield_",
+        "file_path": "file:///content/20200436.txt"
+    },
+    "Out of the Silent Planet": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20140326/20140326.txt",
+        "book_code": "fp_20140326",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": " \u201c"
+        },
+        "chapter_regex": "^[A-Z- ]{3,45}$",
+        "start_line": "_C. S. L._",
+        "end_line": "THE END",
+        "file_path": "file:///content/20140326.txt"
+    },
+    "The Secret Seven": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20190912/20190912.txt",
+        "book_code": "fp_20190912",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": " \u201c"
+        },
+        "chapter_regex": "^CHAPTER .*$",
+        "start_line": "_this one as much as you like all the others._",
+        "end_line": "THE END",
+        "file_path": "file:///content/20190912.txt"
+    },
+    "Red Harvest": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20170231/20170231.txt",
+        "book_code": "fp_20170231",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": " \u201c"
+        },
+        "chapter_regex": "^[IVX]+ \u2022.*$",
+        "start_line": "TO _JOSEPH THOMPSON SHAW_",
+        "end_line": "THE END",
+        "file_path": "file:///content/20170231.txt"
+    },
+    "Five Run Away Together": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20190605/20190605.txt",
+        "book_code": "fp_20190605",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": " \u201c"
+        },
+        "chapter_regex": "^Chapter .*$",
+        "start_line": "22. BACK TO KIRRIN ISLAND!        177",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20190605.txt"
+    },
+    "The World of Yesterday": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20181225/20181225.txt",
+        "book_code": "fp_20181225",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": " \u201c"
+        },
+        "chapter_regex": "^[IVX]+ _.*$",
+        "start_line": "_Facsimile of Stefan Zweig\u2019s parting message_                     438",
+        "end_line": "[Illustration: PHOTOS: PAUL LESTER WIENER",
+        "file_path": "file:///content/20181225.txt"
+    },
+    "The Voyage of the Dawn Treader": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/201410B3/201410B3.txt",
+        "book_code": "fp_201410B3",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": " \u201c"
+        },
+        "chapter_regex": "^_Chapter [IVX]+_$",
+        "start_line": "XVI.  THE VERY END OF THE WORLD",
+        "end_line": "[End of The Voyage of the Dawn Treader, by C. S. Lewis]",
+        "file_path": "file:///content/201410B3.txt"
+    },
+    "These Happy Golden Years": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20201038/20201038.txt",
+        "book_code": "fp_20201038",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": " \u201c"
+        },
+        "chapter_regex": "^\\d{1,2}\\. [A-Z-_\u2022\u2014_\u2019\u201c\u201d, ]{4,45}$",
+        "start_line": "33.             LITTLE GRAY HOME IN THE WEST,               279",
+        "end_line": "THE END",
+        "file_path": "file:///content/20201038.txt"
+    },
+    "The Magician's Nephew": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/201410A8/201410A8.txt",
+        "book_code": "fp_201410A8",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": " \u201c"
+        },
+        "chapter_regex": "^CHAPTER [IVX]+$",
+        "start_line": "15  The End of This Story and the Beginning of All the Others",
+        "end_line": "[End of The Magician's Nephew, by C. S. Lewis]",
+        "file_path": "file:///content/201410A8.txt"
+    },
+    "The Mystery of the Secret Room": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20190914/20190914.txt",
+        "book_code": "fp_20190914",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": " \u201c"
+        },
+        "chapter_regex": "(^[A-Za-z-_\u2022\u2014_\u2019\u201c\u201d ]{4,45}$)|(^Fatty and Mr. Goon$)",
+        "start_line": "The End of the Mystery",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20190914.txt"
+    },
+    "Swallows and Amazons": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20180107/20180107.txt",
+        "book_code": "fp_20180107",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": " \u201c"
+        },
+        "chapter_regex": "^CHAPTER [IVX]+.*$",
+        "start_line": "A PAIR OF SLIPPERS",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20180107.txt"
+    },
+    "The Mystery of the Disappearing Cat": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20190808/20190808.txt",
+        "book_code": "fp_20190808",
+        "chapter_regex": "^[A-Za-z-_\u2022\u2014_\u2019\u201c\u201d ]{4,45}$",
+        "start_line": "The End of it All",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20190808.txt"
+    },
+    "The Naughtiest Girl in the School": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20200112/20200112.txt",
+        "book_code": "fp_20200112",
+        "chapter_regex": "^CHAPTER \\d+ .*$",
+        "start_line": "24 A SURPRISE FOR THE SCHOOL       154",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20200112.txt"
+    },
+    "Busman's Honeymoon": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20100114/20100114.txt",
+        "book_code": "fp_20100114",
+        "chapter_regex": "^CHAPTER [IVX]+$",
+        "start_line": "MARRIAGES",
+        "end_line": "_BOOKS BY DOROTHY L. SAYERS:_",
+        "file_path": "file:///content/20100114.txt"
+    },
+    "The Adventures of Sam Spade and other stories": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20120735/20120735.txt",
+        "book_code": "fp_20120735",
+        "chapter_regex": "^_[A-Z-_\u2022\u2014_\u2019\u201c\u201d' ]{4,45}_$",
+        "start_line": "_THE ADVENTURES OF SAM SPADE_",
+        "end_line": "=Transcriber's Notes:=",
+        "file_path": "file:///content/20120735.txt"
+    },
+    "On the Banks of Plum Creek": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20200807/20200807.txt",
+        "book_code": "fp_20200807",
+        "chapter_regex": "^Chapter \\d+\\. .*$",
+        "start_line": "of PLUM CREEK",
+        "end_line": "THE END",
+        "file_path": "file:///content/20200807.txt"
+    },
+    "Five Go Adventuring Again": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20190228/20190228.txt",
+        "book_code": "fp_20190228",
+        "chapter_regex": "^Chapter .*$",
+        "start_line": "pages, and we go with them, eager and excited.",
+        "end_line": "THE END",
+        "file_path": "file:///content/20190228.txt"
+    },
+    "The Stranger": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20150715/20150715.txt",
+        "book_code": "fp_20150715",
+        "chapter_regex": "^Chapter .*$",
+        "start_line": "pages, and we go with them, eager and excited.",
+        "end_line": "THE END",
+        "file_path": "file:///content/20150715.txt"
+    },
+    "The Magic Faraway Tree": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20210270/20210270.txt",
+        "book_code": "fp_20210270",
+        "chapter_regex": "^CHAPTER [IVX]+ .*$",
+        "start_line": "XXVI. THE LAND OF PRESENTS                178",
+        "end_line": "THE END",
+        "file_path": "file:///content/20210270.txt"
+    },
+    "Trouble is My Business": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20150520/20150520.txt",
+        "book_code": "fp_20150520",
+        "chapter_regex": "^[A-Z-_\u2022\u2014_\u2019\u201c\u201d' ]{3,45}$",
+        "start_line": "=MY BUSINESS=",
+        "end_line": "[The end of _Trouble is My Business_ by Raymond Chandler]",
+        "file_path": "file:///content/20150520.txt"
+    },
+    "The Razor's Edge": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20171032/20171032.txt",
+        "book_code": "fp_20171032",
+        "chapter_regex": "^CHAPTER .*$",
+        "start_line": "THE COUNTRY LIFE PRESS, GARDEN CITY, N. Y.",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20171032.txt"
+    },
+    "The Silver Chair": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/201410B0/201410B0.txt",
+        "book_code": "fp_201410B0",
+        "chapter_regex": "^_Chapter [IVX]+_$",
+        "start_line": "XVI.  THE HEALING OF HARMS",
+        "end_line": "[End of The Silver Chair, by C. S. Lewis]",
+        "file_path": "file:///content/201410B0.txt"
+    },
+    "Maurice": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20221144/20221144.txt",
+        "book_code": "fp_20221144",
+        "chapter_regex": "^_\\d+_$",
+        "start_line": "_Dedicated to a Happier Year_",
+        "end_line": "Typographical errors corrected by the etext transcriber:",
+        "file_path": "file:///content/20221144.txt"
+    },
+    "Little Town on the Prairie": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20201037/20201037.txt",
+        "book_code": "fp_20201037",
+        "chapter_regex": "^\\d+\\. .*$",
+        "start_line": "on the PRAIRIE",
+        "end_line": "THE END",
+        "file_path": "file:///content/20201037.txt"
+    },
+    "The Good Shepherd": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20181187/20181187.txt",
+        "book_code": "fp_20181187",
+        "chapter_regex": "^CHAPTER [IVX]+$",
+        "start_line": "Chapter III",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20181187.txt"
+    },
+    "Little House on the Prairie": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20200415/20200415.txt",
+        "book_code": "fp_20200415",
+        "chapter_regex": "^Chapter \\d+ .*$",
+        "start_line": "Little House on the Prairie",
+        "end_line": "THE END",
+        "file_path": "file:///content/20200415.txt"
+    },
+    "Dust Tracks on a Road": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20170216/20170216.txt",
+        "book_code": "fp_20170216",
+        "chapter_regex": "^[IVX]+$",
+        "start_line": "XVI LOOKING THINGS OVER                             288",
+        "end_line": "THE END",
+        "file_path": "file:///content/20170216.txt"
+    },
+    "A Treasury of Sayers Stories": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20111202/20111202.txt",
+        "book_code": "fp_20111202",
+        "chapter_regex": "(^\\d{1,2}\\. .*$)|(^[A-Z-_\u2022\u2014_\u2019\u201c\u201d' ]{3,65}$)",
+        "start_line": "12. The Adventurous Exploit of the Cave of Ali Baba           324",
+        "end_line": "NOTES TO THE SOLUTION",
+        "file_path": "file:///content/20111202.txt"
+    },
+    "The Last Battle": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/201410A7/201410A7.txt",
+        "book_code": "fp_201410A7",
+        "chapter_regex": "^CHAPTER [IVX]+$",
+        "start_line": "XVI  FAREWELL TO SHADOW-LANDS",
+        "end_line": "_The Chronicles of Narnia_",
+        "file_path": "file:///content/201410A7.txt"
+    },
+    "The Unpleasantness at the Bellona Club": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20140212/20140212.txt",
+        "book_code": "fp_20140212",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": " \u201c"
+        },
+        "chapter_regex": "^Chapter [IVX]+ .*$",
+        "start_line": "Bungay, Suffolk.",
+        "end_line": "[The end of _The Unpleasantness at the Bellona Club_ by Dorothy L.",
+        "file_path": "file:///content/20140212.txt"
+    },
+    "The Doors of Perception": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20200328/20200328.txt",
+        "book_code": "fp_20200328",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": " \u201c"
+        },
+        "chapter_regex": "^[A-Z_\u2022\u2014_\u2019\u201c\u201d' \\-]{3,45}$",
+        "start_line": "WILLIAM BLAKE",
+        "end_line": "-----",
+        "file_path": "file:///content/20200328.txt"
+    },
+    "The Secret of the Old Clock": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20201147/20201147.txt",
+        "book_code": "fp_20201147",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": " \u201c"
+        },
+        "chapter_regex": "^CHAPTER [IVX]+ .*$",
+        "start_line": "XXV A REWARD                    205",
+        "end_line": "THE END",
+        "file_path": "file:///content/20201147.txt"
+    },
+    "By the Shores of Silver Lake": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20200811/20200811.txt",
+        "book_code": "fp_20200811",
+        "chapter_regex": "^\\d+\\. [A-Za-z_\u2022\u2014_\u2019\u201c\u201d' \\-]{3,45}$",
+        "start_line": "of SILVER LAKE",
+        "end_line": "THE END",
+        "file_path": "file:///content/20200811.txt"
+    },
+    "Mr. Midshipman Hornblower": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20170206/20170206.txt",
+        "book_code": "fp_20170206",
+        "chapter_regex": "^[A-Z_\u2605\u2022\u2014_\u2019\u201c\u201d' \\-]{3,45}$",
+        "start_line": "(_page 229_)",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20170206.txt"
+    },
+    "Murder Must Advertise": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20090801/20090801.txt",
+        "book_code": "fp_20090801",
+        "chapter_regex": "^CHAPTER [IVX]+$",
+        "start_line": "XXI. Death Departs From Pym's Publicity",
+        "end_line": "TRANSCRIBER'S NOTE",
+        "file_path": "file:///content/20090801.txt"
+    },
+    "The Five Red Herrings": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20131206/20131206.txt",
+        "book_code": "fp_20131206",
+        "chapter_regex": "^CHAPTER [IVX]+$",
+        "start_line": "Dorothy L. Sayers.",
+        "end_line": "[The end of _The Five Red Herrings_ by Dorothy L. Sayers]",
+        "file_path": "file:///content/20131206.txt"
+    },
+    "The Devils of Loudun": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20150909/20150909.txt",
+        "book_code": "fp_20150909",
+        "chapter_regex": "^CHAPTER .+$",
+        "start_line": "The Devils of Loudun",
+        "end_line": "[1] J. D. Unwin, _Sex and Culture_ (London, 1934).",
+        "file_path": "file:///content/20150909.txt"
+    },
+    "The Horse and his Boy": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/201410B1/201410B1.txt",
+        "book_code": "fp_201410B1",
+        "chapter_regex": "^_Chapter [IVX]+_$",
+        "start_line": "XV.  RABADASH THE RIDICULOUS",
+        "end_line": "[End of The Horse and his Boy, by C. S. Lewis]",
+        "file_path": "file:///content/201410B1.txt"
+    },
+    "Perelandra": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20141201/20141201.txt",
+        "book_code": "fp_20141201",
+        "chapter_regex": "^[A-Z_\u2605\u2022\u2014_\u2019\u201c\u201d' \\-]{3,45}$",
+        "start_line": "C. S. L.",
+        "end_line": "THE END",
+        "file_path": "file:///content/20141201.txt"
+    },
+    "The Hidden Staircase": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20191065/20191065.txt",
+        "book_code": "fp_20191065",
+        "chapter_regex": "^CHAPTER [IVX]+ .*$",
+        "start_line": "XX NANCY\u2019S VICTORY        173",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20191065.txt"
+    },
+    "The Well of Loneliness": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20181178/20181178.txt",
+        "book_code": "fp_20181178",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": " \u201c"
+        },
+        "chapter_regex": "^CHAPTER \\d+$",
+        "start_line": "BOOK ONE",
+        "end_line": "THE END",
+        "file_path": "file:///content/20181178.txt"
+    },
+    "The Painted Veil": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20160824/20160824.txt",
+        "book_code": "fp_20160824",
+        "chapter_regex": "^[ivxl]+$",
+        "start_line": "high price.",
+        "end_line": "THE END",
+        "file_path": "file:///content/20160824.txt"
+    },
+    "Clouds of Witness": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20081011/20081011.txt",
+        "book_code": "fp_20081011",
+        "chapter_regex": "^CHAPTER [IVX]+$",
+        "start_line": "XIX. Who Goes Home",
+        "end_line": "FOOTNOTES:",
+        "file_path": "file:///content/20081011.txt"
+    },
+    "The Once and Future King": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20150633/20150633.txt",
+        "book_code": "fp_20150633",
+        "chapter_regex": "^_Chapter [IVX]+_$",
+        "start_line": "_Incipit Liber Primus_",
+        "end_line": "EXPLICIT LIBER REGIS QUONDAM REGISQUE FUTURI",
+        "file_path": "file:///content/20150633.txt"
+    },
+    "Gone with the Wind": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20160920/20160920.txt",
+        "book_code": "fp_20160920",
+        "chapter_regex": "^CHAPTER [IVX]+$",
+        "start_line": "PART FIVE",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20160920.txt"
+    },
+    "The Lady in the Lake": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20130218/20130218.txt",
+        "book_code": "fp_20130218",
+        "chapter_regex": "^\\[\\d+\\]$",
+        "start_line": "IN THE LAKE",
+        "end_line": "A NOTE ON THE TYPE",
+        "file_path": "file:///content/20130218.txt"
+    },
+    "Beat to Quarters": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20170713/20170713.txt",
+        "book_code": "fp_20170713",
+        "chapter_regex": "^Chapter [IVXLC]+$",
+        "start_line": "[Illustration: The Landfall\u2014Captain Hornblower Aloft]",
+        "end_line": "Glossary of Nautical Terms",
+        "file_path": "file:///content/20170713.txt"
+    },
+    "Ship of the Line": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20171008/20171008.txt",
+        "book_code": "fp_20171008",
+        "chapter_regex": "^Chapter [IVXLC]+$",
+        "start_line": "[Illustration: The _Sutherland_\u2014Ship of the Line]",
+        "end_line": "Glossary of Nautical Terms",
+        "file_path": "file:///content/20171008.txt"
+    },
+    "Strong Poison": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20120907/20120907.txt",
+        "book_code": "fp_20120907",
+        "chapter_regex": "^CHAPTER [IVXLC]+$",
+        "start_line": "*        *        *        *        *",
+        "end_line": "-----",
+        "file_path": "file:///content/20120907.txt"
+    },
+    "My Life and Hard Times": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20131017/20131017.txt",
+        "book_code": "fp_20131017",
+        "chapter_regex": "^CHAPTER [A-Z_\u2605\u2022\u2014_\u2019\u201c\u201d' \\-]{3,45}$",
+        "start_line": "_MY LIFE AND HARD TIMES_",
+        "end_line": "THE END",
+        "file_path": "file:///content/20131017.txt"
+    },
+    "The Little Sister": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20150563/20150563.txt",
+        "book_code": "fp_20150563",
+        "chapter_regex": "^[A-Z_\u2605\u2022\u2014_\u2019\u201c\u201d' \\-]{3,45}$",
+        "start_line": "The Little Sister",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20150563.txt"
+    },
+    "The High Window": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20121145/20121145.txt",
+        "book_code": "fp_20121145",
+        "chapter_regex": "^\\[\\d+\\]$",
+        "start_line": "THE HIGH WINDOW",
+        "end_line": "+--------------------------------------------------------------+",
+        "file_path": "file:///content/20121145.txt"
+    },
+    "Alas, Babylon": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20160905/20160905.txt",
+        "book_code": "fp_20160905",
+        "chapter_regex": "^\\[\\d+\\]$",
+        "start_line": "PAT FRANK",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20160905.txt"
+    },
+    "Whose Body?": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20080401/20080401.txt",
+        "book_code": "fp_20080401",
+        "chapter_regex": "^CHAPTER [IVXLC]+$",
+        "start_line": "_D. L. S._",
+        "end_line": "THE END",
+        "file_path": "file:///content/20080401.txt"
+    },
+    "Brideshead Revisited: The Sacred and Profane Memories of Captain Charles Ryder.": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20190176/20190176.txt",
+        "book_code": "fp_20190176",
+        "chapter_regex": "(^Chapter [A-Za-z_\u2605\u2022\u2014_\u2019\u201c\u201d' \\-]{3,45}$)|(^Prologue$)",
+        "start_line": "E. W.",
+        "end_line": "THE END",
+        "file_path": "file:///content/20190176.txt"
+    },
+    "Miss Pickerell Goes to Mars": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20140307/20140307.txt",
+        "book_code": "fp_20140307",
+        "chapter_regex": "^CHAPTER .*$",
+        "start_line": "17. Home Again,                                                    118",
+        "end_line": "Transcriber\u2019s Notes",
+        "file_path": "file:///content/20140307.txt"
+    },
+    "Commodore Hornblower": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20171128/20171128.txt",
+        "book_code": "fp_20171128",
+        "chapter_regex": "^Chapter [IVXLC]+$",
+        "start_line": "KINGSPORT PRESS, INC., KINGSPORT, TENN.",
+        "end_line": "T H E   E N D",
+        "file_path": "file:///content/20171128.txt"
+    },
+    "Flying Colours": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20171102/20171102.txt",
+        "book_code": "fp_20171102",
+        "chapter_regex": "^Chapter [IVXLC]+$",
+        "start_line": "PRINTED IN THE UNITED STATES OF AMERICA",
+        "end_line": "T H E   E N D",
+        "file_path": "file:///content/20171102.txt"
+    },
+    "Silent Spring": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20151002/20151002.txt",
+        "book_code": "fp_20151002",
+        "chapter_regex": "^\\d+\\. [A-Za-z_\u2605\u2022\u2014_\u2019\u201c\u201d' \\-]{3,45}$",
+        "start_line": "Index                                 357",
+        "end_line": "List of Principal Sources",
+        "file_path": "file:///content/20151002.txt"
+    },
+    "Men without Women": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20160117/20160117.txt",
+        "book_code": "fp_20160117",
+        "chapter_regex": "^[A-Z_\u2605\u2022\u2014_\u2019\u201c\u201d' \\-]{3,45}$",
+        "start_line": "NOW I LAY ME",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20160117.txt"
+    },
+    "The Daughter of Time": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20131111/20131111.txt",
+        "book_code": "fp_20131111",
+        "stringReplaceDic": {
+            "^'": "\"",
+            "' ": "\" ",
+            "'$": "\"",
+            " '": " \""
+        },
+        "chapter_regex": "^_\\d+_$",
+        "start_line": "AT THE PITMAN PRESS, BATH",
+        "end_line": "_THE END_",
+        "file_path": "file:///content/20131111.txt"
+    },
+    "Grey Mask": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20140339/20140339.txt",
+        "book_code": "fp_20140339",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": " \u201c"
+        },
+        "chapter_regex": "Chapter [IVXLC]+$",
+        "start_line": "First published 1929 by Hodder and Stoughton Limited",
+        "end_line": "THE END",
+        "file_path": "file:///content/20140339.txt"
+    },
+    "The violent bear it away": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20161110/20161110.txt",
+        "book_code": "fp_20161110",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": " \u201c"
+        },
+        "chapter_regex": "^[IVXLC]+$",
+        "start_line": "ONE",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20161110.txt"
+    },
+    "The Haunted Policeman": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20131009/20131009.txt",
+        "book_code": "fp_20131009",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": " \u201c"
+        },
+        "chapter_regex": "^_[A-Za-z_\u2605\u2022\u2014_\u2019\u201c\u201d' \\-]{3,45}_$",
+        "start_line": "THE HAUNTED POLICEMAN",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20131009.txt"
+    },
+    "Unnatural Death": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20181241/20181241.txt",
+        "book_code": "fp_20181241",
+        "chapter_regex": "^CHAPTER [IVXLC]+ .*$",
+        "start_line": "_Merchant of Venice_",
+        "end_line": "MYSTERY",
+        "file_path": "file:///content/20181241.txt"
+    },
+    "The Glass Key": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20170222/20170222.txt",
+        "book_code": "fp_20170222",
+        "chapter_regex": "^[IVXLC]+ .*_$",
+        "start_line": "TO _NELL MARTIN_",
+        "end_line": "THE END",
+        "file_path": "file:///content/20170222.txt"
+    },
+    "Homage to Catalonia": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20181044/20181044.txt",
+        "book_code": "fp_20181044",
+        "stringReplaceDic": {
+            "^'": "\"",
+            "' ": "\" ",
+            "'$": "\"",
+            " '": " \""
+        },
+        "chapter_regex": "^[IVXLC]+$",
+        "start_line": "Copyright 1938 by Eric Blair",
+        "end_line": "[1] A recent number of _Inprecor_ states the exact opposite\u2014that _La",
+        "file_path": "file:///content/20181044.txt"
+    },
+    "Admiral Hornblower in the West Indies": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20171228/20171228.txt",
+        "book_code": "fp_20171228",
+        "chapter_regex": "^\\d+$",
+        "start_line": "PRINTED IN THE UNITED STATES OF AMERICA",
+        "end_line": "Glossary of Nautical Terms",
+        "file_path": "file:///content/20171228.txt"
+    },
+    "Hornblower and the Hotspur": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20170524/20170524.txt",
+        "book_code": "fp_20170524",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": " \u201c"
+        },
+        "chapter_regex": "^CHAPTER [IVXLC]+$",
+        "start_line": "when loaded in a specified way",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20170524.txt"
+    },
+    "Wealth, Virtual Wealth and Debt: The Solution of the Economic Paradox": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20140873/20140873.txt",
+        "book_code": "fp_20140873",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": " \u201c"
+        },
+        "chapter_regex": "^CHAPTER [IVXLC]+ .*$",
+        "start_line": "Compare, _Money versus Man_ (Mathews and Marrot, London, 1931).",
+        "end_line": "Footnote 64:",
+        "file_path": "file:///content/20140873.txt"
+    },
+    "Anne of Windy Poplars": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20100608/20100608.txt",
+        "book_code": "fp_20100608",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": " \u201c"
+        },
+        "chapter_regex": "^\\d+$",
+        "start_line": "_The First Year_",
+        "end_line": "+--------------------------------------------------------------------+",
+        "file_path": "file:///content/20100608.txt"
+    },
+    "The King of Elfland's Daughter": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20120938/20120938.txt",
+        "book_code": "fp_20120938",
+        "chapter_regex": "^CHAPTER [IVXLC]+$",
+        "start_line": "XXXIV The Last Great Rune                                         233",
+        "end_line": "[The end of _The King of Elfland's Daughter_ by Edward Plunkett (Lord Dunsany)]",
+        "file_path": "file:///content/20120938.txt"
+    },
+    "Under the Volcano": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20170345/20170345.txt",
+        "book_code": "fp_20170345",
+        "chapter_regex": "^[IVXLC]+$",
+        "start_line": "GOETHE",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20170345.txt"
+    },
+    "Death Comes for the Archbishop": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20181195/20181195.txt",
+        "book_code": "fp_20181195",
+        "chapter_regex": "^[A-Z\u2605\u2022\u2014_\u2019\u201c\u201d' \\-]{3,45}$",
+        "start_line": "P R O L O G U E",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20181195.txt"
+    },
+    "Light in August": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20190624/20190624.txt",
+        "book_code": "fp_20190624",
+        "chapter_regex": "^_\\d+_$",
+        "start_line": "L I G H T   I N   A U G U S T",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20190624.txt"
+    },
+    "The Great Gatsby": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20181181/20181181.txt",
+        "book_code": "fp_20181181",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": " \u201c"
+        },
+        "chapter_regex": "^Chapter [IVXLC]+$",
+        "start_line": "Thomas Parke d\u2019Invilliers",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20181181.txt"
+    },
+    "Tender is the Night": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20190739/20190739.txt",
+        "book_code": "fp_20190739",
+        "chapter_regex": "^CHAPTER \\d+$",
+        "start_line": "Book 1",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20190739.txt"
+    },
+    "Some do not...": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20140712/20140712.txt",
+        "book_code": "fp_20140712",
+        "chapter_regex": "^CHAPTER [IVXLC]+$",
+        "start_line": "PART I",
+        "end_line": "THE END",
+        "file_path": "file:///content/20140712.txt"
+    },
+    "Point Counter Point": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20221257/20221257.txt",
+        "book_code": "fp_20221257",
+        "chapter_regex": "^CHAPTER [IVXLC]+\\..*$",
+        "start_line": "First published _Doubleday Doran & Company_, 1928.",
+        "end_line": "THE END.",
+        "file_path": "file:///content/20221257.txt"
+    },
+    "Finnegans Wake": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20180126/20180126.txt",
+        "book_code": "fp_20180126",
+        "chapter_regex": "^[IVXLC]+$",
+        "start_line": "FINNEGANS WAKE",
+        "end_line": "xPARIS,",
+        "file_path": "file:///content/20180126.txt"
+    },
+    "Ulysses": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20181223/20181223.txt",
+        "book_code": "fp_20181223",
+        "stringReplaceDic": {
+            "^\u2014": "\""
+        },
+        "chapter_regex": "^[IVXLC]+$",
+        "start_line": "28 Little Russell St., London W.C.1",
+        "end_line": "=ERRATA=",
+        "file_path": "file:///content/20181223.txt"
+    },
+    "Main Street": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20211230/20211230.txt",
+        "book_code": "fp_20211230",
+        "chapter_regex": "^CHAPTER [IVXLC]+$",
+        "start_line": "MAIN  STREET",
+        "end_line": "THE END",
+        "file_path": "file:///content/20211230.txt"
+    },
+    "A Handful of Dust": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20190606/20190606.txt",
+        "book_code": "fp_20190606",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": " \u201c"
+        },
+        "chapter_regex": "^CHAPTER [IVXLC]+$",
+        "start_line": "_are entirely fictitious_",
+        "end_line": "T H E   E N D",
+        "file_path": "file:///content/20190606.txt"
+    },
+    "Scoop": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20190340/20190340.txt",
+        "book_code": "fp_20190340",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": " \u201c"
+        },
+        "chapter_regex": "^_Chapter .*_$",
+        "start_line": "_Combe Florey_",
+        "end_line": "T H E   E N D",
+        "file_path": "file:///content/20190340.txt"
+    },
+    "The Day of the Locust": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20200149/20200149.txt",
+        "book_code": "fp_20200149",
+        "chapter_regex": "^\\d+$",
+        "start_line": "For LAURA",
+        "end_line": "THE END",
+        "file_path": "file:///content/20200149.txt"
+    },
+    "The Age of Innocence": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20160518/20160518.txt",
+        "book_code": "fp_20160518",
+        "chapter_regex": "^[IVXLC]+$",
+        "start_line": "BOOK I",
+        "end_line": "THE END",
+        "file_path": "file:///content/20160518.txt"
+    },
+    "To the Lighthouse": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20190356/20190356.txt",
+        "book_code": "fp_20190356",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": " \u201c"
+        },
+        "chapter_regex": "(^[IVXLC]+ [A-Z_\u2605\u2022\u2014_\u2019\u201c\u201d' \\-]{3,45} *\\d*$)|(^\\d+$)",
+        "start_line": "A member of the Mohndruck printing group",
+        "end_line": "Transcriber",
+        "file_path": "file:///content/20190356.txt"
+    },
+    "Early Autumn": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20210130/20210130.txt",
+        "book_code": "fp_20210130",
+        "chapter_regex": "(^CHAPTER [IVXLC]+$)|(^\\d+$)",
+        "start_line": "LAURA CANFIELD WOOD",
+        "end_line": "THE END",
+        "file_path": "file:///content/20210130.txt"
+    },
+    "One of Ours": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20220232/20220232.txt",
+        "book_code": "fp_20220232",
+        "chapter_regex": "^[IVXLC]+\\.*$",
+        "start_line": "On Lovely Creek",
+        "end_line": "THE END",
+        "file_path": "file:///content/20220232.txt"
+    },
+    "Honey in the Horn": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20231202/20231202.txt",
+        "book_code": "fp_20231202",
+        "chapter_regex": "^Chapter [IVXLC]+$",
+        "start_line": "H. L. D.",
+        "end_line": "THE END",
+        "file_path": "file:///content/20231202.txt"
+    },
+    "The Reivers": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20181052/20181052.txt",
+        "book_code": "fp_20181052",
+        "chapter_regex": "^[ivxl]+$",
+        "start_line": "_The_ REIVERS",
+        "end_line": "THE END",
+        "file_path": "file:///content/20181052.txt"
+    },
+    "So Big": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20190481/20190481.txt",
+        "book_code": "fp_20190481",
+        "chapter_regex": "^[IVXLC]+$",
+        "start_line": "So Big",
+        "end_line": "THE END",
+        "file_path": "file:///content/20190481.txt"
+    },
+    "Profiles in Courage": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20220864/20220864.txt",
+        "book_code": "fp_20220864",
+        "chapter_regex": "^[A-Z_\u2605\u2022\u2014_\u2019\u201c\u201d' \\-]{3,45}$",
+        "start_line": "\u2014JOHN F. KENNEDY",
+        "end_line": "SENATOR WILLIAM PITT FESSENDEN _of Maine, in a eulogy delivered",
+        "file_path": "file:///content/20220864.txt"
+    },
+    "Arrowsmith": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20150210/20150210.txt",
+        "book_code": "fp_20150210",
+        "chapter_regex": "^_chapter_ =\\d+=$",
+        "start_line": "PRINTED IN THE UNITED STATES OF AMERICA",
+        "end_line": "THE END",
+        "file_path": "file:///content/20150210.txt"
+    },
+    "The Late George Apley": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20220269/20220269.txt",
+        "book_code": "fp_20220269",
+        "chapter_regex": "^CHAPTER [IVXLC]+$",
+        "start_line": "_THE LATE_",
+        "end_line": "THE END",
+        "file_path": "file:///content/20220269.txt"
+    },
+    "Scarlet Sister Mary": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20210440/20210440.txt",
+        "book_code": "fp_20210440",
+        "chapter_regex": "^(Chapter|CHAPTER) [IVXLC]+$",
+        "start_line": "Scarlet Sister Mary",
+        "end_line": "THE END",
+        "file_path": "file:///content/20210440.txt"
+    },
+    "The Yearling": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20171116/20171116.txt",
+        "book_code": "fp_20171116",
+        "chapter_regex": "^\\d+$",
+        "start_line": "RENEWAL COPYRIGHT",
+        "end_line": "TRANSCRIBER NOTES",
+        "file_path": "file:///content/20171116.txt"
+    },
+    "Dragon's Teeth": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20210861/20210861.txt",
+        "book_code": "fp_20210861",
+        "chapter_regex": "^\\d+ _.*$",
+        "start_line": "GOLDEN GATES",
+        "end_line": "=_Worl",
+        "file_path": "file:///content/20210861.txt"
+    },
+    "The Thirty-Nine Steps": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20180625/20180625.txt",
+        "book_code": "fp_20180625",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": " \u201c"
+        },
+        "chapter_regex": "^CHAPTER .*$",
+        "start_line": "10. Various Parties Converging on the Sea",
+        "end_line": "THE END",
+        "file_path": "file:///content/20180625.txt"
+    },
+    "At Swim-two-birds": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20200350/20200350.txt",
+        "book_code": "fp_20200350",
+        "chapter_regex": "^CHAPTER [IVXLC]+$",
+        "start_line": "relation to any person living or dead._",
+        "end_line": "Transcriber's Notes",
+        "file_path": "file:///content/20200350.txt"
+    },
+    "The Road to Wigan Pier": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20180878/20180878.txt",
+        "book_code": "fp_20180878",
+        "chapter_regex": "^[IVXLC]+$",
+        "start_line": "Copyright 1937 by Eric Blair",
+        "end_line": "THE END",
+        "file_path": "file:///content/20180878.txt"
+    },
+    "The Road to Oxiana": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20161131/20161131.txt",
+        "book_code": "fp_20161131",
+        "chapter_regex": "^PART [IVXLC]+$",
+        "start_line": "[Illustration: Map of Middle East]",
+        "end_line": "[5] _Erymurus luteus._",
+        "file_path": "file:///content/20161131.txt"
+    },
+    "My Early Life. A Roving Commission.": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20160543/20160543.txt",
+        "book_code": "fp_20160543",
+        "stringReplaceDic": {
+            "^'": "\"",
+            "' ": "\" ",
+            "'$": "\"",
+            " '": " \""
+        },
+        "chapter_regex": "^CHAPTER [IVXLC]+$",
+        "start_line": "{15}",
+        "end_line": "{387}",
+        "file_path": "file:///content/20160543.txt"
+    },
+    "Life on the Mississippi": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/20171208/20171208.txt",
+        "book_code": "fp_20171208",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": " \u201c"
+        },
+        "chapter_regex": "^Chapter \\d+.*$",
+        "start_line": "Life on the Mississippi",
+        "end_line": "[1] War-whoop.",
+        "file_path": "file:///content/20171208.txt"
+    },
+    "A Room of One's Own": {
+        "useWget": true,
+        "wgetURL": "https://www.fadedpage.com/books/201410N3/201410N3.txt",
+        "book_code": "fp_201410N3",
+        "chapter_regex": "^CHAPTER [IVXLC]+$",
+        "start_line": "A ROOM OF ONE\u2019S OWN[1]",
+        "end_line": "Footnote 12:",
+        "file_path": "file:///content/201410N3.txt"
+    },
+    "A Christmas Carol in Prose": {
+        "book_code": "46",
+        "chapter_regex": "^STAVE [IVXLC]+: .*$",
+        "start_line": "Stave   V: The End of It"
+    },
+    "Middlemarch": {
+        "book_code": "145",
+        "chapter_regex": "^CHAPTER [IVXLC]+\\.$",
+        "start_line": "FINALE."
+    },
+    "A Room with a View": {
+        "book_code": "2641",
+        "chapter_regex": "^Chapter [IVXLC]+.*$",
+        "start_line": "Chapter XX. The End of the Middle Ages"
+    },
+    "Little Women": {
+        "book_code": "37106",
+        "chapter_regex": "^[IVXLC]+\\.$",
+        "start_line": "[Illustration: Christmas won't be Christmas without any presents]",
+        "end_line": "Louisa M. Alcott's Writings"
+    },
+    "The Blue Castle": {
+        "book_code": "67979",
+        "chapter_regex": "^CHAPTER [IVXLC]+$",
+        "start_line": "CHAPTER XLV"
+    },
+    "The Enchanted April": {
+        "book_code": "16389",
+        "chapter_regex": "^Chapter \\d+$",
+        "start_line": "Chapter 22"
+    },
+    "Alice's Adventures in Wonderland": {
+        "book_code": "11",
+        "chapter_regex": "^CHAPTER [IVXLC]+\\. .*$",
+        "start_line": "CHAPTER XII.   Alice\u2019s Evidence"
+    },
+    "The Adventures of Ferdinand Count Fathom": {
+        "book_code": "6761",
+        "chapter_regex": "^CHAPTER [A-Z_\u2605\u2022\u2014_\u2019\u201c\u201d' \\-]{3,45}$",
+        "start_line": "THE AUTHOR."
+    },
+    "Cranford": {
+        "book_code": "394",
+        "chapter_regex": "^CHAPTER [IVXLC]+\\. .*$",
+        "start_line": "Graphic Photo-Engraving Co._, _London_",
+        "end_line": "PRINTED BY"
+    },
+    "History of Tom Jones, a Foundling": {
+        "book_code": "6593",
+        "chapter_regex": "^Chapter [ivxl]+\\.$",
+        "start_line": "PROPER TO ACQUAINT THE READER WITH IN THE BEGINNING OF THIS HISTORY"
+    },
+    "The three musketeers": {
+        "book_code": "1257",
+        "chapter_regex": "^Chapter [IVXLC]+\\..*$",
+        "start_line": "This being understood, let us proceed with our history."
+    },
+    "Twenty years after": {
+        "book_code": "1259",
+        "chapter_regex": "^Chapter [IVXLC]+\\..*$",
+        "start_line": "Chapter XC. Conclusion."
+    },
+    "The Vicomte de Bragelonne": {
+        "book_code": "2609",
+        "chapter_regex": "^Chapter [IVXLC]+.*$",
+        "start_line": "John Bursey, May, 2000",
+        "end_line": "End of The Vicomte de Bragelonne."
+    },
+    "Ten Years Later": {
+        "book_code": "2681",
+        "chapter_regex": "^Chapter [IVXLC]+.*$",
+        "start_line": "Gaston\u2019s widow will be referred to as the \u201cDowager Madame.\u201d--JB",
+        "end_line": "End of Ten Years Later. The next text in the series is Louise de la"
+    },
+    "Louise de la Valliere": {
+        "book_code": "2710",
+        "chapter_regex": "^Chapter [IVXLC]+.*$",
+        "start_line": "John Bursey",
+        "end_line": "End of Louise de la Valliere. The last text in the series is The Man in"
+    },
+    "The Man in the Iron Mask": {
+        "book_code": "2759",
+        "chapter_regex": "^Chapter [IVXLC]+.*$",
+        "start_line": "John Bursey Mordaunt@aol.com August, 2000",
+        "end_line": "End of The Man in the Iron Mask. This is the last text in the series."
+    },
+    "The Count of Monte Cristo": {
+        "book_code": "1184",
+        "chapter_regex": "^Chapter \\d+\\..*$",
+        "start_line": "Chapter 117. The Fifth of October",
+        "end_line": "FOOTNOTES:"
+    },
+    "The Picture of Dorian Gray": {
+        "book_code": "174",
+        "chapter_regex": "^CHAPTER [IVXLC]+\\.$",
+        "start_line": "OSCAR WILDE",
+        "end_line": "THE END"
+    },
+    "Dracula": {
+        "book_code": "345",
+        "chapter_regex": "^CHAPTER [IVXLC]+$",
+        "start_line": "of knowledge of those who made them.",
+        "end_line": "THE END"
+    },
+    "Crime and Punishment": {
+        "book_code": "2554",
+        "chapter_regex": "^CHAPTER [IVXLC]+$",
+        "start_line": "PART I"
+    },
+    "The Scarlet Letter": {
+        "book_code": "25344",
+        "chapter_regex": "^[IVXLC]+\\.$",
+        "start_line": "locality of THE TOWN PUMP!",
+        "end_line": "Cambridge: Electrotyped and Printed by Welch, Bigelow, & Co."
+    },
+    "Metamorphosis": {
+        "book_code": "5200",
+        "chapter_regex": "^[IVXLC]+$",
+        "start_line": "Translated by David Wyllie"
+    },
+    "The Trial": {
+        "book_code": "7849",
+        "chapter_regex": "^Chapter [A-Za-z_\u2605\u2022\u2014_\u2019\u201c\u201d' \\-]{3,45}$",
+        "start_line": "Translator contact email: dandelion@post.cz"
+    },
+    "The Strange Case of Dr. Jekyll and Mr. Hyde": {
+        "book_code": "43",
+        "chapter_regex": "^[A-Z\u2605\u2022\u2014_\u2019\u201c\u201d' \\-]{3,45}$",
+        "start_line": "HENRY JEKYLL\u2019S FULL STATEMENT OF THE CASE"
+    },
+    "Treasure Island": {
+        "book_code": "120",
+        "chapter_regex": "^[IVXLC]+ [A-Za-z_\u2605\u2022\u2014_\u2019\u201c\u201d' \\-:]{3,65}$",
+        "start_line": "PART ONE--The Old Buccaneer"
+    },
+    "Kidnapped": {
+        "book_code": "421",
+        "chapter_regex": "^CHAPTER [IVXLC]+$",
+        "start_line": "XXX        GOOD-BYE"
+    },
+    "A Tale of Two Cities": {
+        "book_code": "98",
+        "chapter_regex": "^CHAPTER [IVXLC]+.*$",
+        "start_line": "CHAPTER XV     The Footsteps Die Out For Ever"
+    },
+    "Great Expectations": {
+        "book_code": "1400",
+        "chapter_regex": "^Chapter [IVXLC]+\\.$",
+        "start_line": "Chapter LIX."
+    },
+    "Oliver Twist": {
+        "book_code": "730",
+        "chapter_regex": "^CHAPTER [IVXLC]+.*$",
+        "start_line": "LIII     AND LAST"
+    },
+    "David Copperfield": {
+        "book_code": "766",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": " \u201c"
+        },
+        "chapter_regex": "^CHAPTER \\d+\\..*$",
+        "start_line": "THE PERSONAL HISTORY AND EXPERIENCE OF DAVID COPPERFIELD THE YOUNGER"
+    },
+    "The Adventures of Tom Sawyer": {
+        "book_code": "74",
+        "chapter_regex": "^CHAPTER [IVXLC]+$",
+        "start_line": "HARTFORD, 1876."
+    },
+    "Adventures of Huckleberry Finn": {
+        "book_code": "76",
+        "chapter_regex": "^CHAPTER [IVXLC]+\\.$",
+        "start_line": "Scene: The Mississippi Valley Time: Forty to fifty years ago"
+    },
+    "The Prince and the Pauper": {
+        "book_code": "1837",
+        "chapter_regex": "^CHAPTER [IVXLC]+.*$",
+        "start_line": "NOTES"
+    },
+    "The Innocents Abroad": {
+        "book_code": "3176",
+        "chapter_regex": "^CHAPTER [IVXLC]+.*$",
+        "start_line": "SAN FRANCISCO."
+    },
+    "A Connecticut Yankee in King Arthur's Court": {
+        "book_code": "86",
+        "chapter_regex": "^CHAPTER [IVXLC]+.*$",
+        "start_line": "simple and natural way:"
+    },
+    "The Brothers Karamazov": {
+        "book_code": "28054",
+        "chapter_regex": "^Chapter [IVXLC]+.*$",
+        "start_line": "Footnotes",
+        "end_line": "THE END"
+    },
+    "Notes from the Underground": {
+        "book_code": "600",
+        "chapter_regex": "^[IVXLC]+$",
+        "start_line": "of this person concerning certain events in his life.\u2014AUTHOR\u2019S NOTE."
+    },
+    "The Idiot": {
+        "book_code": "2638",
+        "chapter_regex": "^[IVXLC]+\\.$",
+        "start_line": "PART IV"
+    },
+    "The possessed : or, The devils": {
+        "book_code": "8117",
+        "chapter_regex": "^CHAPTER [IVXLC]+.*$",
+        "start_line": "Luke, ch. viii. 32-37.",
+        "end_line": "THE END"
+    },
+    "The Adventures of Sherlock Holmes": {
+        "book_code": "1661",
+        "chapter_regex": "^[IVXLC]+\\. [A-Z_\u2605\u2022\u2014_\u2019\u201c\u201d' \\-:]{3,65}$",
+        "start_line": "XII.   The Adventure of the Copper Beeches"
+    },
+    "The Sign of the Four": {
+        "book_code": "2097",
+        "chapter_regex": "^Chapter [IVXLC]+ .*$",
+        "start_line": "Chapter XII. The Strange Story of Jonathan Small"
+    },
+    "The Memoirs of Sherlock Holmes": {
+        "book_code": "834",
+        "chapter_regex": "^[IVXLC]+\\. [A-Za-z_\u2605\u2022\u2014_\u2019\u201c\u201d' \\-:]{3,65}$",
+        "start_line": "XII. The Final Problem"
+    },
+    "The Return of Sherlock Holmes": {
+        "book_code": "108",
+        "chapter_regex": "^[A-Z_\u2605\u2022\u2014_\u2019\u201c\u201d' :]{13,65}$",
+        "start_line": "The Adventure of the Second Stain",
+        "end_line": "THE END"
+    },
+    "The Valley of Fear": {
+        "book_code": "3289",
+        "chapter_regex": "^Chapter [IVXLC]+ .*$",
+        "start_line": "The Tragedy of Birlstone"
+    },
+    "His Last Bow: An Epilogue of Sherlock Holmes": {
+        "book_code": "2350",
+        "chapter_regex": "(^[A-Za-z\u2019 \\-]{13,55}$)|(^His Last Bow:.*)",
+        "start_line": "His Last Bow: The War Service of Sherlock Holmes"
+    },
+    "The Lost World": {
+        "book_code": "139",
+        "chapter_regex": "^CHAPTER [IVXLC]+$",
+        "start_line": "XVI.  \"A PROCESSION!  A PROCESSION!\""
+    },
+    "Don Quixote": {
+        "book_code": "996",
+        "chapter_regex": "^CHAPTER [IVXLC]+.*$",
+        "start_line": "e00.jpg (24K)",
+        "end_line": "p74e.jpg (49K)"
+    },
+    "Thus Spake Zarathustra: A Book for All and None": {
+        "book_code": "1998",
+        "chapter_regex": "^\\d+\\.$",
+        "start_line": "ZARATHUSTRA\u2019S PROLOGUE.",
+        "end_line": "APPENDIX."
+    },
+    "War and Peace": {
+        "book_code": "2600",
+        "chapter_regex": "^CHAPTER [IVXLC]+$",
+        "start_line": 827
+    },
+    "Anna Karenina": {
+        "book_code": "1399",
+        "chapter_regex": "^Chapter \\d+$",
+        "start_line": 50
+    },
+    "Jane Eyre: An Autobiography": {
+        "book_code": "1260",
+        "chapter_regex": "^CHAPTER [IVXLC]+$",
+        "start_line": "_April_ 13_th_, 1848."
+    },
+    "The Yellow Wallpaper": {
+        "book_code": "1952",
+        "chapter_regex": "^CHAPTER [IVXLC]+$",
+        "start_line": "By Charlotte Perkins Gilman"
+    },
+    "Grimms' Fairy Tales": {
+        "book_code": "2591",
+        "stringReplaceDic": {
+            "\u2014": " ",
+            "^\u2018": "\u201c",
+            "\u2019 ": "\u201d ",
+            "\u2019$": "\u201d",
+            " \u2018": " \u201c"
+        },
+        "chapter_regex": "^CHAPTER [IVXLC]+$",
+        "start_line": "SNOW-WHITE AND ROSE-RED",
+        "end_line": "The Brothers Grimm, Jacob (1785-1863) and Wilhelm (1786-1859), were born"
+    },
+    "The Wonderful Wizard of Oz": {
+        "book_code": "55",
+        "chapter_regex": "^Chapter [IVXLC]+ .*$",
+        "start_line": "Chicago, April, 1900."
+    },
+    "The Prince": {
+        "book_code": "1232",
+        "chapter_regex": "^CHAPTER [IVXLC]+.*$",
+        "start_line": "great and continued malignity of fortune."
+    },
+    "Leviathan": {
+        "book_code": "3207",
+        "chapter_regex": "^CHAPTER [IVXLC]+.*$",
+        "start_line": "48. A REVIEW AND CONCLUSION"
+    },
+    "Anne of Green Gables": {
+        "book_code": "45",
+        "chapter_regex": "^CHAPTER [IVXLC]+.*$",
+        "start_line": "CHAPTER XXXVIII    The Bend in the Road"
+    },
+    "Beyond Good and Evil": {
+        "book_code": "4363",
+        "chapter_regex": "^CHAPTER [IVXLC]+.*$",
+        "start_line": "FROM THE HEIGHTS (POEM TRANSLATED BY L.A. MAGNUS)",
+        "end_line": "FROM THE HEIGHTS"
+    },
+    "Wuthering Heights": {
+        "book_code": "768",
+        "chapter_regex": "^CHAPTER [IVXLC]+.*$",
+        "start_line": "by Emily Bront\u00eb"
+    },
+    "Heart of Darkness": {
+        "book_code": "219",
+        "chapter_regex": "^[IVXLC]+$",
+        "start_line": "III"
+    },
+    "Les Mis\u00e9rables": {
+        "book_code": "135",
+        "chapter_regex": "^CHAPTER [IVXLC]+.*$",
+        "start_line": "HAUTEVILLE HOUSE, 1862.",
+        "end_line": "Il dort. Quoique le sort f\u00fbt pour lui bien \u00e9trange,"
+    },
+    "Notre-Dame de Paris": {
+        "book_code": "2610",
+        "chapter_regex": "^CHAPTER [IVXLC]+.*$",
+        "start_line": "FOOTNOTES.",
+        "end_line": "NOTE"
+    },
+    "Peter Pan": {
+        "book_code": "16",
+        "chapter_regex": "^Chapter [IVXLC]+.*$",
+        "start_line": "Chapter XVII. WHEN WENDY GREW UP",
+        "end_line": "THE END"
+    },
+    "Twenty Thousand Leagues under the Sea": {
+        "book_code": "164",
+        "chapter_regex": "^CHAPTER [IVXLC]+.*$",
+        "start_line": "The unfortunate vessel sank more rapidly"
+    },
+    "Around the World in Eighty Days": {
+        "book_code": "103",
+        "chapter_regex": "^CHAPTER [IVXLC]+.*$",
+        "start_line": "CHAPTER XXXVII. IN WHICH IT IS SHOWN THAT PHILEAS FOGG GAINED NOTHING BY HIS TOUR AROUND THE WORLD, UNLESS IT WERE HAPPINESS"
+    },
+    "A Journey to the Centre of the Earth": {
+        "book_code": "18857",
+        "chapter_regex": "^CHAPTER \\d+$",
+        "start_line": "CHAPTER 44 THE JOURNEY ENDED"
+    },
+    "The Mysterious Island": {
+        "book_code": "1268",
+        "chapter_regex": "^Chapter \\d+$",
+        "start_line": "PART 1--DROPPED FROM THE CLOUDS"
+    },
+    "From the Earth to the Moon; and, Round the Moon": {
+        "book_code": "83",
+        "chapter_regex": "^CHAPTER [IVXLC]+.*$",
+        "start_line": "CHAPTER XXIII. The End",
+        "end_line": "THE END."
+    },
+    "In Search of the Castaways; Or, The Children of Captain Grant": {
+        "book_code": "2083",
+        "chapter_regex": "^CHAPTER [IVXLC]+.*$",
+        "start_line": "us toward International Peace.",
+        "end_line": "Transcribers Note: I have made the following changes to the text:"
+    },
+    "Five Weeks in a Balloon": {
+        "book_code": "3526",
+        "chapter_regex": "^CHAPTER .*$",
+        "start_line": "Medina.\u2014The Battle.\u2014Saint Louis.\u2014The English Frigate.\u2014The Return to"
+    },
+    "Dick Sand: A Captain at Fifteen": {
+        "book_code": "12051",
+        "chapter_regex": "^CHAPTER .*$",
+        "start_line": "CHAPTER XX.      Conclusion.",
+        "end_line": "THE END."
+    },
+    "The War of the Worlds": {
+        "book_code": "36",
+        "chapter_regex": "^[IVXLC]+\\. .*$",
+        "start_line": "THE COMING OF THE MARTIANS"
+    },
+    "The Time Machine": {
+        "book_code": "35",
+        "chapter_regex": "^[IVXLC]+\\. .*$",
+        "start_line": "Epilogue"
+    },
+    "The island of Doctor Moreau": {
+        "book_code": "159",
+        "chapter_regex": "^[IVXLC]+\\. .*$",
+        "start_line": "XXII. THE MAN ALONE",
+        "end_line": "NOTE."
+    },
+    "The Invisible Man: A Grotesque Romance": {
+        "book_code": "5230",
+        "chapter_regex": "^CHAPTER [IVXLC]+\\. .*$",
+        "start_line": "The Epilogue"
+    },
+    "The Country of the Blind, and Other Stories": {
+        "book_code": "11870",
+        "chapter_regex": "^[IVXLC]+\\.$",
+        "start_line": "XXXIII. THE BEAUTIFUL SUIT"
+    },
+    "The Stolen Bacillus and Other Incidents": {
+        "book_code": "12750",
+        "chapter_regex": "^NO CHAPTERS$",
+        "start_line": "XV. THE TREASURE IN THE FOREST",
+        "end_line": "PRINTED BY"
+    },
+    "The call of the wild": {
+        "book_code": "215",
+        "chapter_regex": "^Chapter [IVXLC]+\\. .*$",
+        "start_line": "Chapter VII. The Sounding of the Call"
+    },
+    "White Fang": {
+        "book_code": "910",
+        "chapter_regex": "^CHAPTER .*$",
+        "start_line": "CHAPTER V THE SLEEPING WOLF"
+    },
+    "Martin Eden": {
+        "book_code": "1056",
+        "chapter_regex": "^CHAPTER .*$",
+        "start_line": "Go toppling to the dust a vacant shrine!\u201d"
+    },
+    "The Sea-Wolf": {
+        "book_code": "1074",
+        "chapter_regex": "^CHAPTER .*$",
+        "start_line": "_Copyright_, _London_, _William Heinemann_, 1904",
+        "end_line": "THE END"
+    },
+    "The iron heel": {
+        "book_code": "1164",
+        "chapter_regex": "^CHAPTER .*$",
+        "start_line": "XXV. THE TERRORISTS"
+    },
+    "The Scarlet Plague": {
+        "book_code": "21970",
+        "chapter_regex": "^[IVXLC]+$",
+        "start_line": "THE SCARLET PLAGUE",
+        "end_line": "THE END"
+    },
+    "The Valley of the Moon": {
+        "book_code": "1449",
+        "chapter_regex": "^(CHAPTER [IVXLC]+$)|(CHAPTER \\d+)$",
+        "start_line": "By Jack London"
+    },
+    "Smoke Bellew": {
+        "book_code": "5737",
+        "chapter_regex": "^[IVXLC]+\\. .*$",
+        "start_line": "* Alternate title--The Race for Number One"
+    },
+    "The murder of Roger Ackroyd": {
+        "book_code": "69087",
+        "chapter_regex": "^CHAPTER [IVXLC]+.*$",
+        "start_line": "XXVII  APOLOGIA                                                    303",
+        "end_line": "THE END"
+    },
+    "The Mysterious Affair at Styles": {
+        "book_code": "863",
+        "chapter_regex": "^CHAPTER [IVXLC]+.*$",
+        "start_line": "CHAPTER XIII. POIROT EXPLAINS",
+        "end_line": "THE END"
+    },
+    "The Murder on the Links": {
+        "book_code": "58866",
+        "chapter_regex": "^\\d{1,2} .*$",
+        "start_line": "28 Journey\u2019s End"
+    },
+    "The mystery of the Blue Train": {
+        "book_code": "72824",
+        "chapter_regex": "^\\d{1,2}\\. .*$",
+        "start_line": "fascination for women"
+    },
+    "The Secret Adversary": {
+        "book_code": "1155",
+        "chapter_regex": "^CHAPTER [IVXLC]+.*$",
+        "start_line": "CHAPTER XXVIII."
+    },
+    "The Man in the Brown Suit": {
+        "book_code": "61168",
+        "chapter_regex": "^CHAPTER [IVXLC]+.*$",
+        "start_line": "PROLOGUE",
+        "end_line": "THE END"
+    },
+    "The Big Four": {
+        "book_code": "70114",
+        "chapter_regex": "^\\d{1,2}\\. .*$",
+        "start_line": "18. IN THE FELSENLABYRYNTH"
+    },
+    "The Secret of Chimneys": {
+        "book_code": "65238",
+        "chapter_regex": "^\\d{1,2}$",
+        "start_line": "31 SUNDRY DETAILS      _271_",
+        "end_line": "TRANSCRIBER\u2019S NOTES"
+    },
+    "Emma": {
+        "book_code": "158",
+        "chapter_regex": "^CHAPTER [IVXLC]+$",
+        "start_line": "CHAPTER XIX.",
+        "end_line": "FINIS"
+    },
+    "Sense and Sensibility": {
+        "book_code": "161",
+        "chapter_regex": "^CHAPTER [IVXLC]+\\.$",
+        "start_line": "CHAPTER L",
+        "end_line": "THE END"
+    },
+    "Persuasion": {
+        "book_code": "105",
+        "chapter_regex": "^CHAPTER [IVXLC]+\\.$",
+        "start_line": "CHAPTER XXIV.",
+        "end_line": "Finis"
+    },
+    "Northanger Abbey": {
+        "book_code": "121",
+        "chapter_regex": "^CHAPTER \\d{1,2}$",
+        "start_line": "undergone considerable changes.",
+        "end_line": "A NOTE ON THE TEXT"
+    },
+    "Mansfield Park": {
+        "book_code": "141",
+        "chapter_regex": "^CHAPTER [IVXLC]+$",
+        "start_line": "CHAPTER XLVIII",
+        "end_line": "FINIS."
     }
 }

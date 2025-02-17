@@ -1,0 +1,833 @@
+{
+    "84": {
+        "book_name": "Frankenstein"
+    },
+    "244": {
+        "book_name": "A Study in Scarlet"
+    },
+    "2701": {
+        "book_name": "Moby Dick"
+    },
+    "2852": {
+        "book_name": "The Hound of the Baskervilles"
+    },
+    "42671": {
+        "book_name": "Pride and Prejudice"
+    },
+    "fp_20120511": {
+        "book_name": "1984"
+    },
+    "fp_20241107": {
+        "book_name": "ALL QUIET ON THE WESTERN FRONT"
+    },
+    "fp_20151102": {
+        "book_name": "Casino Royale"
+    },
+    "fp_20151111": {
+        "book_name": "Live and Let Die"
+    },
+    "fp_20150804": {
+        "book_name": "Moonraker"
+    },
+    "fp_20160104": {
+        "book_name": "From Russia With Love"
+    },
+    "fp_20170725": {
+        "book_name": "Dr NO"
+    },
+    "fp_20160105": {
+        "book_name": "Goldfinger"
+    },
+    "fp_20170435": {
+        "book_name": "For Your Eyes Only"
+    },
+    "fp_20191233": {
+        "book_name": "Thunderball"
+    },
+    "fp_20151114": {
+        "book_name": "The Spy Who Loved Me"
+    },
+    "fp_20180448": {
+        "book_name": "On Her Majesty's Secret Service"
+    },
+    "fp_20171118": {
+        "book_name": "You Only Live Twice"
+    },
+    "fp_20180848": {
+        "book_name": "The Man with the Golden Gun"
+    },
+    "fp_20190516": {
+        "book_name": "Octopussy"
+    },
+    "fp_20190513": {
+        "book_name": "The Living Daylights"
+    },
+    "fp_20160540": {
+        "book_name": "The Bell Jar"
+    },
+    "fp_20171024": {
+        "book_name": "As I Lay Dying"
+    },
+    "fp_20141111": {
+        "book_name": "A Moveable Feast"
+    },
+    "fp_20141070": {
+        "book_name": "The Old Man and the Sea"
+    },
+    "fp_20160545": {
+        "book_name": "Brave New World"
+    },
+    "fp_20180856": {
+        "book_name": "The Haunting of Hill House"
+    },
+    "fp_20220149": {
+        "book_name": "The Grapes of Wrath"
+    },
+    "fp_20140841": {
+        "book_name": "Little House in the Big Woods"
+    },
+    "fp_20150622": {
+        "book_name": "The Sun Also Rises"
+    },
+    "fp_201410L9": {
+        "book_name": "The Sound and the Fury"
+    },
+    "fp_20170312": {
+        "book_name": "A Farewell to Arms"
+    },
+    "fp_20140201": {
+        "book_name": "Gaudy Night"
+    },
+    "fp_20131214": {
+        "book_name": "On the Beach"
+    },
+    "fp_20140509": {
+        "book_name": "The Screwtape Letters"
+    },
+    "fp_20190961": {
+        "book_name": "The Enchanted Wood"
+    },
+    "fp_20161221": {
+        "book_name": "The Maltese Falcon"
+    },
+    "fp_20190330": {
+        "book_name": "First Term at Malory Towers"
+    },
+    "fp_201410B2": {
+        "book_name": "The Lion, the Witch and the Wardrobe"
+    },
+    "fp_20140726": {
+        "book_name": "The Great Divorce"
+    },
+    "fp_20161228": {
+        "book_name": "Wise Blood"
+    },
+    "fp_20140522": {
+        "book_name": "The Long Goodbye"
+    },
+    "fp_20180433": {
+        "book_name": "The Complete Short Stories of W. Somerset Maugham"
+    },
+    "fp_20201159": {
+        "book_name": "The Big Sleep"
+    },
+    "fp_20190864": {
+        "book_name": "The Mystery of the Burnt Cottage"
+    },
+    "fp_20190424": {
+        "book_name": "Five on a Treasure Island"
+    },
+    "fp_20190331": {
+        "book_name": "Absalom, Absalom!"
+    },
+    "fp_20200240": {
+        "book_name": "Their Eyes Were Watching God"
+    },
+    "fp_20211110": {
+        "book_name": "East of Eden"
+    },
+    "fp_20140713": {
+        "book_name": "The Man of Bronze: A Doc Savage Adventure"
+    },
+    "fp_20190862": {
+        "book_name": "The Heart Is a Lonely Hunter"
+    },
+    "fp_20210154": {
+        "book_name": "Of Mice and Men"
+    },
+    "fp_20120626": {
+        "book_name": "Farewell My Lovely"
+    },
+    "fp_20190527": {
+        "book_name": "The Second World War: The Gathering Storm"
+    },
+    "fp_20190771": {
+        "book_name": "Upper Fourth at Malory Towers"
+    },
+    "fp_20200431": {
+        "book_name": "Farmer Boy"
+    },
+    "fp_20170717": {
+        "book_name": "Out of Africa"
+    },
+    "fp_20200201": {
+        "book_name": "Last Term at Malory Towers"
+    },
+    "fp_20190525": {
+        "book_name": "Second Form at Malory Towers"
+    },
+    "fp_20140930": {
+        "book_name": "The Simple Art of Murder"
+    },
+    "fp_20140327": {
+        "book_name": "The Nine Tailors"
+    },
+    "fp_20200303": {
+        "book_name": "The Twins at St. Clare's"
+    },
+    "fp_20150606": {
+        "book_name": "Winnie-the-Pooh"
+    },
+    "fp_20191128": {
+        "book_name": "In the Fifth at Malory Towers"
+    },
+    "fp_20150649": {
+        "book_name": "The Pilgrim's Regress"
+    },
+    "fp_20140452": {
+        "book_name": "Have His Carcase"
+    },
+    "fp_201410A9": {
+        "book_name": "Prince Caspian. The Return to Narnia."
+    },
+    "fp_20161133": {
+        "book_name": "The Thin Man"
+    },
+    "fp_20190623": {
+        "book_name": "Third Year at Malory Towers"
+    },
+    "fp_20210122": {
+        "book_name": "For Whom the Bell Tolls"
+    },
+    "fp_20141232": {
+        "book_name": "That Hideous Strength"
+    },
+    "fp_201410E7": {
+        "book_name": "Animal Farm"
+    },
+    "fp_20200960": {
+        "book_name": "The Long Winter"
+    },
+    "fp_20161102": {
+        "book_name": "Till we have Faces"
+    },
+    "fp_20200436": {
+        "book_name": "Black Boy"
+    },
+    "fp_20140326": {
+        "book_name": "Out of the Silent Planet"
+    },
+    "fp_20190912": {
+        "book_name": "The Secret Seven"
+    },
+    "fp_20170231": {
+        "book_name": "Red Harvest"
+    },
+    "fp_20190605": {
+        "book_name": "Five Run Away Together"
+    },
+    "fp_20181225": {
+        "book_name": "The World of Yesterday"
+    },
+    "fp_201410B3": {
+        "book_name": "The Voyage of the Dawn Treader"
+    },
+    "fp_20201038": {
+        "book_name": "These Happy Golden Years"
+    },
+    "fp_201410A8": {
+        "book_name": "The Magician's Nephew"
+    },
+    "fp_20190914": {
+        "book_name": "The Mystery of the Secret Room"
+    },
+    "fp_20180107": {
+        "book_name": "Swallows and Amazons"
+    },
+    "fp_20190808": {
+        "book_name": "The Mystery of the Disappearing Cat"
+    },
+    "fp_20200112": {
+        "book_name": "The Naughtiest Girl in the School"
+    },
+    "fp_20100114": {
+        "book_name": "Busman's Honeymoon"
+    },
+    "fp_20120735": {
+        "book_name": "The Adventures of Sam Spade and other stories"
+    },
+    "fp_20200807": {
+        "book_name": "On the Banks of Plum Creek"
+    },
+    "fp_20190228": {
+        "book_name": "Five Go Adventuring Again"
+    },
+    "fp_20150715": {
+        "book_name": "The Stranger"
+    },
+    "fp_20210270": {
+        "book_name": "The Magic Faraway Tree"
+    },
+    "fp_20150520": {
+        "book_name": "Trouble is My Business"
+    },
+    "fp_20171032": {
+        "book_name": "The Razor's Edge"
+    },
+    "fp_201410B0": {
+        "book_name": "The Silver Chair"
+    },
+    "fp_20221144": {
+        "book_name": "Maurice"
+    },
+    "fp_20201037": {
+        "book_name": "Little Town on the Prairie"
+    },
+    "fp_20181187": {
+        "book_name": "The Good Shepherd"
+    },
+    "fp_20200415": {
+        "book_name": "Little House on the Prairie"
+    },
+    "fp_20170216": {
+        "book_name": "Dust Tracks on a Road"
+    },
+    "fp_20111202": {
+        "book_name": "A Treasury of Sayers Stories"
+    },
+    "fp_201410A7": {
+        "book_name": "The Last Battle"
+    },
+    "fp_20140212": {
+        "book_name": "The Unpleasantness at the Bellona Club"
+    },
+    "fp_20200328": {
+        "book_name": "The Doors of Perception"
+    },
+    "fp_20201147": {
+        "book_name": "The Secret of the Old Clock"
+    },
+    "fp_20200811": {
+        "book_name": "By the Shores of Silver Lake"
+    },
+    "fp_20170206": {
+        "book_name": "Mr. Midshipman Hornblower"
+    },
+    "fp_20090801": {
+        "book_name": "Murder Must Advertise"
+    },
+    "fp_20131206": {
+        "book_name": "The Five Red Herrings"
+    },
+    "fp_20150909": {
+        "book_name": "The Devils of Loudun"
+    },
+    "fp_201410B1": {
+        "book_name": "The Horse and his Boy"
+    },
+    "fp_20141201": {
+        "book_name": "Perelandra"
+    },
+    "fp_20191065": {
+        "book_name": "The Hidden Staircase"
+    },
+    "fp_20181178": {
+        "book_name": "The Well of Loneliness"
+    },
+    "fp_20160824": {
+        "book_name": "The Painted Veil"
+    },
+    "fp_20081011": {
+        "book_name": "Clouds of Witness"
+    },
+    "fp_20150633": {
+        "book_name": "The Once and Future King"
+    },
+    "fp_20160920": {
+        "book_name": "Gone with the Wind"
+    },
+    "fp_20130218": {
+        "book_name": "The Lady in the Lake"
+    },
+    "fp_20170713": {
+        "book_name": "Beat to Quarters"
+    },
+    "fp_20171008": {
+        "book_name": "Ship of the Line"
+    },
+    "fp_20120907": {
+        "book_name": "Strong Poison"
+    },
+    "fp_20131017": {
+        "book_name": "My Life and Hard Times"
+    },
+    "fp_20150563": {
+        "book_name": "The Little Sister"
+    },
+    "fp_20121145": {
+        "book_name": "The High Window"
+    },
+    "fp_20160905": {
+        "book_name": "Alas, Babylon"
+    },
+    "fp_20080401": {
+        "book_name": "Whose Body?"
+    },
+    "fp_20190176": {
+        "book_name": "Brideshead Revisited: The Sacred and Profane Memories of Captain Charles Ryder."
+    },
+    "fp_20140307": {
+        "book_name": "Miss Pickerell Goes to Mars"
+    },
+    "fp_20171128": {
+        "book_name": "Commodore Hornblower"
+    },
+    "fp_20171102": {
+        "book_name": "Flying Colours"
+    },
+    "fp_20151002": {
+        "book_name": "Silent Spring"
+    },
+    "fp_20160117": {
+        "book_name": "Men without Women"
+    },
+    "fp_20131111": {
+        "book_name": "The Daughter of Time"
+    },
+    "fp_20140339": {
+        "book_name": "Grey Mask"
+    },
+    "fp_20161110": {
+        "book_name": "The violent bear it away"
+    },
+    "fp_20131009": {
+        "book_name": "The Haunted Policeman"
+    },
+    "fp_20181241": {
+        "book_name": "Unnatural Death"
+    },
+    "fp_20170222": {
+        "book_name": "The Glass Key"
+    },
+    "fp_20181044": {
+        "book_name": "Homage to Catalonia"
+    },
+    "fp_20171228": {
+        "book_name": "Admiral Hornblower in the West Indies"
+    },
+    "fp_20170524": {
+        "book_name": "Hornblower and the Hotspur"
+    },
+    "fp_20140873": {
+        "book_name": "Wealth, Virtual Wealth and Debt: The Solution of the Economic Paradox"
+    },
+    "fp_20100608": {
+        "book_name": "Anne of Windy Poplars"
+    },
+    "fp_20120938": {
+        "book_name": "The King of Elfland's Daughter"
+    },
+    "fp_20170345": {
+        "book_name": "Under the Volcano"
+    },
+    "fp_20181195": {
+        "book_name": "Death Comes for the Archbishop"
+    },
+    "fp_20190624": {
+        "book_name": "Light in August"
+    },
+    "fp_20181181": {
+        "book_name": "The Great Gatsby"
+    },
+    "fp_20190739": {
+        "book_name": "Tender is the Night"
+    },
+    "fp_20140712": {
+        "book_name": "Some do not..."
+    },
+    "fp_20221257": {
+        "book_name": "Point Counter Point"
+    },
+    "fp_20180126": {
+        "book_name": "Finnegans Wake"
+    },
+    "fp_20181223": {
+        "book_name": "Ulysses"
+    },
+    "fp_20211230": {
+        "book_name": "Main Street"
+    },
+    "fp_20190606": {
+        "book_name": "A Handful of Dust"
+    },
+    "fp_20190340": {
+        "book_name": "Scoop"
+    },
+    "fp_20200149": {
+        "book_name": "The Day of the Locust"
+    },
+    "fp_20160518": {
+        "book_name": "The Age of Innocence"
+    },
+    "fp_20190356": {
+        "book_name": "To the Lighthouse"
+    },
+    "fp_20210130": {
+        "book_name": "Early Autumn"
+    },
+    "fp_20220232": {
+        "book_name": "One of Ours"
+    },
+    "fp_20231202": {
+        "book_name": "Honey in the Horn"
+    },
+    "fp_20181052": {
+        "book_name": "The Reivers"
+    },
+    "fp_20190481": {
+        "book_name": "So Big"
+    },
+    "fp_20220864": {
+        "book_name": "Profiles in Courage"
+    },
+    "fp_20150210": {
+        "book_name": "Arrowsmith"
+    },
+    "fp_20220269": {
+        "book_name": "The Late George Apley"
+    },
+    "fp_20210440": {
+        "book_name": "Scarlet Sister Mary"
+    },
+    "fp_20171116": {
+        "book_name": "The Yearling"
+    },
+    "fp_20210861": {
+        "book_name": "Dragon's Teeth"
+    },
+    "fp_20180625": {
+        "book_name": "The Thirty-Nine Steps"
+    },
+    "fp_20200350": {
+        "book_name": "At Swim-two-birds"
+    },
+    "fp_20180878": {
+        "book_name": "The Road to Wigan Pier"
+    },
+    "fp_20161131": {
+        "book_name": "The Road to Oxiana"
+    },
+    "fp_20160543": {
+        "book_name": "My Early Life. A Roving Commission."
+    },
+    "fp_20171208": {
+        "book_name": "Life on the Mississippi"
+    },
+    "fp_201410N3": {
+        "book_name": "A Room of One's Own"
+    },
+    "46": {
+        "book_name": "A Christmas Carol in Prose"
+    },
+    "145": {
+        "book_name": "Middlemarch"
+    },
+    "2641": {
+        "book_name": "A Room with a View"
+    },
+    "37106": {
+        "book_name": "Little Women"
+    },
+    "67979": {
+        "book_name": "The Blue Castle"
+    },
+    "16389": {
+        "book_name": "The Enchanted April"
+    },
+    "11": {
+        "book_name": "Alice's Adventures in Wonderland"
+    },
+    "6761": {
+        "book_name": "The Adventures of Ferdinand Count Fathom"
+    },
+    "394": {
+        "book_name": "Cranford"
+    },
+    "6593": {
+        "book_name": "History of Tom Jones, a Foundling"
+    },
+    "1257": {
+        "book_name": "The three musketeers"
+    },
+    "1259": {
+        "book_name": "Twenty years after"
+    },
+    "2609": {
+        "book_name": "The Vicomte de Bragelonne"
+    },
+    "2681": {
+        "book_name": "Ten Years Later"
+    },
+    "2710": {
+        "book_name": "Louise de la Valliere"
+    },
+    "2759": {
+        "book_name": "The Man in the Iron Mask"
+    },
+    "1184": {
+        "book_name": "The Count of Monte Cristo"
+    },
+    "174": {
+        "book_name": "The Picture of Dorian Gray"
+    },
+    "345": {
+        "book_name": "Dracula"
+    },
+    "2554": {
+        "book_name": "Crime and Punishment"
+    },
+    "25344": {
+        "book_name": "The Scarlet Letter"
+    },
+    "5200": {
+        "book_name": "Metamorphosis"
+    },
+    "7849": {
+        "book_name": "The Trial"
+    },
+    "43": {
+        "book_name": "The Strange Case of Dr. Jekyll and Mr. Hyde"
+    },
+    "120": {
+        "book_name": "Treasure Island"
+    },
+    "421": {
+        "book_name": "Kidnapped"
+    },
+    "98": {
+        "book_name": "A Tale of Two Cities"
+    },
+    "1400": {
+        "book_name": "Great Expectations"
+    },
+    "730": {
+        "book_name": "Oliver Twist"
+    },
+    "766": {
+        "book_name": "David Copperfield"
+    },
+    "74": {
+        "book_name": "The Adventures of Tom Sawyer"
+    },
+    "76": {
+        "book_name": "Adventures of Huckleberry Finn"
+    },
+    "1837": {
+        "book_name": "The Prince and the Pauper"
+    },
+    "3176": {
+        "book_name": "The Innocents Abroad"
+    },
+    "86": {
+        "book_name": "A Connecticut Yankee in King Arthur's Court"
+    },
+    "28054": {
+        "book_name": "The Brothers Karamazov"
+    },
+    "600": {
+        "book_name": "Notes from the Underground"
+    },
+    "2638": {
+        "book_name": "The Idiot"
+    },
+    "8117": {
+        "book_name": "The possessed : or, The devils"
+    },
+    "1661": {
+        "book_name": "The Adventures of Sherlock Holmes"
+    },
+    "2097": {
+        "book_name": "The Sign of the Four"
+    },
+    "834": {
+        "book_name": "The Memoirs of Sherlock Holmes"
+    },
+    "108": {
+        "book_name": "The Return of Sherlock Holmes"
+    },
+    "3289": {
+        "book_name": "The Valley of Fear"
+    },
+    "2350": {
+        "book_name": "His Last Bow: An Epilogue of Sherlock Holmes"
+    },
+    "139": {
+        "book_name": "The Lost World"
+    },
+    "996": {
+        "book_name": "Don Quixote"
+    },
+    "1998": {
+        "book_name": "Thus Spake Zarathustra: A Book for All and None"
+    },
+    "2600": {
+        "book_name": "War and Peace"
+    },
+    "1399": {
+        "book_name": "Anna Karenina"
+    },
+    "1260": {
+        "book_name": "Jane Eyre: An Autobiography"
+    },
+    "1952": {
+        "book_name": "The Yellow Wallpaper"
+    },
+    "2591": {
+        "book_name": "Grimms' Fairy Tales"
+    },
+    "55": {
+        "book_name": "The Wonderful Wizard of Oz"
+    },
+    "1232": {
+        "book_name": "The Prince"
+    },
+    "3207": {
+        "book_name": "Leviathan"
+    },
+    "45": {
+        "book_name": "Anne of Green Gables"
+    },
+    "4363": {
+        "book_name": "Beyond Good and Evil"
+    },
+    "768": {
+        "book_name": "Wuthering Heights"
+    },
+    "219": {
+        "book_name": "Heart of Darkness"
+    },
+    "135": {
+        "book_name": "Les Mis\u00e9rables"
+    },
+    "2610": {
+        "book_name": "Notre-Dame de Paris"
+    },
+    "16": {
+        "book_name": "Peter Pan"
+    },
+    "164": {
+        "book_name": "Twenty Thousand Leagues under the Sea"
+    },
+    "103": {
+        "book_name": "Around the World in Eighty Days"
+    },
+    "18857": {
+        "book_name": "A Journey to the Centre of the Earth"
+    },
+    "1268": {
+        "book_name": "The Mysterious Island"
+    },
+    "83": {
+        "book_name": "From the Earth to the Moon; and, Round the Moon"
+    },
+    "2083": {
+        "book_name": "In Search of the Castaways; Or, The Children of Captain Grant"
+    },
+    "3526": {
+        "book_name": "Five Weeks in a Balloon"
+    },
+    "12051": {
+        "book_name": "Dick Sand: A Captain at Fifteen"
+    },
+    "36": {
+        "book_name": "The War of the Worlds"
+    },
+    "35": {
+        "book_name": "The Time Machine"
+    },
+    "159": {
+        "book_name": "The island of Doctor Moreau"
+    },
+    "5230": {
+        "book_name": "The Invisible Man: A Grotesque Romance"
+    },
+    "11870": {
+        "book_name": "The Country of the Blind, and Other Stories"
+    },
+    "12750": {
+        "book_name": "The Stolen Bacillus and Other Incidents"
+    },
+    "215": {
+        "book_name": "The call of the wild"
+    },
+    "910": {
+        "book_name": "White Fang"
+    },
+    "1056": {
+        "book_name": "Martin Eden"
+    },
+    "1074": {
+        "book_name": "The Sea-Wolf"
+    },
+    "1164": {
+        "book_name": "The iron heel"
+    },
+    "21970": {
+        "book_name": "The Scarlet Plague"
+    },
+    "1449": {
+        "book_name": "The Valley of the Moon"
+    },
+    "5737": {
+        "book_name": "Smoke Bellew"
+    },
+    "69087": {
+        "book_name": "The murder of Roger Ackroyd"
+    },
+    "863": {
+        "book_name": "The Mysterious Affair at Styles"
+    },
+    "58866": {
+        "book_name": "The Murder on the Links"
+    },
+    "72824": {
+        "book_name": "The mystery of the Blue Train"
+    },
+    "1155": {
+        "book_name": "The Secret Adversary"
+    },
+    "61168": {
+        "book_name": "The Man in the Brown Suit"
+    },
+    "70114": {
+        "book_name": "The Big Four"
+    },
+    "65238": {
+        "book_name": "The Secret of Chimneys"
+    },
+    "158": {
+        "book_name": "Emma"
+    },
+    "161": {
+        "book_name": "Sense and Sensibility"
+    },
+    "105": {
+        "book_name": "Persuasion"
+    },
+    "121": {
+        "book_name": "Northanger Abbey"
+    },
+    "141": {
+        "book_name": "Mansfield Park"
+    }
+}
