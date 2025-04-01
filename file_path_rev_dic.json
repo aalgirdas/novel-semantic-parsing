@@ -29,6 +29,9 @@
     "fp_20150804": {
         "book_name": "Moonraker"
     },
+    "fp_20170328": {
+        "book_name": "Diamonds are Forever"
+    },
     "fp_20160104": {
         "book_name": "From Russia With Love"
     },
@@ -829,5 +832,8 @@
     },
     "141": {
         "book_name": "Mansfield Park"
+    },
+    "1237": {
+        "book_name": "Father Goriot"
     }
 }

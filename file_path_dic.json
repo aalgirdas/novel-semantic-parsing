@@ -14,7 +14,12 @@
     },
     "The Hound of the Baskervilles": {
         "book_code": "2852",
-        "chapter_regex": "Chapter (\\d+)\\."
+        "chapter_regex": "Chapter (\\d+)\\.",
+        "word_table_date": {
+            "year": 2025,
+            "month": 3,
+            "day": 18
+        }
     },
     "Pride and Prejudice": {
         "book_code": "42671",
@@ -79,8 +84,8 @@
     },
     "Diamonds are Forever": {
         "useWget": true,
-        "wgetURL": "https://www.fadedpage.com/books/20160104/20160104.txt",
-        "book_code": "fp_20160104",
+        "wgetURL": "https://www.fadedpage.com/books/20170328/20170328.txt",
+        "book_code": "fp_20170328",
         "chapter_regex": "^(\\d+) .*[A-Z] [A-Z].*",
         "start_line": "The Plan",
         "end_line": "TRANSCRIBER NOTES",
@@ -1565,7 +1570,12 @@
         "chapter_regex": "^CHAPTER [IVXLC]+$",
         "start_line": "when loaded in a specified way",
         "end_line": "TRANSCRIBER NOTES",
-        "file_path": "file:///content/20170524.txt"
+        "file_path": "file:///content/20170524.txt",
+        "word_table_date": {
+            "year": 2025,
+            "month": 3,
+            "day": 22
+        }
     },
     "Wealth, Virtual Wealth and Debt: The Solution of the Economic Paradox": {
         "useWget": true,
@@ -2495,5 +2505,11 @@
         "chapter_regex": "^CHAPTER [IVXLC]+$",
         "start_line": "CHAPTER XLVIII",
         "end_line": "FINIS."
+    },
+    "Father Goriot": {
+        "book_code": "1237",
+        "chapter_regex": "FATHER GORIOT",
+        "start_line": "DE BALZAC.",
+        "end_line": "ADDENDUM"
     }
 }
