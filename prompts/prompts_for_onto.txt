@@ -1,0 +1,17 @@
+
+-------------------------------------------
+
+
+Imagine that you are a novel text critic and a semantic information analyst. Your goal is to create two taxonomic systems that will help classify sentences and paragraphs in a novel. The first system is for sentences that are not part of a dialogue, that is, a narrative, and the second system is to classify sentences that are dialogue sentences between characters in the book.
+
+It is very important to distinguish between these systems that they will be used to describe a scene in a film adaptation or a play or a game scene. That is, to distinguish objects and actions that are important to the scene and to distinguish sentences that cannot be directly depicted on the stage.
+The taxonomic system must be general enough, its elements must be suitable for both film adaptation and game or play creation, regardless of the type of work.
+
+Create these two taxonomic systems and submit the answer in JSON format. I will use JSON as part of the prompt for the LLM model, so make JSON as suitable as possible for such a prompt.
+
+The JSON for the LLM model prompt should have time description attributes, which should be filled in by the LLM model.
+
+-------------------------------------------
+
+
+
