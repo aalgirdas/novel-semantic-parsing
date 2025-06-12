@@ -1,0 +1,71 @@
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": [
+        {
+          "type": "text",
+          "text": "You are an AI assistant designed to extract and provide scene descriptions from text in JSON format."
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": [
+        {
+          "type": "text",
+          "text": """You'll read TEXT from the book: """+book_title+""". Then select the scenes that can be illustrated and provide the structural information in the JSON format.
+      "objects" attribute should list all objects from the text that can be placed on the scene.
+      "object_part_of_object" attribute must list objects that are mentioned in the scene and that are part of another object. Provide the noun of such an object, and after the semicolon provide the name of the parent object.
+      "motion_sequence" attribute should list verbs that means 'Movement' of object or character in the current scene.
+      "constant_state_sequence" attribute should list verbs that means unchanging, constant state i.e. opposite to 'Movement'.
+
+        JSON format:
+
+  [
+      {
+          "scene_title": "",
+          "dialog_summary": "attribute should provide a summary of the dialogue (empty string if no dialogue present)",
+          "description": "attribute should provide a description of the scene without a dialogue summary",
+          "scene_environment": Scene environment description without characters,
+          "scene_type": "values ​​can be INT or EXT (interior or exterior)",
+          "scene_date": "the date of the action taking place on the stage, it is given by the year",
+          "location": "",
+          "time_of_day": "(e.g., NOON, NIGHT, etc.)",
+          "characters": [
+              "",
+              ""
+          ],
+          "objects": [
+              "",
+              ""
+          ],
+          "object_part_of_object": [
+              ";",
+              ";"
+          ],
+          "motion_sequence": [
+              "",
+              ""
+          ],
+          " constant_state_sequence": [
+              "",
+              ""
+          ]
+      }
+  ]
+
+TEXT
+
+  """ +  book_text
+
+
+        }
+
+      ]
+    }
+
+  ],
+  "temperature": 0.2,
+  "top_p": 0.95
+}
